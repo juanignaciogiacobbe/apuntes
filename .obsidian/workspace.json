@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7f56376c53cf379",
+            "id": "2ed841d01f9f9d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Pitch Deck.md",
+                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dd005499c6196eb2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Pitch Deck.md",
+                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Pitch Deck.md",
+                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Pitch Deck.md"
+                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md"
               }
             }
           }
@@ -146,17 +147,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f56376c53cf379",
+  "active": "2ed841d01f9f9d47",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Empresa de Base Tecnológica II/05-Innovación.md",
+    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924231850.png",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924231740.png",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924231506.png",
+    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
+    "Empresa de Base Tecnológica II/04-Matriz FODA.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924230903.png",
+    "Empresa de Base Tecnológica II/03-Cruz de Porter.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924230510.png",
+    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924230149.png",
+    "Empresa de Base Tecnológica II/Pitch Deck.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240924225708.png",
     "Empresa de Base Tecnológica II/Modelo y Plan de Negocio.md",
     "Empresa de Base Tecnológica II/Lean Startup.md",
-    "Empresa de Base Tecnológica II/Pitch Deck.md",
     "Empresa de Base Tecnológica II/img/Pasted image 20240924162854.png",
     "Empresa de Base Tecnológica II/img/Pasted image 20240924162722.png",
     "Empresa de Base Tecnológica II/img",
     "Empresa de Base Tecnológica II/img/Pasted image 20240924162433.png",
     "Untitled.canvas",
-    "Welcome.md",
     "Empresa de Base Tecnológica II"
   ]
 }
