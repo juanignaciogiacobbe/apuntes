@@ -1,0 +1,11 @@
+# Fundamentals
+- [01-What is Terraform](01-What%20is%20Terraform.md)
+- [02-Terraform CLI](02-Terraform%20CLI.md)
+- [03-Terraform Language](03-Terraform%20Language.md)
+- [04-Working with Resources](04-Working%20with%20Resources.md)
+- [05-Meta-Arguments](05-Meta-Arguments.md)
+- [06-How Configuration is Applied](06-How%20Configuration%20is%20Applied.md)
+- [07-Resource Behavior](07-Resource%20Behavior.md)
+- [08-Input Variables](08-Input%20Variables.md)
+- [09-Output Variables](09-Output%20Variables.md)
+- [10-Local Variables](10-Local%20Variables.md)

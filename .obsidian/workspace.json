@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92af7eadc4dc5aa1",
+        "id": "53677c3f5c814da8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ed841d01f9f9d47",
+            "id": "7d82e6ab7138f682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+                "file": "CompTIA Linux + XK0-OO4/CompTIA Linux + XK0-004.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd005499c6196eb2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+                "file": "CompTIA Linux + XK0-OO4/CompTIA Linux + XK0-004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+                "file": "CompTIA Linux + XK0-OO4/CompTIA Linux + XK0-004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md"
+                "file": "CompTIA Linux + XK0-OO4/CompTIA Linux + XK0-004.md"
               }
             }
           }
@@ -147,30 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ed841d01f9f9d47",
+  "active": "7d82e6ab7138f682",
   "lastOpenFiles": [
+    "CompTIA Linux + XK0-OO4/01-Linux Boot Process/Linux Boot Process.md",
+    "CompTIA Linux + XK0-OO4/Basic Bash Scripts/01-Shell Environments and Variables.md",
+    "CompTIA Linux + XK0-OO4/Basic Bash Scripts/Basic Bash Scripts.md",
+    "CompTIA Linux + XK0-OO4/Git/Git.md",
+    "CompTIA Linux + XK0-OO4/Basic Bash Scripts",
+    "CompTIA Linux + XK0-OO4/01-Linux Boot Process/03-GRUB2.md",
+    "CompTIA Linux + XK0-OO4/Git",
+    "CompTIA Linux + XK0-OO4/01-Linux Boot Process/02-Legacy GRUB.md",
+    "CompTIA Linux + XK0-OO4/img/Pasted image 20240925120818.png",
+    "Terraform Fundamentals/Terraform Fundamentals.md",
+    "CompTIA Linux + XK0-OO4/01-Linux Boot Process/01-The Linux Boot Process(Simplified).md",
+    "CompTIA Linux + XK0-OO4/img",
+    "CompTIA Linux + XK0-OO4/img/Pasted image 20240925113423.png",
+    "CompTIA Linux + XK0-OO4/CompTIA Linux + XK0-004.md",
+    "CompTIA Linux + XK0-OO4/01-Linux Boot Process",
+    "CompTIA Linux + XK0-OO4",
+    "Terraform Fundamentals/01-Fundamentals/Fundamentals.md",
+    "Terraform Fundamentals/01-Fundamentals/10-Local Variables.md",
+    "Terraform Fundamentals/img/Pasted image 20240925111329.png",
+    "Terraform Fundamentals/01-Fundamentals/09-Output Variables.md",
+    "Terraform Fundamentals/img/Pasted image 20240925111125.png",
+    "Terraform Fundamentals/01-Fundamentals/08-Input Variables.md",
+    "Terraform Fundamentals/img/Pasted image 20240925110724.png",
+    "Terraform Fundamentals/img/Pasted image 20240925110423.png",
+    "Terraform Fundamentals/Fundamentals/Untitled",
+    "Terraform Fundamentals/01-Fundamentals/07-Resource Behavior.md",
+    "Terraform Fundamentals/01-Fundamentals/06-How Configuration is Applied.md",
+    "Terraform Fundamentals/01-Fundamentals/05-Meta-Arguments.md",
+    "Terraform Fundamentals/01-Fundamentals/04-Working with Resources.md",
+    "Terraform Fundamentals/01-Fundamentals/03-Terraform Language.md",
+    "Terraform Fundamentals/01-Fundamentals/02-Terraform CLI.md",
+    "Terraform Fundamentals/01-Fundamentals/01-What is Terraform.md",
+    "Terraform Fundamentals/img/Pasted image 20240925105429.png",
+    "Terraform Fundamentals/img/Pasted image 20240925105346.png",
+    "Terraform Fundamentals/img/Pasted image 20240925105312.png",
+    "Terraform Fundamentals/img/Pasted image 20240925105118.png",
+    "Terraform Fundamentals/01-Fundamentals",
+    "Terraform Fundamentals/img",
+    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+    "Terraform Fundamentals",
     "Welcome.md",
     "Empresa de Base Tecnológica II/05-Innovación.md",
-    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924231850.png",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924231740.png",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924231506.png",
     "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
     "Empresa de Base Tecnológica II/04-Matriz FODA.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924230903.png",
     "Empresa de Base Tecnológica II/03-Cruz de Porter.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924230510.png",
-    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924230149.png",
-    "Empresa de Base Tecnológica II/Pitch Deck.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924225708.png",
-    "Empresa de Base Tecnológica II/Modelo y Plan de Negocio.md",
-    "Empresa de Base Tecnológica II/Lean Startup.md",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924162854.png",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924162722.png",
     "Empresa de Base Tecnológica II/img",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240924162433.png",
-    "Untitled.canvas",
-    "Empresa de Base Tecnológica II"
+    "Untitled.canvas"
   ]
 }
