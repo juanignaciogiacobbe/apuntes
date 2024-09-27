@@ -9,6 +9,7 @@
 - Expone recursos(URIs)
 - Usa explicitamente los verbos HTTP.
 - Navegable.
+- [REST-Security](Ingeniería%20de%20Software%20I/REST-Security.md)
 
 
 > [!WARNING] Stateless
@@ -67,3 +68,29 @@
 - 5XX: Server Error.
 
 ![](../img/Pasted%20image%2020240927084517.png)
+
+
+> [!IMPORTANT] Versionado
+> REST no provee un mecanismo definido para versionado, pero se suelen ver estas estrategias:
+
+![](img/Pasted%20image%2020240927160552.png)
+
+
+
+> [!WARNING] Respuestas
+> - Mantener los mas estandarizadas a las mismas.
+> - Reducir el tamaño de la respuesta a lo necesario.
+> - Utilizar Códigos de Errores HTTP.
+
+![](img/Pasted%20image%2020240927160737.png)
+
+
+> [!info] Paginados, Filtros y Ordenamientos
+> Suelen usarse como parámetros del queryString o del body.
+
+![](img/Pasted%20image%2020240927161007.png)
+
+
+> [!NOTE] Logging, Health, Metrics
+> Tener logs, métricas y puntos de control ayudan a detectar los problemas antes de que realmente lleguen. 
+> Se suelen agregar endpoints para verificar o monitorear que la API está viva, y obtener datos de uso de memoria, etc.
