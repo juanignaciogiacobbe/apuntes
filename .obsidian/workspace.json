@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
+                "file": "Ingeniería de Software I/REST-Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
+                "file": "Ingeniería de Software I/REST-Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
+                "file": "Ingeniería de Software I/REST-Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md"
+                "file": "Ingeniería de Software I/REST-Security.md"
               }
             }
           }
@@ -148,8 +148,28 @@
   },
   "active": "44d52fc5f0f41e8b",
   "lastOpenFiles": [
-    "CompTIA Linux + XK0-OO4/Orchestation/02-Agent VS Agentless.md",
+    "Ingeniería de Software I/REST.md",
+    "Ingeniería de Software I/REST-Security.md",
+    "img/Pasted image 20240927084517.png",
+    "img/Pasted image 20240927084054.png",
+    "img/Pasted image 20240927083809.png",
+    "img/Pasted image 20240927083631.png",
+    "Ingeniería de Software I/Kata.md",
+    "Ingeniería de Software I/Modelo de Vistas de Arquitectura 4 + 1.md",
+    "img/Pasted image 20240927082544.png",
+    "Ingeniería de Software I/Refactoring.md",
+    "Ingeniería de Software I/Ingeniería de Software I.md",
+    "Ingeniería de Software I/Atributos de Calidad.md",
+    "Ingeniería de Software I/07-Historias de Usuario.md",
+    "Ingeniería de Software I/06-Product Discovery.md",
+    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
+    "Ingeniería de Software I/04-SOLID.md",
+    "Ingeniería de Software I/03-Diseño de Código.md",
+    "Ingeniería de Software I/02-Design Thinking.md",
+    "Ingeniería de Software I/01-Entendiendo el Problema.md",
+    "Ingeniería de Software I/Pasted image 20240927082502.png",
     "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
+    "CompTIA Linux + XK0-OO4/Orchestation/02-Agent VS Agentless.md",
     "CompTIA Linux + XK0-OO4/Orchestation/01-Central Configuration Overview.md",
     "CompTIA Linux + XK0-OO4/img/Pasted image 20240926110444.png",
     "CompTIA Linux + XK0-OO4/Orchestation/Orchestation.md",
@@ -166,27 +186,7 @@
     "Terraform Fundamentals/img/Pasted image 20240926100042.png",
     "Terraform Fundamentals/01-Fundamentals/15-Working with State.md",
     "Terraform Fundamentals/01-Fundamentals/14-Backend Configuration.md",
-    "Terraform Fundamentals/01-Fundamentals/13-Using Expressions and Functions.md",
-    "Terraform Fundamentals/01-Fundamentals/12-Module Sources.md",
-    "Terraform Fundamentals/01-Fundamentals/11-Modules.md",
-    "Terraform Fundamentals/img/Pasted image 20240926090025.png",
-    "Terraform Fundamentals/img/Pasted image 20240926085716.png",
-    "Terraform Fundamentals/01-Fundamentals/09-Output Variables.md",
-    "Terraform Fundamentals/01-Fundamentals/05-Meta-Arguments.md",
-    "Terraform Fundamentals/01-Fundamentals/06-How Configuration is Applied.md",
-    "Terraform Fundamentals/img/Pasted image 20240926084847.png",
-    "Terraform Fundamentals/01-Fundamentals/10-Local Variables.md",
-    "Ingeniería de Software I/Modelo de Vistas de Arquitectura 4 + 1.md",
-    "Ingeniería de Software I/img/Pasted image 20240925163648.png",
-    "Ingeniería de Software I/Atributos de Calidad.md",
-    "Ingeniería de Software I/img/Pasted image 20240925161501.png",
-    "Ingeniería de Software I/img/Pasted image 20240925161316.png",
-    "Ingeniería de Software I/07-Historias de Usuario.md",
-    "Ingeniería de Software I/Single Responsibility Principle.md",
-    "Ingeniería de Software I/06-Product Discovery.md",
-    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
-    "Ingeniería de Software I/04-SOLID.md",
-    "Ingeniería de Software I/img",
+    "img",
     "Ingeniería de Software I",
     "CompTIA Linux + XK0-OO4/Basic Bash Scripts",
     "CompTIA Linux + XK0-OO4/Git",
