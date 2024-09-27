@@ -1,4 +1,3 @@
-
 > [!IMPORTANT] Arquitectura de Software
 > Estructura o las estructuras de un sistema, que consta de componentes de software, las propiedades visibles externamente y las relaciones entre ellas.
 > "Son aquellas decisiones que son importantes y difíciles de cambiar".
@@ -15,7 +14,7 @@
 - Permite a nuevos integrantes del equipo entender la arquitectura del sistema y ubicarse dentro de la solución.
 - Permite discutir con todos los stakeholders las distintas decisiones y validarlas en una etapa temprana.
 
-![](img/Pasted%20image%2020240925163648.png)
+![](../img/Pasted%20image%2020240925163648.png)
 
 
 > [!IMPORTANT] Vista Lógica

@@ -18,13 +18,13 @@ para <objetivo>
 
 ## User Story Mapping
 
-![](img/Pasted%20image%2020240925161018.png)
+![](../img/Pasted%20image%2020240925161018.png)
 
 ### Impact Mapping
 
-![](img/Pasted%20image%2020240925161028.png)
+![](../img/Pasted%20image%2020240925161028.png)
 ## Framework Quality User Story
-![](img/Pasted%20image%2020240925160056.png)
+![](../img/Pasted%20image%2020240925160056.png)
 
 
 > [!IMPORTANT] Épicas
@@ -32,7 +32,7 @@ para <objetivo>
 > Deseamos subdividir las épicas hasta llegar a tareas de tamaño razonable.
 
 
-![](img/Pasted%20image%2020240925160334.png)
+![](../img/Pasted%20image%2020240925160334.png)
 
 
 > [!IMPORTANT] 3 Cs(Card, Conversation, Confirmation)
@@ -47,7 +47,7 @@ para <objetivo>
 
 ## Behaviour Driven Development
 
-![](img/Pasted%20image%2020240925160701.png)
+![](../img/Pasted%20image%2020240925160701.png)
 
 > [!IMPORTANT] Casos de Uso
 > Descripción de una serie de acciones realizadas por un sistema que generan un resultado observable de valor para un actor en particular.
