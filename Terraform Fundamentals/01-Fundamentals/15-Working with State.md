@@ -1,4 +1,3 @@
-
 > [!IMPORTANT] State
 > Is a requirement for Terraform to function properly.
 > Terraform requires some sort of database to map Terraform configuration to the real world.

@@ -1,5 +1,6 @@
 # Terraform Fundamentals
 - [Fundamentals](01-Fundamentals/Fundamentals.md)
+- [Terraform Cloud](Terraform%20Fundamentals/02-Terraform%20Cloud/Terraform%20Cloud.md)
 
 ## Links útiles
 - [Terraform Documentation](https://developer.hashicorp.com/terraform/intro)
