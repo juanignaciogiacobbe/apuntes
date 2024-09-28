@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b6ffeb2c647b650",
+            "id": "44d52fc5f0f41e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Ingeniería de Software I/04-SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Ingeniería de Software I/04-SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Ingeniería de Software I/04-SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software I/Ingeniería de Software I.md"
+                "file": "Ingeniería de Software I/04-SOLID.md"
               }
             }
           }
@@ -146,45 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b6ffeb2c647b650",
+  "active": "44d52fc5f0f41e8b",
   "lastOpenFiles": [
+    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
+    "Ingeniería de Software I/04-SOLID.md",
+    "img/Pasted image 20240928110953.png",
+    "img/Pasted image 20240928110933.png",
+    "img/Pasted image 20240928110838.png",
+    "img/Pasted image 20240928110759.png",
+    "Ingeniería de Software I/10-Modelo de Dominio.md",
+    "img/Pasted image 20240928105251.png",
     "Ingeniería de Software I/08-UML.md",
-    "Ingeniería de Software I/REST.md",
+    "img/Pasted image 20240928105016.png",
+    "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
+    "img/Pasted image 20240928104339.png",
+    "Ingeniería de Software I/REST-Security.md",
     "img/Pasted image 20240927161007.png",
     "img/Pasted image 20240927160737.png",
     "img/Pasted image 20240927160552.png",
-    "Ingeniería de Software I/REST-Security.md",
-    "img/Pasted image 20240927160235.png",
-    "img/Pasted image 20240927160053.png",
-    "img/Pasted image 20240927155929.png",
-    "Ingeniería de Software I/Pasted image 20240927155859.png",
-    "img/Pasted image 20240927155816.png",
-    "img/Pasted image 20240927155547.png",
-    "Ingeniería de Software I/Pasted image 20240927155810.png",
-    "Terraform Fundamentals/02-Terraform Cloud/05-Run States and Stages.md",
-    "Terraform Fundamentals/Terraform Fundamentals.md",
     "Terraform Fundamentals/02-Terraform Cloud/Terraform Cloud.md",
+    "Terraform Fundamentals/02-Terraform Cloud/05-Run States and Stages.md",
     "Terraform Fundamentals/02-Terraform Cloud/04-Runs in Terraform Cloud.md",
     "Terraform Fundamentals/02-Terraform Cloud/03-Workspaces in Terraform Cloud.md",
     "Terraform Fundamentals/02-Terraform Cloud/02-Integrations.md",
-    "Terraform Fundamentals/01-Fundamentals/15-Working with State.md",
-    "Terraform Fundamentals/01-Fundamentals/07-Resource Behavior.md",
-    "Terraform Fundamentals/01-Fundamentals/06-How Configuration is Applied.md",
-    "Terraform Fundamentals/01-Fundamentals/05-Meta-Arguments.md",
-    "Terraform Fundamentals/01-Fundamentals/04-Working with Resources.md",
     "Terraform Fundamentals/02-Terraform Cloud/01-Migrating Local Terraform.md",
     "Terraform Fundamentals/02-Terraform Cloud",
-    "Ingeniería de Software I/02-Design Thinking.md",
+    "Ingeniería de Software I/REST.md",
     "Ingeniería de Software I/Refactoring.md",
-    "Ingeniería de Software I/Modelo de Vistas de Arquitectura 4 + 1.md",
     "Ingeniería de Software I/Kata.md",
     "Ingeniería de Software I/Ingeniería de Software I.md",
-    "Ingeniería de Software I/Atributos de Calidad.md",
+    "Ingeniería de Software I/11-Atributos de Calidad.md",
     "Ingeniería de Software I/07-Historias de Usuario.md",
     "Ingeniería de Software I/06-Product Discovery.md",
     "Ingeniería de Software I/05-Ceremonias SCRUM.md",
-    "Ingeniería de Software I/04-SOLID.md",
     "Ingeniería de Software I/03-Diseño de Código.md",
+    "Ingeniería de Software I/02-Design Thinking.md",
+    "Ingeniería de Software I/01-Entendiendo el Problema.md",
+    "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
+    "CompTIA Linux + XK0-OO4/Orchestation/02-Agent VS Agentless.md",
     "CompTIA Linux + XK0-OO4/Orchestation",
     "CompTIA Linux + XK0-OO4/02-Kernel Modules",
     "img",
