@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b17a80eb8901073",
+        "id": "23c139e4f77b26e9",
         "type": "tabs",
         "children": [
           {
-            "id": "44d52fc5f0f41e8b",
+            "id": "b8bbb64d2b6704a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dd005499c6196eb2",
@@ -146,10 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44d52fc5f0f41e8b",
+  "active": "b8bbb64d2b6704a7",
   "lastOpenFiles": [
-    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "Ingeniería de Software I/04-SOLID.md",
+    "Ingeniería de Software I/14-REST-Security.md",
+    "Ingeniería de Software I/15-Kata.md",
+    "Ingeniería de Software I/16-Refactoring.md",
+    "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
+    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
+    "Empresa de Base Tecnológica II/07-Comercio Internacional.md",
+    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+    "Empresa de Base Tecnológica II/06-Contabilidad y Costos.md",
+    "Empresa de Base Tecnológica I/Contabilidad.md",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240928134839.png",
+    "Empresa de Base Tecnológica I/Inflación.md",
+    "Empresa de Base Tecnológica I",
+    "Empresa de Base Tecnológica II/img/Pasted image 20240928133856.png",
+    "Empresa de Base Tecnológica II/03-Cruz de Porter.md",
+    "Empresa de Base Tecnológica II/04-Matriz FODA.md",
+    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
+    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
+    "Ingeniería de Software I/Ingeniería de Software I.md",
+    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "img/Pasted image 20240928110953.png",
     "img/Pasted image 20240928110933.png",
     "img/Pasted image 20240928110838.png",
@@ -158,12 +177,8 @@
     "img/Pasted image 20240928105251.png",
     "Ingeniería de Software I/08-UML.md",
     "img/Pasted image 20240928105016.png",
-    "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
     "img/Pasted image 20240928104339.png",
-    "Ingeniería de Software I/REST-Security.md",
     "img/Pasted image 20240927161007.png",
-    "img/Pasted image 20240927160737.png",
-    "img/Pasted image 20240927160552.png",
     "Terraform Fundamentals/02-Terraform Cloud/Terraform Cloud.md",
     "Terraform Fundamentals/02-Terraform Cloud/05-Run States and Stages.md",
     "Terraform Fundamentals/02-Terraform Cloud/04-Runs in Terraform Cloud.md",
@@ -171,19 +186,7 @@
     "Terraform Fundamentals/02-Terraform Cloud/02-Integrations.md",
     "Terraform Fundamentals/02-Terraform Cloud/01-Migrating Local Terraform.md",
     "Terraform Fundamentals/02-Terraform Cloud",
-    "Ingeniería de Software I/REST.md",
-    "Ingeniería de Software I/Refactoring.md",
-    "Ingeniería de Software I/Kata.md",
-    "Ingeniería de Software I/Ingeniería de Software I.md",
-    "Ingeniería de Software I/11-Atributos de Calidad.md",
-    "Ingeniería de Software I/07-Historias de Usuario.md",
-    "Ingeniería de Software I/06-Product Discovery.md",
-    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
-    "Ingeniería de Software I/03-Diseño de Código.md",
-    "Ingeniería de Software I/02-Design Thinking.md",
-    "Ingeniería de Software I/01-Entendiendo el Problema.md",
-    "CompTIA Linux + XK0-OO4/Orchestation/03-Inventory.md",
-    "CompTIA Linux + XK0-OO4/Orchestation/02-Agent VS Agentless.md",
+    "Ingeniería de Software I/13-REST.md",
     "CompTIA Linux + XK0-OO4/Orchestation",
     "CompTIA Linux + XK0-OO4/02-Kernel Modules",
     "img",
@@ -192,7 +195,6 @@
     "CompTIA Linux + XK0-OO4/Git",
     "CompTIA Linux + XK0-OO4/img",
     "CompTIA Linux + XK0-OO4/01-Linux Boot Process",
-    "CompTIA Linux + XK0-OO4",
     "Untitled.canvas"
   ]
 }
