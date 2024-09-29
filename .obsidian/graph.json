@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Terraform Fundamentals\"  ",
       "color": {
         "a": 1,
         "rgb": 8017867
+      }
+    },
+    {
+      "query": "path:Redes  ",
+      "color": {
+        "a": 1,
+        "rgb": 7721471
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121396,
+  "scale": 0.3628873693012148,
   "close": true
 }

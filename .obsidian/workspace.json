@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "23c139e4f77b26e9",
+        "id": "6ff13d57bfdb20e9",
         "type": "tabs",
         "children": [
           {
-            "id": "b8bbb64d2b6704a7",
+            "id": "c05be4a5d79bc188",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8bbb64d2b6704a7",
+  "active": "c05be4a5d79bc188",
   "lastOpenFiles": [
-    "Ingeniería de Software I/04-SOLID.md",
+    "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/01-Introducción.md",
+    "Programación Concurrente/img",
+    "Programación Concurrente/Untitled.md",
+    "Programación Concurrente/img/Pasted image 20240929114224.png",
+    "Sistemas Operativos/Scheduler.md",
+    "Programación Concurrente",
+    "Redes/Chapter 1/04-Protocol Layers and their Service Models.md",
+    "Redes/Chapter 1/02-Protocols.md",
+    "Redes/Chapter 1/03-Delay, Loss and Throughput.md",
+    "Redes/Chapter 1/01-Internet.md",
+    "Redes/Chapter 2/03-Application Layer Protocols.md",
+    "Redes/Chapter 2/Chapter 2.md",
+    "Redes/Chapter 2/02-Processes Communicating.md",
+    "Redes/Chapter 1/Chapter 1.md",
+    "Sistemas Operativos/Proceso.md",
+    "Sistemas Operativos/Untitled",
+    "Sistemas Operativos",
+    "Redes/Chapter 2/01-Network Application Architectures.md",
+    "Redes/Redes.md",
+    "Redes/Chapter 2",
+    "Redes/Chapter 1",
+    "Redes",
+    "Ingeniería de Software I/07-Historias de Usuario.md",
     "Ingeniería de Software I/14-REST-Security.md",
+    "Ingeniería de Software I/04-SOLID.md",
     "Ingeniería de Software I/15-Kata.md",
     "Ingeniería de Software I/16-Refactoring.md",
     "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
@@ -158,43 +174,18 @@
     "Empresa de Base Tecnológica II/07-Comercio Internacional.md",
     "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
     "Empresa de Base Tecnológica II/06-Contabilidad y Costos.md",
-    "Empresa de Base Tecnológica I/Contabilidad.md",
     "Empresa de Base Tecnológica II/img/Pasted image 20240928134839.png",
-    "Empresa de Base Tecnológica I/Inflación.md",
     "Empresa de Base Tecnológica I",
     "Empresa de Base Tecnológica II/img/Pasted image 20240928133856.png",
-    "Empresa de Base Tecnológica II/03-Cruz de Porter.md",
-    "Empresa de Base Tecnológica II/04-Matriz FODA.md",
-    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
-    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
-    "Ingeniería de Software I/Ingeniería de Software I.md",
-    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "img/Pasted image 20240928110953.png",
     "img/Pasted image 20240928110933.png",
     "img/Pasted image 20240928110838.png",
     "img/Pasted image 20240928110759.png",
-    "Ingeniería de Software I/10-Modelo de Dominio.md",
     "img/Pasted image 20240928105251.png",
-    "Ingeniería de Software I/08-UML.md",
     "img/Pasted image 20240928105016.png",
     "img/Pasted image 20240928104339.png",
-    "img/Pasted image 20240927161007.png",
-    "Terraform Fundamentals/02-Terraform Cloud/Terraform Cloud.md",
-    "Terraform Fundamentals/02-Terraform Cloud/05-Run States and Stages.md",
-    "Terraform Fundamentals/02-Terraform Cloud/04-Runs in Terraform Cloud.md",
-    "Terraform Fundamentals/02-Terraform Cloud/03-Workspaces in Terraform Cloud.md",
-    "Terraform Fundamentals/02-Terraform Cloud/02-Integrations.md",
-    "Terraform Fundamentals/02-Terraform Cloud/01-Migrating Local Terraform.md",
     "Terraform Fundamentals/02-Terraform Cloud",
-    "Ingeniería de Software I/13-REST.md",
     "CompTIA Linux + XK0-OO4/Orchestation",
-    "CompTIA Linux + XK0-OO4/02-Kernel Modules",
-    "img",
-    "Ingeniería de Software I",
-    "CompTIA Linux + XK0-OO4/Basic Bash Scripts",
-    "CompTIA Linux + XK0-OO4/Git",
-    "CompTIA Linux + XK0-OO4/img",
-    "CompTIA Linux + XK0-OO4/01-Linux Boot Process",
     "Untitled.canvas"
   ]
 }
