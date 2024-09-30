@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6ff13d57bfdb20e9",
+        "id": "0168636062467d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c05be4a5d79bc188",
+            "id": "3b11c2e48610f127",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería de Software I/16-Refactoring.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd005499c6196eb2",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingeniería de Software I/16-Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingeniería de Software I/16-Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingeniería de Software I/16-Refactoring.md"
+              }
             }
           }
         ]
@@ -139,8 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c05be4a5d79bc188",
+  "active": "3b11c2e48610f127",
   "lastOpenFiles": [
+    "Ingeniería de Software I/13-REST.md",
+    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
+    "Ingeniería de Software I/11-Atributos de Calidad.md",
+    "Ingeniería de Software I/10-Modelo de Dominio.md",
+    "Ingeniería de Software I/07-Historias de Usuario.md",
+    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
+    "Ingeniería de Software I/04-SOLID.md",
+    "Ingeniería de Software I/03-Diseño de Código.md",
+    "Ingeniería de Software I/Ingeniería de Software I.md",
+    "Ingeniería de Software I/02-Design Thinking.md",
+    "Ingeniería de Software I/01-Entendiendo el Problema.md",
+    "Ingeniería de Software I/06-Product Discovery.md",
+    "CompTIA Linux + XK0-OO4/Secure Shell(SSH)/01-SSH Basics.md",
+    "CompTIA Linux + XK0-OO4/Secure Shell(SSH)/Secure Shell(SSH).md",
+    "CompTIA Linux + XK0-OO4/Context-Based Permissions/01-SELinux.md",
+    "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
+    "CompTIA Linux + XK0-OO4/Context-Based Permissions/Context-Based Permissions.md",
+    "CompTIA Linux + XK0-OO4/Context-Based Permissions",
     "Programación Concurrente/Programación Concurrente.md",
     "Programación Concurrente/01-Introducción.md",
     "Programación Concurrente/img",
@@ -154,26 +179,11 @@
     "Redes/Chapter 1/01-Internet.md",
     "Redes/Chapter 2/03-Application Layer Protocols.md",
     "Redes/Chapter 2/Chapter 2.md",
-    "Redes/Chapter 2/02-Processes Communicating.md",
-    "Redes/Chapter 1/Chapter 1.md",
-    "Sistemas Operativos/Proceso.md",
     "Sistemas Operativos/Untitled",
     "Sistemas Operativos",
-    "Redes/Chapter 2/01-Network Application Architectures.md",
-    "Redes/Redes.md",
     "Redes/Chapter 2",
     "Redes/Chapter 1",
     "Redes",
-    "Ingeniería de Software I/07-Historias de Usuario.md",
-    "Ingeniería de Software I/14-REST-Security.md",
-    "Ingeniería de Software I/04-SOLID.md",
-    "Ingeniería de Software I/15-Kata.md",
-    "Ingeniería de Software I/16-Refactoring.md",
-    "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
-    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
-    "Empresa de Base Tecnológica II/07-Comercio Internacional.md",
-    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
-    "Empresa de Base Tecnológica II/06-Contabilidad y Costos.md",
     "Empresa de Base Tecnológica II/img/Pasted image 20240928134839.png",
     "Empresa de Base Tecnológica I",
     "Empresa de Base Tecnológica II/img/Pasted image 20240928133856.png",
@@ -184,8 +194,6 @@
     "img/Pasted image 20240928105251.png",
     "img/Pasted image 20240928105016.png",
     "img/Pasted image 20240928104339.png",
-    "Terraform Fundamentals/02-Terraform Cloud",
-    "CompTIA Linux + XK0-OO4/Orchestation",
     "Untitled.canvas"
   ]
 }
