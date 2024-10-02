@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
+                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
+                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md",
+                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software I/04-SOLID.md"
+                "file": "Ingeniería de Software I/Ingeniería de Software I.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "44d52fc5f0f41e8b",
   "lastOpenFiles": [
-    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "Ingeniería de Software I/04-SOLID.md",
+    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "img/Pasted image 20240928110953.png",
     "img/Pasted image 20240928110933.png",
     "img/Pasted image 20240928110838.png",
