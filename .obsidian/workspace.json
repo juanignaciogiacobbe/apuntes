@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0168636062467d7e",
+        "id": "f1e52120323339af",
         "type": "tabs",
         "children": [
           {
-            "id": "3b11c2e48610f127",
+            "id": "eaefdec3b27f822a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería de Software I/16-Refactoring.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería de Software I/16-Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería de Software I/16-Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ingeniería de Software I/16-Refactoring.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b11c2e48610f127",
+  "active": "eaefdec3b27f822a",
   "lastOpenFiles": [
+    "Terraform Fundamentals/01-Fundamentals/Fundamentals.md",
+    "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/03-Programación Asincrónica.md",
+    "img concu/Pasted image 20241002174958.png",
+    "img concu/Pasted image 20241002174933.png",
+    "img concu/Pasted image 20241002174751.png",
+    "img concu/Pasted image 20241002174038.png",
+    "img concu/Pasted image 20241002173337.png",
+    "img concu/Pasted image 20241002173225.png",
+    "Programación Concurrente/02-Modelo Fork Join.md",
+    "img concu/Pasted image 20241002170744.png",
+    "img concu/Pasted image 20241002165751.png",
+    "Programación Concurrente/Pasted image 20241002165647.png",
+    "img concu/Pasted image 20241002165245.png",
+    "Programación Concurrente/01-Introducción.md",
+    "Empresa de Base Tecnológica II/11-Pirámide de Decision Organizacional.md",
+    "Empresa de Base Tecnológica II/10-Administración.md",
+    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
+    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+    "Empresa de Base Tecnológica II/07-Comercio Internacional.md",
+    "Empresa de Base Tecnológica II/09-Ventaja Competitiva.md",
+    "Empresa de Base Tecnológica II/08-Ventaja Comparativa.md",
+    "Empresa de Base Tecnológica I/Costos.md",
+    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
+    "Empresa de Base Tecnológica I/Mercado.md",
+    "Ingeniería de Software I/16-Refactoring.md",
     "Ingeniería de Software I/13-REST.md",
     "Ingeniería de Software I/12-Patrones de Arquitectura.md",
     "Ingeniería de Software I/11-Atributos de Calidad.md",
@@ -158,42 +176,16 @@
     "Ingeniería de Software I/03-Diseño de Código.md",
     "Ingeniería de Software I/Ingeniería de Software I.md",
     "Ingeniería de Software I/02-Design Thinking.md",
-    "Ingeniería de Software I/01-Entendiendo el Problema.md",
-    "Ingeniería de Software I/06-Product Discovery.md",
-    "CompTIA Linux + XK0-OO4/Secure Shell(SSH)/01-SSH Basics.md",
-    "CompTIA Linux + XK0-OO4/Secure Shell(SSH)/Secure Shell(SSH).md",
-    "CompTIA Linux + XK0-OO4/Context-Based Permissions/01-SELinux.md",
     "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
-    "CompTIA Linux + XK0-OO4/Context-Based Permissions/Context-Based Permissions.md",
     "CompTIA Linux + XK0-OO4/Context-Based Permissions",
-    "Programación Concurrente/Programación Concurrente.md",
-    "Programación Concurrente/01-Introducción.md",
-    "Programación Concurrente/img",
-    "Programación Concurrente/Untitled.md",
-    "Programación Concurrente/img/Pasted image 20240929114224.png",
-    "Sistemas Operativos/Scheduler.md",
+    "img concu",
     "Programación Concurrente",
-    "Redes/Chapter 1/04-Protocol Layers and their Service Models.md",
-    "Redes/Chapter 1/02-Protocols.md",
-    "Redes/Chapter 1/03-Delay, Loss and Throughput.md",
-    "Redes/Chapter 1/01-Internet.md",
-    "Redes/Chapter 2/03-Application Layer Protocols.md",
-    "Redes/Chapter 2/Chapter 2.md",
     "Sistemas Operativos/Untitled",
     "Sistemas Operativos",
     "Redes/Chapter 2",
     "Redes/Chapter 1",
     "Redes",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240928134839.png",
     "Empresa de Base Tecnológica I",
-    "Empresa de Base Tecnológica II/img/Pasted image 20240928133856.png",
-    "img/Pasted image 20240928110953.png",
-    "img/Pasted image 20240928110933.png",
-    "img/Pasted image 20240928110838.png",
-    "img/Pasted image 20240928110759.png",
-    "img/Pasted image 20240928105251.png",
-    "img/Pasted image 20240928105016.png",
-    "img/Pasted image 20240928104339.png",
     "Untitled.canvas"
   ]
 }

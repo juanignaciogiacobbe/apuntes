@@ -6,7 +6,7 @@
 > [!WARNING] Propósito
 > Ayuda a entender el funcionamiento interno de la empresa y cómo interactúa con clientes, proveedores y competidores.
 
-![](img/Pasted%20image%2020240924162433.png)
+![](img%20ebt2/Pasted%20image%2020240924162433.png)
 
 ---
 

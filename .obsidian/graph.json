@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 7721471
       }
+    },
+    {
+      "query": "path:\"Programación Concurrente\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6097531
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012148,
+  "scale": 0.24192491286747653,
   "close": true
 }
