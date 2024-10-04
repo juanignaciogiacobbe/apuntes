@@ -1,6 +1,5 @@
-
 > [!IMPORTANT] Semáforos
-> Es un mecanismo de sincronizacion, implementado como una construcción de programación concurrente de mas alto nivel.
+> Es un mecanismo de sincronización, implementado como una construcción de programación concurrente de mas alto nivel.
 > Es un tipo de dato compuesto por dos campos:
 > - Un entero no negativo llamado *V*.
 > - Un set de procesos llamado *L*.
