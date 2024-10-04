@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e52120323339af",
+        "id": "c267b1eca46db444",
         "type": "tabs",
         "children": [
           {
-            "id": "eaefdec3b27f822a",
+            "id": "e6fc8bc6773e9b07",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,11 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaefdec3b27f822a",
+  "active": "e6fc8bc6773e9b07",
   "lastOpenFiles": [
-    "Terraform Fundamentals/01-Fundamentals/Fundamentals.md",
+    "Programación Concurrente/06-Sincronización.md",
     "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/05-Locks.md",
+    "Programación Concurrente/04-Corrección.md",
     "Programación Concurrente/03-Programación Asincrónica.md",
+    "Terraform Fundamentals/01-Fundamentals/Fundamentals.md",
     "img concu/Pasted image 20241002174958.png",
     "img concu/Pasted image 20241002174933.png",
     "img concu/Pasted image 20241002174751.png",
@@ -173,9 +176,6 @@
     "Ingeniería de Software I/07-Historias de Usuario.md",
     "Ingeniería de Software I/05-Ceremonias SCRUM.md",
     "Ingeniería de Software I/04-SOLID.md",
-    "Ingeniería de Software I/03-Diseño de Código.md",
-    "Ingeniería de Software I/Ingeniería de Software I.md",
-    "Ingeniería de Software I/02-Design Thinking.md",
     "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
     "CompTIA Linux + XK0-OO4/Context-Based Permissions",
     "img concu",
