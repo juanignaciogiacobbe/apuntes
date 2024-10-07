@@ -27,3 +27,10 @@
 > Efectuar la medición del desempeño de lo ejecutado, comparándolo con los objetivos y las metas fijadas -> Se detectan los desvíos y se toman las medidas necesarias para corregirlos.
 > El control se realiza a nivel estratégico, táctico y operativo.
 > La organización entera es evaluada mediante un sistema de Control de Gestion, y por otro lado tambien se contratan auditorias externas, donde se analizan y controlan las diferentes areas funcionales.
+
+
+## Administración por Áreas Funcionales
+- Administración Financiera: Se ocupa de la asignación intertemporal de los recursos de las corporaciones en un entorno de incertidumbre. Asimismo, es la disciplina que se ocupa de estudiar el cómo se toman las mejores decisiones empresariales, mediante la óptima asignación de los recursos en los mercados de activos.
+- Administración de Ventas y Marketing: Abarca el proceso de exploración, creación y entrega de valor para satisfacer las necesidades de un mercado objetivo en términos de bienes y servicios.
+- Administración de las Operaciones: Administración de los recursos productivos de la organización. Se encarga de la planificación, organización, dirección, control y mejora de los sistemas productivos.
+- Administración de RRHH: Órgano de gestión empresarial responsable de las decisiones y acciones que afectan a la relación entre la empresa y los trabajadores que prestan sus servicios en ella.

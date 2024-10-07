@@ -1,4 +1,3 @@
-
 > [!IMPORTANT] Application Architecture
 > Is designed by the application developer and dictates how the application is structured over the various end systems.
 

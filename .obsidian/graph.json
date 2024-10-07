@@ -27,6 +27,27 @@
         "a": 1,
         "rgb": 6097531
       }
+    },
+    {
+      "query": "path:\"Empresa de Base Tecnológica II\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749076
+      }
+    },
+    {
+      "query": "path:\"Empresa de Base Tecnológica I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749076
+      }
+    },
+    {
+      "query": "path:\"Ingeniería de Software I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4536575
+      }
     }
   ],
   "collapse-display": true,

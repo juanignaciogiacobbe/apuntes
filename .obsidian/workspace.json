@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c267b1eca46db444",
+        "id": "65375bace903fb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6fc8bc6773e9b07",
+            "id": "9a0a01dccccff902",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empresa de Base Tecnológica II/Startups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a251e1c4d160ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empresa de Base Tecnológica II/Decisiones de Gestión Financiera.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Decisiones de Gestión Financiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empresa de Base Tecnológica II/Decisiones de Gestión Financiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Empresa de Base Tecnológica II/Decisiones de Gestión Financiera.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,44 +139,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a251e1c4d160ebd",
+  "active": "9a0a01dccccff902",
   "lastOpenFiles": [
-    "Empresa de Base Tecnológica II/Modelo y Plan de Negocio.md",
-    "Empresa de Base Tecnológica II/Decisiones de Gestión Financiera.md",
-    "Empresa de Base Tecnológica II/Plan de Negocios.md",
+    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
+    "Empresa de Base Tecnológica II/18-Plan de Negocios.md",
+    "Empresa de Base Tecnológica II/15-Decisiones de Gestión Financiera.md",
+    "Empresa de Base Tecnológica II/14-Lean Startup.md",
+    "img ebt2/Pasted image 20241006191816.png",
+    "Empresa de Base Tecnológica II/13-Modelo y Plan de Negocio.md",
+    "img ebt2/Pasted image 20241006191450.png",
+    "img ebt2/Pasted image 20241006191435.png",
+    "img ebt2/Pasted image 20241006191201.png",
+    "Empresa de Base Tecnológica II/12-Presupuestos.md",
+    "Empresa de Base Tecnológica II/10-Administración.md",
+    "img ebt2/Pasted image 20241006185318.png",
+    "Empresa de Base Tecnológica II/11-Pirámide de Decision Organizacional.md",
+    "Redes/Chapter 2/03-Application Layer Protocols.md",
+    "Redes/Chapter 2/02-Processes Communicating.md",
+    "Redes/Chapter 2/01-Network Application Architectures.md",
+    "Redes/Chapter 2/Chapter 2.md",
+    "Redes/Redes.md",
+    "Redes/Chapter 1/03-Delay, Loss and Throughput.md",
+    "Redes/Chapter 1/Chapter 1.md",
+    "img ebt2/Pasted image 20241006084744.png",
+    "Empresa de Base Tecnológica II/16-Pitch Deck.md",
+    "img ebt2/Pasted image 20241006083334.png",
     "img ebt2/Pasted image 20241004171549.png",
     "img ebt2/Pasted image 20241004171325.png",
-    "Empresa de Base Tecnológica II/Startups.md",
+    "Empresa de Base Tecnológica II/17-Startups.md",
     "img ebt2/Pasted image 20241004170958.png",
-    "img ebt2/Pasted image 20241004170810.png",
-    "Empresa de Base Tecnológica II/Lean Startup.md",
     "Programación Concurrente/Programación Concurrente.md",
     "Programación Concurrente/06-Sincronización.md",
     "Programación Concurrente/09-Redes de Petri.md",
-    "img concu/Pasted image 20241004163711.png",
     "Programación Concurrente/08-Modelo de Actores.md",
-    "img concu/Pasted image 20241004162414.png",
     "Programación Concurrente/07-Canales.md",
-    "img concu/Pasted image 20241004162039.png",
     "Sistemas Operativos/File System.md",
-    "img concu/Pasted image 20241004161230.png",
     "Programación Concurrente/05-Locks.md",
     "Programación Concurrente/04-Corrección.md",
     "Programación Concurrente/03-Programación Asincrónica.md",
-    "Terraform Fundamentals/01-Fundamentals/Fundamentals.md",
-    "img concu/Pasted image 20241002174958.png",
-    "img concu/Pasted image 20241002174933.png",
-    "Programación Concurrente/02-Modelo Fork Join.md",
-    "Programación Concurrente/01-Introducción.md",
-    "Empresa de Base Tecnológica II/11-Pirámide de Decision Organizacional.md",
-    "Empresa de Base Tecnológica II/10-Administración.md",
-    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
-    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
-    "Empresa de Base Tecnológica II/07-Comercio Internacional.md",
-    "Empresa de Base Tecnológica II/09-Ventaja Competitiva.md",
-    "Empresa de Base Tecnológica II/08-Ventaja Comparativa.md",
-    "Empresa de Base Tecnológica I/Costos.md",
-    "Empresa de Base Tecnológica II/02-Análisis PESTA.md",
     "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
     "CompTIA Linux + XK0-OO4/Context-Based Permissions",
     "img concu",

@@ -1,6 +1,6 @@
 # Pitch Deck
 - Una presentación breve de 10-20 diapositivas.
-- Cuenta la historia de tu startup.
+- Cuenta la historia de tu [Startup](Empresa%20de%20Base%20Tecnológica%20II/17-Startups.md).
 - Sirve para:
 	- Presentar tu plan de negocio a inversionistas, clientes y aliados estratégicos.
 	- Generar interés y obtener una reunión.
