@@ -11,8 +11,12 @@
             "id": "9a0a01dccccff902",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programación Concurrente/03-Programación Asincrónica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "dd005499c6196eb2",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programación Concurrente/03-Programación Asincrónica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programación Concurrente/03-Programación Asincrónica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programación Concurrente/03-Programación Asincrónica.md"
+              }
             }
           }
         ]
@@ -141,6 +148,7 @@
   },
   "active": "9a0a01dccccff902",
   "lastOpenFiles": [
+    "Programación Concurrente/02-Modelo Fork Join.md",
     "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
     "Empresa de Base Tecnológica II/18-Plan de Negocios.md",
     "Empresa de Base Tecnológica II/15-Decisiones de Gestión Financiera.md",
@@ -176,7 +184,6 @@
     "Sistemas Operativos/File System.md",
     "Programación Concurrente/05-Locks.md",
     "Programación Concurrente/04-Corrección.md",
-    "Programación Concurrente/03-Programación Asincrónica.md",
     "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
     "CompTIA Linux + XK0-OO4/Context-Based Permissions",
     "img concu",

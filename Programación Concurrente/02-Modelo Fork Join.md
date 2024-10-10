@@ -2,7 +2,7 @@
 > [!IMPORTANT] Fork-Join
 > Es un estilo de paralelización donde el computo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al computo inicial.
 > Partir la task se realiza en general de forma recursiva:
-> - Los sub-cómputos son independientes -> El computo se puede realizar en paralelo. 
+> - Los sub-cómputos son independientes(NO dependen de nada) -> El computo se puede realizar en paralelo. 
 > - Las sub-tareas se pueden crear en cualquier momento de la ejecucion de la tarea.
 > - Las tareas no deben bloquearse, excepto para esperar el final de las sub-tareas.
 
@@ -17,6 +17,10 @@
 
 ![](img%20concu/Pasted%20image%2020241002165751.png)
 
+
+
+> [!QUOTE] MapReduce
+> Is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key.
 
 ## Work Stealing
 - Es un algoritmo utilizado para hacer scheduling de tareas entre threads.
