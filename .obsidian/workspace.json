@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Concurrente/03-Programación Asincrónica.md",
+                "file": "Programación Concurrente/07-Canales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación Concurrente/03-Programación Asincrónica.md",
+                "file": "Programación Concurrente/07-Canales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación Concurrente/03-Programación Asincrónica.md",
+                "file": "Programación Concurrente/07-Canales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación Concurrente/03-Programación Asincrónica.md"
+                "file": "Programación Concurrente/07-Canales.md"
               }
             }
           }
@@ -148,20 +148,26 @@
   },
   "active": "9a0a01dccccff902",
   "lastOpenFiles": [
-    "Programación Concurrente/02-Modelo Fork Join.md",
+    "Programación Concurrente/08-Modelo de Actores.md",
+    "Programación Concurrente/06-Sincronización.md",
     "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
     "Empresa de Base Tecnológica II/18-Plan de Negocios.md",
+    "Empresa de Base Tecnológica II/13-Modelo y Plan de Negocio.md",
+    "Empresa de Base Tecnológica II/12-Presupuestos.md",
+    "Empresa de Base Tecnológica II/10-Administración.md",
+    "Empresa de Base Tecnológica II/11-Pirámide de Decision Organizacional.md",
+    "Empresa de Base Tecnológica II/06-Contabilidad y Costos.md",
+    "Empresa de Base Tecnológica II/01-Análisis del Contexto.md",
+    "Empresa de Base Tecnológica II/03-Cruz de Porter.md",
+    "Programación Concurrente/03-Programación Asincrónica.md",
+    "Programación Concurrente/02-Modelo Fork Join.md",
     "Empresa de Base Tecnológica II/15-Decisiones de Gestión Financiera.md",
     "Empresa de Base Tecnológica II/14-Lean Startup.md",
     "img ebt2/Pasted image 20241006191816.png",
-    "Empresa de Base Tecnológica II/13-Modelo y Plan de Negocio.md",
     "img ebt2/Pasted image 20241006191450.png",
     "img ebt2/Pasted image 20241006191435.png",
     "img ebt2/Pasted image 20241006191201.png",
-    "Empresa de Base Tecnológica II/12-Presupuestos.md",
-    "Empresa de Base Tecnológica II/10-Administración.md",
     "img ebt2/Pasted image 20241006185318.png",
-    "Empresa de Base Tecnológica II/11-Pirámide de Decision Organizacional.md",
     "Redes/Chapter 2/03-Application Layer Protocols.md",
     "Redes/Chapter 2/02-Processes Communicating.md",
     "Redes/Chapter 2/01-Network Application Architectures.md",
@@ -177,13 +183,7 @@
     "Empresa de Base Tecnológica II/17-Startups.md",
     "img ebt2/Pasted image 20241004170958.png",
     "Programación Concurrente/Programación Concurrente.md",
-    "Programación Concurrente/06-Sincronización.md",
     "Programación Concurrente/09-Redes de Petri.md",
-    "Programación Concurrente/08-Modelo de Actores.md",
-    "Programación Concurrente/07-Canales.md",
-    "Sistemas Operativos/File System.md",
-    "Programación Concurrente/05-Locks.md",
-    "Programación Concurrente/04-Corrección.md",
     "CompTIA Linux + XK0-OO4/Secure Shell(SSH)",
     "CompTIA Linux + XK0-OO4/Context-Based Permissions",
     "img concu",

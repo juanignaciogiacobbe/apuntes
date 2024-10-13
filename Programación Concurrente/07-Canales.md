@@ -1,4 +1,3 @@
-
 > [!IMPORTANT] Canales
 > Conectan un proceso emisor con un proceso receptor. Son sincronicos o asincronicos.
 > Tienen un nombre, son tipados y unidireccionales.
@@ -18,6 +17,10 @@
 > - Los stubs conforman interfaces remotas utilizadas para compilar cliente y servidor.
 > - Localización de servicios.
 > - Parameter marshalling.
+
+
+> [!WARNING] Diferencia con otros modelos de concurrencia
+> "Do not communicate by sharing memory; instead, share memory by communicating" -> Básicamente con este modelo compartimos datos, y así nos comunicamos.
 
 
 > [!IMPORTANT] Canales en Unix

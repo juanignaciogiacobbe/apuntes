@@ -17,15 +17,14 @@
 ## Ramas de la [Contabilidad](Empresa%20de%20Base%20Tecnológica%20I/Contabilidad.md)
 
 > [!IMPORTANT] Contabilidad de Gestión
-> Es la rama encargada de proveer datos e información relevante a los funcionarios y gestores corporativos principalmente con la intención de planificar y tomar decisiones.
+> Provee datos e información relevante a los funcionarios y gestores corporativos con la intención de planificar y tomar decisiones. -> **Proporciona información interna que ayuda a los gerentes a tomar decisiones operativas, planificar estrategias, controlar desempeños y para mejorar la eficiencia y rentabilidad de la empresa**.
 > - Centra sus procesos en la recopilación y el análisis de la información vinculada a las operaciones que integran la cadena de valor de un negocio.
 > - Llevar esta contabilidad no es obligatorio, pero permite desarrollar un control más estricto sobre TODAS las actividades operativas de un negocio.
 > - Esta información no se provee a terceros por fuera de la organización.
 
 
 > [!IMPORTANT] Contabilidad Financiera
-> Es una rama de la contabilidad que involucra el proceso de registro, resumen e informe de la gran cantidad de transacciones que resultan de las operaciones comerciales durante un período de tiempo.
-> Estas transacciones se resumen la preparación de los principales estados financieros que registran el desempeño operativo de la empresa durante un período específico.
+> Involucra el proceso de registro, resumen e informe de la gran cantidad de transacciones que resultan de las operaciones comerciales durante un período de tiempo. -> **Proporciona información financiera histórica sobre las actividades comerciales de una empresa a usuarios externos(inversionistas, acreedores, etc)**.
 
 ### Contabilidad Financiera en Start Ups
 - Las startups no poseen en general balances formales, por lo que deben ser valuadas con información informal.

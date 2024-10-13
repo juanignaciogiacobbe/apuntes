@@ -9,12 +9,12 @@
 
 
 > [!IMPORTANT] Planificación
-> Proceso que comienza con la vision que tiene la persona que dirige a una organización -> La misión de la organización -> Fijar objetivos, las estrategias y políticas organizacionales, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [contexto](Empresa%20de%20Base%20Tecnológica%20II/01-Análisis%20del%20Contexto.md) de la misma.
+> Proceso que comienza con la **vision** que tiene la persona que dirige a una organización -> La **misión** de la organización -> Fijar **objetivos**, las **estrategias** y **políticas organizacionales**, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [contexto](Empresa%20de%20Base%20Tecnológica%20II/01-Análisis%20del%20Contexto.md) de la misma.
+> - Identificación de recursos necesarios, asignación de tareas, elaboración de estrategias, y formulación de planes para lograr los objetivos establecidos.
 
 
 > [!IMPORTANT] Organización
-> Implica diseñar el organigrama de la organización definiendo responsabilidades y obligaciones.
-> Mediante el diseño del proceso de negocio, se establece la forma en que se deben realizar las tareas y en que secuencia temporal.
+> Implica diseñar el organigrama de la organización definiendo responsabilidades y obligaciones. -> Implica diseñar la estructura organizativa, establecer líneas de autoridad y responsabilidad, y crear sistemas y procedimientos para coordinar y controlar las actividades.
 > Es coordinar y sincronizar, adoptando alguno de los tipos de organización empresarial.
 
 
@@ -25,8 +25,7 @@
 
 > [!IMPORTANT] Control
 > Efectuar la medición del desempeño de lo ejecutado, comparándolo con los objetivos y las metas fijadas -> Se detectan los desvíos y se toman las medidas necesarias para corregirlos.
-> El control se realiza a nivel estratégico, táctico y operativo.
-> La organización entera es evaluada mediante un sistema de Control de Gestion, y por otro lado tambien se contratan auditorias externas, donde se analizan y controlan las diferentes areas funcionales.
+> El control se realiza a nivel estratégico, táctico y operativo mediante un sistema de Control de Gestión, y con auditorias externas.
 
 
 ## Administración por Áreas Funcionales
