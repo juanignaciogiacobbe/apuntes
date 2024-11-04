@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec37a8ab89daf8f8",
+        "id": "e5b4847b500b8c4f",
         "type": "tabs",
         "children": [
           {
-            "id": "df648bd27064e6d7",
+            "id": "79ce705b5281e2fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/AZ-900/AZ-900.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AZ-900"
+              "title": "New tab"
             }
           }
         ]
@@ -166,10 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df648bd27064e6d7",
+  "active": "79ce705b5281e2fc",
   "lastOpenFiles": [
-    "Terraform Fundamentals/Terraform Fundamentals.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104150235.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104152537.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104152834.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104153127.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104154002.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104154018.png",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104155713.png",
     "Azure/AZ-900/AZ-900.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect(SAA-C03).md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/EC2 Solutions Architect Level.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/04-EC2 Hibernate.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Certified Solutions Architect Slides v39.pdf",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/03-Elastic Network Interfaces(ENI).md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/img",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2",
+    "Terraform Fundamentals/Terraform Fundamentals.md",
     "Azure/AZ-900",
     "Untitled",
     "Azure",
@@ -190,30 +202,13 @@
     "Programación Concurrente/12-Transacciones.md",
     "Cloud Practitioner (CLF-C02)/Foundations on Cloud Computing.md",
     "Cloud Practitioner (CLF-C02)/Module 10 - The Cloud Journey/Module 10 - The Cloud Journey.md",
-    "Cloud Practitioner (CLF-C02)/Module 10 - The Cloud Journey/41-The AWS Well-Architected Framework.md",
     "Cloud Practitioner (CLF-C02)/Module 10 - The Cloud Journey",
-    "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation/Module 9 - Migration and Innovation.md",
-    "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation/40-Innovate with AWS Services.md",
-    "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation/39-AWS Snow Family.md",
-    "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation/38-Migration Strategies.md",
-    "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation/37-AWS Cloud Adoption Framework.md",
     "Cloud Practitioner (CLF-C02)/Module 9 - Migration and Innovation",
-    "Cloud Practitioner (CLF-C02)/Module 8 - Pricing and Support/Module 8 - Pricing and Support.md",
     "Cloud Practitioner (CLF-C02)/Module 8 - Pricing and Support",
     "Cloud Practitioner (CLF-C02)/Module 7 - Monitoring and Analytcs",
-    "Cloud Practitioner (CLF-C02)/Module 6 - Security",
-    "Cloud Practitioner (CLF-C02)/Module 5 - Storage and Databases",
-    "Cloud Practitioner (CLF-C02)/Module 4 - Networking",
     "Cloud Practitioner (CLF-C02)/img/virtualization.png",
     "Cloud Practitioner (CLF-C02)/img/virtual_private_gateway.png",
     "Cloud Practitioner (CLF-C02)/img/the_aws_well_structured_framework.png",
-    "Cloud Practitioner (CLF-C02)/img/subnets.png",
-    "Cloud Practitioner (CLF-C02)/img/stateless_packet_filtering.png",
-    "Cloud Practitioner (CLF-C02)/img/stateful_filtering.png",
-    "Cloud Practitioner (CLF-C02)/img/shared_responsibility_model.png",
-    "Cloud Practitioner (CLF-C02)/img/serverless_example.png",
-    "Cloud Practitioner (CLF-C02)/img/security_group.png",
-    "Cloud Practitioner (CLF-C02)/img/secrets_manager.png",
     "Untitled.canvas"
   ]
 }

@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 4924969
       }
+    },
+    {
+      "query": "path:\"AWS/AWS Solutions Architect Associate Certification SAA-C03\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5255156
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012148,
+  "scale": 0.16128327524498434,
   "close": true
 }
