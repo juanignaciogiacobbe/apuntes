@@ -1,6 +1,6 @@
 > [!IMPORTANT] Startup
 > Es una empresa de nueva creación que, gracias a su modelo de negocio escalable y al uso de las nuevas tecnologías, tiene grandes posibilidades de crecimiento.
-
+ 
 
 > [!WARNING] Cualidades de startups que las diferencian de las PYMEs.
 
