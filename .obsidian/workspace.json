@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software I/18-Git.md",
+                "file": "Ingeniería de Software I/19-Patrones de Diseño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-Git"
+              "title": "19-Patrones de Diseño"
             }
           }
         ]
@@ -155,19 +155,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "394c71d19d586397",
   "lastOpenFiles": [
+    "Ingeniería de Software I/img/Pasted image 20241127182244.png",
+    "Ingeniería de Software I/img/Pasted image 20241127181817.png",
+    "Ingeniería de Software I/img/Pasted image 20241127180137.png",
+    "Ingeniería de Software I/18-Git.md",
+    "Ingeniería de Software I/19-Patrones de Diseño.md",
     "Ingeniería de Software I/img/Pasted image 20241127162844.png",
     "Ingeniería de Software I/img/Pasted image 20241127162738.png",
     "Ingeniería de Software I/img/Pasted image 20241127162704.png",
@@ -177,10 +182,8 @@
     "Ingeniería de Software I/img/Pasted image 20241127160752.png",
     "Ingeniería de Software I/img/Pasted image 20241127160524.png",
     "Cloud Security Buddy(CSB).md",
-    "Ingeniería de Software I/18-Git.md",
     "Ingeniería de Software I/17-Docker.md",
     "Ingeniería de Software I/img",
-    "Ingeniería de Software I/img/Pasted image 20241126170440.png",
     "Terraform Fundamentals/01-Fundamentals/01-What is Terraform.md",
     "Ingeniería de Software I/04-SOLID.md",
     "Empresa de Base Tecnológica II/02-Legal/20-Propiedad Intelectual.md",
@@ -203,13 +206,10 @@
     "Empresa de Base Tecnológica II/01-Economía/08-Ventaja Comparativa.md",
     "Empresa de Base Tecnológica II/01-Economía/07-Comercio Internacional.md",
     "Empresa de Base Tecnológica II/01-Economía/06-Contabilidad y Costos.md",
-    "Empresa de Base Tecnológica II/01-Economía/05-Innovación.md",
     "Empresa de Base Tecnológica II/02-Legal",
     "Empresa de Base Tecnológica II/01-Economía",
     "Untitled.canvas",
     "MongoDB",
-    "img ebt2/Pasted image 20241119083942.png",
-    "Pasted image 20241114140417.png",
     "Elastic Search",
     "Empresa de Base Tecnologica/img",
     "Empresa de Base Tecnologica/img",
