@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a333c219ca233947",
+        "id": "f86ec58d9d48e41e",
         "type": "tabs",
         "children": [
           {
-            "id": "394c71d19d586397",
+            "id": "3dabfeafbbf7ead9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingeniería de Software I/18-Git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "18-Git"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "394c71d19d586397",
+  "active": "3dabfeafbbf7ead9",
   "lastOpenFiles": [
+    "Ingeniería de Software I/18-Git.md",
     "Ingeniería de Software I/img/Pasted image 20241127162844.png",
     "Ingeniería de Software I/img/Pasted image 20241127162738.png",
     "Ingeniería de Software I/img/Pasted image 20241127162704.png",
@@ -177,7 +174,6 @@
     "Ingeniería de Software I/img/Pasted image 20241127160752.png",
     "Ingeniería de Software I/img/Pasted image 20241127160524.png",
     "Cloud Security Buddy(CSB).md",
-    "Ingeniería de Software I/18-Git.md",
     "Ingeniería de Software I/17-Docker.md",
     "Ingeniería de Software I/img",
     "Ingeniería de Software I/img/Pasted image 20241126170440.png",
@@ -209,7 +205,6 @@
     "Untitled.canvas",
     "MongoDB",
     "img ebt2/Pasted image 20241119083942.png",
-    "Pasted image 20241114140417.png",
     "Elastic Search",
     "Empresa de Base Tecnologica/img",
     "Empresa de Base Tecnologica/img",
