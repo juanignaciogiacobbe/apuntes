@@ -29,7 +29,7 @@
 - <span style="color:#ffff00">Activo Corriente</span>: activos que pueden ser convertidos en efectivo en menos de un año.
 - <span style="color:#ffff00">Activo no Corriente</span>: activos que no pueden ser convertidos en efectivo en menos de un año.
 
-[[Dinero]] -> Concepto de liquidez
+[[Empresa de Base Tecnológica I/02-Dinero]] -> Concepto de liquidez
 #### <span style="color:#c00000">Cuentas Patrimoniales del Activo</span>
 - Activo Corriente:
 	- Disponibilidades (Caja y Bancos).

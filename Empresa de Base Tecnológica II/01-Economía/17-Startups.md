@@ -15,11 +15,11 @@
 - **Bootstrapping**: Utilizar los propios recursos o generar ingresos de los clientes para financiar el crecimiento de una empresa.
 - **Venture Capital**: Implica recaudar fondos externos de inversores que proporcionan capital a cambio de acciones o propiedad de la empresa.
 
-![](img%20ebt2/Pasted%20image%2020241004170810.png)
+![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241004170810.png)
 
 
 
 > [!IMPORTANT] Curva J
 > Ilustra la tendencia histórica de los fondos de capital inversión o capital riesgo a resultados negativos en los primeros años de una inversión y a cosechar beneficios crecientes en los años que siguen a dicha inversión. 
 
-![](img%20ebt2/Pasted%20image%2020241004170958.png)
+![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241004170958.png)

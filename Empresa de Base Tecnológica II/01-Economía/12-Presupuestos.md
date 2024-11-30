@@ -26,7 +26,7 @@
 	- El tipo de cambio y la tasa de interés proyectada.
 ## Proceso de Presupuestación
 
-![](img%20ebt2/Pasted%20image%2020241006185318.png)
+![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006185318.png)
 
 
 > [!IMPORTANT] Presupuesto Económico

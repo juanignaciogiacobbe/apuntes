@@ -1,6 +1,6 @@
 # <span style="color:#c00000">Mercados</span>
 
-> Donde los compradores(demandantes) y los vendedores(oferentes) realizan intercambios de bienes y servicios con el fin de satisfacer sus necesidades. Estos intercambios se realizan en la mayoría de los casos con [[Dinero]] como moneda de intercambio.
+> Donde los compradores(demandantes) y los vendedores(oferentes) realizan intercambios de bienes y servicios con el fin de satisfacer sus necesidades. Estos intercambios se realizan en la mayoría de los casos con [[Empresa de Base Tecnológica I/02-Dinero]] como moneda de intercambio.
 
 ## <span style="color:#c00000">Que define a un mercado</span>
 - La cantidad de empresas u organizaciones que participan en el mercado.

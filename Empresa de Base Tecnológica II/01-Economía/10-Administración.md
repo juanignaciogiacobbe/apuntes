@@ -4,7 +4,7 @@
 
 ## Proceso Administrativo Clásico
 
-![](img%20ebt2/Pasted%20image%2020241002161309.png)
+![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241002161309.png)
 
 
 

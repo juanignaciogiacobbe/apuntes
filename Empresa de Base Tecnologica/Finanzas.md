@@ -1,7 +1,7 @@
 # <span style="color:#c00000">Finanzas</span>
 
 >Es el area de la economía que estudia como se obtiene y administra el dinero(Capital). Esto incluye la financiación, la inversion, el ahorro, las tasas de interés y el valor tiempo del dinero, etc.
->Se trabaja con flujos netos de [[Dinero]] expresados en efectivo(cash) que van hacia(+) y desde(-) la empresa. Obtener estos flujos netos es clave para la gestión, ya que con estos se calculara el valor de la empresa.
+>Se trabaja con flujos netos de [[Empresa de Base Tecnológica I/02-Dinero]] expresados en efectivo(cash) que van hacia(+) y desde(-) la empresa. Obtener estos flujos netos es clave para la gestión, ya que con estos se calculara el valor de la empresa.
 
 ## <span style="color:#c00000">Objetivo de la Empresa</span>
 - <span style="color:#ffff00">Maximizar el valor de la misma </span>-> la toma de decisiones estará centrada en este objetivo.

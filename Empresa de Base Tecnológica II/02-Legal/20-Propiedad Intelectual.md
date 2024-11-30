@@ -76,7 +76,7 @@
 > Puede ser un objeto, un procedimiento, un aparato para fabricar el objeto, un compuesto químico, un microorganismo, etcétera. En todos los casos, debe cumplir con los tres requisitos de patentabilidad: **novedad, actividad inventiva y aplicación industrial**.
 
 
-![](img%20ebt2/Pasted%20image%2020241119083942.png)
+![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241119083942.png)
 
 
 > [!IMPORTANT] Modelos de Utilidad
