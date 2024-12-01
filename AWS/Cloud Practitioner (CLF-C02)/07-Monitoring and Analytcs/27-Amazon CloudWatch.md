@@ -4,7 +4,7 @@
 
 ## CloudWatch Alarms
 - With CloudWatch, **you can create alarms that automatically perform actions if the value of your metric has gone above or below a predefined threshold.**
-- For example, suppose that your company’s developers [04A-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances for application development or testing purposes. If the developers occasionally forget to stop the instances, the instances will continue to run and incur charges. 
+- For example, suppose that your company’s developers [04-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances for application development or testing purposes. If the developers occasionally forget to stop the instances, the instances will continue to run and incur charges. 
 - In this scenario, you could create a CloudWatch alarm that automatically stops an Amazon EC2 instance when the CPU utilization percentage has remained below a certain threshold for a specified period. When configuring the alarm, you can specify to receive a notification whenever this alarm is triggered.
 
 ## CloudWatch Dashboard

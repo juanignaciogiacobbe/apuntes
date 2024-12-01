@@ -11,7 +11,7 @@
 ## AWS Command Line Interface
 - **Control multiple AWS services directly from the command line within one tool**. 
 - Available for users on Windows, macOS, and Linux.
-- By using AWS CLI, **you can automate the actions that your services and applications perform through scripts**. For example, you can use commands to launch an [04A-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance, connect an Amazon EC2 instance to a specific Auto Scaling group, and more.
+- By using AWS CLI, **you can automate the actions that your services and applications perform through scripts**. For example, you can use commands to launch an [04-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance, connect an Amazon EC2 instance to a specific Auto Scaling group, and more.
 
 	![aws_command_line_interface](../img/aws_command_line_interface.png)
 

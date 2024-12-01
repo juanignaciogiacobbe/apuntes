@@ -1,6 +1,6 @@
 # Amazon Route 53
 - DNS web service. **It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS**.
-- Connects user requests to infrastructure running in AWS (such as [04A-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances and load balancers). It can route users to infrastructure outside of AWS.
+- Connects user requests to infrastructure running in AWS (such as [04-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances and load balancers). It can route users to infrastructure outside of AWS.
 - This enables you to manage all of your domain names within a single location.
 
 ## How Amazon Route 53 and Amazon CloudFront deliver content

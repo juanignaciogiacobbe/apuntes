@@ -27,7 +27,7 @@
 
 	![aws_lambda_pricing_example](../img/aws_lambda_pricing_example.png)
 
-### [[AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04A-Amazon Elastic Compute Cloud(EC2)]]
+### [[AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04-Amazon Elastic Compute Cloud(EC2)]]
 - You pay for only the compute time that you use while your instances are running.
 - For some workloads, you can significantly reduce Amazon EC2 costs by using **Spot Instances**: Your requests are fulfilled only if capacity is available. For example, suppose that you are running a batch processing job that is able to withstand interruptions. Using a Spot Instance would provide you with up to 90% cost savings while still meeting the availability requirements of your workload.
 - You can find additional cost savings for Amazon EC2 by considering Savings Plans and Reserved Instances.

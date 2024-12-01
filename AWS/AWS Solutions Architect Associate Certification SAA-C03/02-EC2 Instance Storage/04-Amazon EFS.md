@@ -1,6 +1,6 @@
 
 > [!IMPORTANT] Elastic File System(EFS)
-> - Managed NFS(network file system) that can be mounted on many [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md).
+> - Managed NFS(network file system) that can be mounted on many [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md).
 > - Works with EC2 instances in Multi-[AZ](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/08B-Availability%20Zones.md).
 > - Highly available, scalable, expensive, pay per use.
 > - Uses NFSv4.1 protocol.

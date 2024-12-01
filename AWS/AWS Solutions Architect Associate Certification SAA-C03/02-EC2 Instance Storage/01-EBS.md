@@ -9,7 +9,7 @@
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241105084929.png)
 
 # Delete on Termination attribute
-- Controls the EBS behaviour when a [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance terminates.
+- Controls the EBS behaviour when a [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance terminates.
 	- By default, the root EBS volume is deleted(attribute enabled).
 	- By default, any other attached EBS volume is not deleted(attribute disabled).
 - This can be controlled by the AWS console/ AWS CLI.

@@ -1,6 +1,5 @@
 # Foundations on Cloud Computing
 
-- [Module 2 - Compute in the Cloud](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/Module%202%20-%20Compute%20in%20the%20Cloud.md)
 - [Module 3 - Infrastructure and Realiability](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/Module%203%20-%20Infrastructure%20and%20Realiability.md)
 - [Module 4 - Networking](AWS/Cloud%20Practitioner%20(CLF-C02)/04-Networking/Module%204%20-%20Networking.md)
 - [Module 5 - Storage and Databases](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/Module%205%20-%20Storage%20and%20Databases.md)
@@ -17,3 +16,11 @@
 - [01-Cloud Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/01-Introduction%20to%20AWS/01-Cloud%20Computing.md)
 - [01B-Advantages of Cloud Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/01-Introduction%20to%20AWS/01B-Advantages%20of%20Cloud%20Computing.md)
 - [02-Cloud Deployment Models](AWS/Cloud%20Practitioner%20(CLF-C02)/01-Introduction%20to%20AWS/02-Cloud%20Deployment%20Models.md)
+
+## Module 2: Compute in the Cloud
+- [04-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md)
+- [05-Elastic Load Balancing(ELB)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/05-Elastic%20Load%20Balancing(ELB).md)
+- [06-Messaging and Queuing](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/06-Messaging%20and%20Queuing.md)
+- [07A-Serverless Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/07A-Serverless%20Computing.md)
+- [07B-Containerized Applications](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/07B-Containerized%20Applications.md)
+- [07C-AWS Lambda](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/07C-AWS%20Lambda.md)

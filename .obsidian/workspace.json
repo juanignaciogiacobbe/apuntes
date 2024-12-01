@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "84a6be7fe9c8ef58",
+        "id": "ebe108c75bdb905a",
         "type": "tabs",
         "children": [
           {
-            "id": "633a1935710c3e17",
+            "id": "336a792d68a3df49",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633a1935710c3e17",
+  "active": "336a792d68a3df49",
   "lastOpenFiles": [
+    "AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/08A-AWS Global Infrastructure.md",
+    "AWS/Cloud Practitioner (CLF-C02)/AWS Cloud Practitioner(CLF-C02).md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/Module 2 - Compute in the Cloud.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/07C-AWS Lambda.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/07A-Serverless Computing.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/07B-Containerized Applications.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/06-Messaging and Queuing.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/05-Elastic Load Balancing(ELB).md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04-Amazon Elastic Compute Cloud(EC2).md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04D-EC2 Auto Scaling.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04C-Amazon EC2 Pricing.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04B-Amazon EC2 instance types.md",
+    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/02-Cloud Deployment Models.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Certified Solutions Architect Slides v39.pdf",
+    "AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/08B-Availability Zones.md",
+    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/03-Client-Server Model.md",
+    "Redes/Chapter 3/01-Transport Services and Protocols.md",
+    "Redes/Chapter 2/01-Network Application Architectures.md",
+    "Ingeniería de Software I/19-Patrones de Diseño.md",
+    "Ingeniería de Software I/img/Pasted image 20241201095637.png",
     "Programación Concurrente/Programación Concurrente.md",
     "Redes/TPT Redes.md",
     "Pasted image 20241108085257.png",
@@ -173,27 +193,9 @@
     "Empresa de Base Tecnológica II/01-Economía/05-Innovación.md",
     "Empresa de Base Tecnológica II/01-Economía/03-Cruz de Porter.md",
     "Empresa de Base Tecnológica II/01-Economía/02-Análisis PESTA.md",
-    "Empresa de Base Tecnológica II/01-Economía/01-Análisis del Contexto.md",
-    "Empresa de Base Tecnológica I/Empresa de Base Tecnológica I.md",
-    "Empresa de Base Tecnológica I/02-Dinero.md",
-    "Empresa de Base Tecnologica/Empresa de Base Tecnologica.md",
-    "Empresa de Base Tecnológica I/01-Introduccion a la Economia.md",
-    "Empresa de Base Tecnológica II/Empresa de Base Tecnológica II.md",
-    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04C-Amazon EC2 Pricing.md",
-    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04B-Amazon EC2 instance types.md",
-    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04A-Amazon Elastic Compute Cloud(EC2).md",
-    "AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/03-Client-Server Model.md",
-    "AWS/Cloud Practitioner (CLF-C02)/AWS Cloud Practitioner(CLF-C02).md",
-    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/Module 1 - Introduction to AWS.md",
-    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/02-Cloud Deployment Models.md",
-    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/02B-Cloud Computing Models.md",
-    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/01B-Advantages of Cloud Computing.md",
-    "AWS/Cloud Practitioner (CLF-C02)/01-Introduction to AWS/01-Cloud Computing.md",
-    "MongoDB/MongoDB Data Modeling/02-The Document Model.md",
     "MongoDB/img/Pasted image 20241129084611.png",
     "MongoDB/img/Pasted image 20241129084513.png",
     "MongoDB/img/Pasted image 20241129084313.png",
-    "MongoDB/MongoDB Data Modeling/01-MongoDB.md",
     "MongoDB/img",
     "MongoDB/Untitled.canvas",
     "MongoDB/img/Pasted image 20241128151012.png",
@@ -202,7 +204,6 @@
     "Ingeniería de Software I/img/Pasted image 20241127181817.png",
     "Ingeniería de Software I/img/Pasted image 20241127180137.png",
     "Ingeniería de Software I/img/Pasted image 20241127162844.png",
-    "Ingeniería de Software I/img/Pasted image 20241127162738.png",
     "Ingeniería de Software I/img",
     "Empresa de Base Tecnológica II/02-Legal.zip",
     "Empresa de Base Tecnológica II/02-Legal",
@@ -210,7 +211,6 @@
     "Untitled.canvas",
     "MongoDB",
     "Elastic Search",
-    "Empresa de Base Tecnológica I/img",
     "Empresa de Base Tecnológica I/img"
   ]
 }

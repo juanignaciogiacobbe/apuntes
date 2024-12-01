@@ -1,4 +1,4 @@
-# [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04A-Amazon%20Elastic%20Compute%20Cloud(EC2).md) Hibernate
+# [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) Hibernate
 - We can stop and terminate instances:
 	- **Stop**: The data on disk(EBS) is kept intact in the next start.
 	- **Terminate**: Any EBS volumes(root) also set-up to be destroyed is lost.
