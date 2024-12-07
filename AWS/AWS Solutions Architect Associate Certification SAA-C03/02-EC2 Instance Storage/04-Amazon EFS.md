@@ -16,7 +16,7 @@
 
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241105095901.png)
 
-> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.114](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=114&selection=8,0,12,29&color=yellow)
+> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.114](AWS/Slides/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=114&selection=8,0,12,29&color=yellow)
 > > EFS – Performance & Storage Classes
 > 
 > 

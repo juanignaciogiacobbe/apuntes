@@ -48,7 +48,7 @@
 
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203110504.png)
 
-> [!PDF|red] [AWS Certified Solutions Architect Slides v39, p.314](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=314&selection=8,0,14,15&color=red)
+> [!PDF|red] [AWS Certified Solutions Architect Slides v39, p.314](AWS/Slides/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=314&selection=8,0,14,15&color=red)
 > > Amazon S3 Encryption – Client-Side Encryption
 
 

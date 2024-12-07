@@ -31,7 +31,7 @@
 > - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
 > - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
 
-> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.128](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=128&selection=8,0,8,29&color=yellow)
+> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.128](AWS/Slides/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=128&selection=8,0,8,29&color=yellow)
 > > Types of load balancer on AWS
 > 
 > 

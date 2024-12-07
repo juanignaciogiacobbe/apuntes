@@ -54,6 +54,69 @@ Con estos cambios no se viola el principio de Open Closed, y si en un futuro se 
 
 	Es cualquier característica en el código fuente de un programa que posiblemente indique un problema más profundo. Los code smell aparecen cuando al revisar fragmentos de código, se detectan malas prácticas tanto semánticas(por ejemplo un código con demasiados comentarios), como de diseño(por ejemplo si se viola algún principio SOLID, o si tenemos funciones con demasiados parámetros).
 
+6. Qué diferencia un token tradicional de un token JWT, comente las ventajas y desventajas.
+
+	Al utilizar tokens tradicionales, se pasan las credenciales para todas las operaciones que quiera hacer el usuario(normalmente codificadas con Base64). Esta forma es bastante sencilla, pero es insegura, debido a que vamos a estar constantemente pasando nuestras credenciales.
+	Al utilizar tokens JWT, las credenciales viajan una sola vez: Se validan las credenciales, y se pasa el token. El servidor no guarda los tokens, sino que conoce un mecanismo para validar tokens firmados por el(es stateless). Al tener esta verificación, el usuario debe colocar sus credenciales una sola vez, y luego se utiliza el token JWT para validar su identidad en el servidor.
+
+7. ¿Qué significa autenticar y que autorizar. De 3 ejemplos diferentes de cómo podría autenticarse a un usuario en un sistema.
+
+	Autenticar es validar la identidad de un usuario en el sistema. Esto se suele mediante el pedido de credenciales de parte del servidor. Autorizar es tomar esa identidad, y verificar que permisos tiene dentro del sistema(que acciones puede realizar, y cuales no).
+
+8. ¿Cuáles son los síntomas de un mal diseño? Detalle brevemente cada uno.
+
+	- Rigidez: quiero modificar algo y tengo que cambiar cosas en 35 lugares.
+	- Fragilidad: toco algo de algún lado y se rompe algo en otro.
+	- Inmovilidad: quiero mover ciertas funcionalidades de un lado a otro y no puedo. Está todo demasiado acoplado.
+
+9. ¿Qué es la inversión de dependencia? Explique y dé un ejemplo de código.
+
+	Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones. Las abstracciones no deberían depender de detalles (implementaciones concretas). Los detalles deberían depender de abstracciones.
+
+10. ¿Se viola algún/os principio SOLID? En caso afirmativo indicar cuál/es, y cómo lo resolvería.
+
+	```
+	public class MileageCalculator {  
+	    private List<Car> cars;  
+	    public MileageCalculator(List<Car> cars) {  
+	        this.cars = cars;  
+	    }  
+	    public void CalculateMileage() {  
+	        for (Car car : cars) {  
+	            if (car.name.equals("Audi")) {  
+	                System.out.println("Mileage of the car " + car.name + " is 10M");  
+	            } else if (car.name.equals("Mercedes")) {  
+	                System.out.println("Mileage of the car" + car.name + "is 20M");  
+	            }  
+	        }  
+	    }  
+	}
+	```
+
+	- Open Closed: Si quiero agregar mas tipos de autos, voy a tener que tocar el código fuente de `MileageCalculator`(Es rígido). La forma de resolver este problema es creando clases concretas para cada tipo de auto, y aprovechar el polimorfismo para que solamente se haga una llamada en `CalculateMileage`.
+	- Single Responsibility: La clase tiene varias razones de cambio: por ahora hace el calculo de millas, pero también es responsable de printear por consola el mensaje de salida. Esto se resuelve reduciendo las razones de cambio de esta clase mediante el uso de delegación de responsabilidades(se podría crear otra clase responsable de la acción que realiza cada auto al llamarse el `calculatemileage`.
+
+11. Explique el mecanismo de Autenticación Basic Authentication, y como lo utiliza en una API Rest.
+
+	Tomo mis credenciales(username, password, etc), las codifico en Base64, y cuando quiera autenticarme en un sistema, simplemente agrego estas credenciales en el campo `Authorization` en las llamadas a la API REST. 
+
+12. Haga un diagrama de secuencia explicando cómo se realiza un login que retorna un token JWT y como luego se accede a un servicio que requiere autenticación.
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927160053.png)
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927160235.png)
+
+
+13. A qué nos referimos por Calidad Semántica de las historias de usuario.
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925160056.png)
+
+14. ¿Qué son los criterios de aceptación? ¿Qué características se desea que tengan?  Escriba una historia de usuario y defina los criterios de aceptación para la misma
+
+> [!IMPORTANT] Criterios de Aceptación
+> Condiciones específicas que deben cumplirse para aceptar trabajo realizado.
+> Deben ser claros, concisos, verificables, independientes y orientados al problema.
+
+
 
 ---
 ## Parcial Memo II 1C24

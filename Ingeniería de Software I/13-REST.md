@@ -9,7 +9,7 @@
 - Expone recursos(URIs)
 - Usa explicitamente los verbos HTTP.
 - Navegable.
-- [14-REST-Security](Ingeniería%20de%20Software%20I/14-REST-Security.md)
+- [REST-Security](Ingeniería%20de%20Software%20I/14-REST-Security.md)
 
 
 > [!WARNING] Stateless

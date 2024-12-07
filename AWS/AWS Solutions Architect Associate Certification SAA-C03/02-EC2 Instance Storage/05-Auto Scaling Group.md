@@ -40,7 +40,7 @@
 - Min Size / Max Size / Initial Capacity.
 - Scaling Policies.
 
-> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.155](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=155&selection=8,0,12,27&color=yellow)
+> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.155](AWS/Slides/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=155&selection=8,0,12,27&color=yellow)
 > > Auto Scaling - CloudWatch Alarms & Scaling
 
 
