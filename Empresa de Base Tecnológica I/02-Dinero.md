@@ -12,7 +12,7 @@
 - <span style="color:#ffff00">Rendimiento</span>: Remuneración debida a su posesión durante un determinado periodo de tiempo.
 - <span style="color:#ffff00">Riesgo</span>: Evalúa la posibilidad de afectar su calidad como reserva de valor.
 
-## <span style="color:#c00000">Por que se</span> [[Demanda]] <span style="color:#c00000">Dinero?</span>
+## <span style="color:#c00000">Por que se</span> [[Empresa de Base Tecnológica I/06-Demanda]] <span style="color:#c00000">Dinero?</span>
 - <span style="color:#ffff00">Transacciones</span>: Compra de bienes y servicios.(Ingreso de dinero)
 - <span style="color:#ffff00">Precaucion</span>: Para cubrirse ante una necesidad imprevista. (Ingreso de dinero)
 - <span style="color:#ffff00">Especulacion</span>: Costo de oportunidad de tener liquidez perfecta frente a tasas de interés altas.
@@ -24,7 +24,7 @@
 > - A menor riesgo -> Menor tasa de interés.
 
 ## <span style="color:#c00000">Valor nominal del Dinero</span>
-> Es el valor que tiene este en un momento determinado del tiempo sin considerar otras variables como la tasa de interés, la [[Inflacion]], el tipo de cambio, etc.
+> Es el valor que tiene este en un momento determinado del tiempo sin considerar otras variables como la tasa de interés, la [Inflacion](Empresa%20de%20Base%20Tecnológica%20I/03-Inflación.md), el tipo de cambio, etc.
 
 ## <span style="color:#c00000">Valor Tiempo del Dinero</span>
 > Es el valor que tiene este teniendo en cuenta que una misma suma de dinero vale mas hoy que en el futuro debido a que, en el presente, puedo tomar ese dinero y ponerlo a generar rendimientos a futuro.
@@ -61,7 +61,7 @@
 - Cuando una anualidad es muy grande, hablamos de una perpetuidad.
 
 ## <span style="color:#c00000">Tasa de Interés e Inflación</span> 
-- Ante la presencia de [[Inflacion]] en la economía, se debe revisar el cálculo de las tasas de interés. La Tasa Efectiva es “Nominal respecto de la inflación”; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la “Tasa Real”.
+- Ante la presencia de inflación en la economía, se debe revisar el cálculo de las tasas de interés. La Tasa Efectiva es “Nominal respecto de la inflación”; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la “Tasa Real”.
 - Es erróneo calcular la Tasa Real como la resta entre la Tasa Efectiva y la Tasa de Inflación (eso es solamente válido para análisis macroeconómicos donde la inflación ronda el 1%-2% anual).
 
 ## <span style="color:#c00000">Tasa de Interés y Tipo de Cambio</span> 

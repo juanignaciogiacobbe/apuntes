@@ -2,14 +2,14 @@
 > - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of [latency](Redes/Chapter%201/03-Delay,%20Loss%20and%20Throughput.md).
 > - It allows your instances to persist data, even after their termination.
 > - They can only be mounted to one instance at a time.
-> - They are bound to a specific [Availability Zone](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/08B-Availability%20Zones.md).
+> - They are bound to a specific [Availability Zone](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/02-Availability%20Zones.md).
 > - Have a provisioned capacity -> You get billed for all the provisioned capacity, and you can increase the capacity of the drive over time.
 
 
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241105084929.png)
 
 # Delete on Termination attribute
-- Controls the EBS behaviour when a [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance terminates.
+- Controls the EBS behaviour when a [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance terminates.
 	- By default, the root EBS volume is deleted(attribute enabled).
 	- By default, any other attached EBS volume is not deleted(attribute disabled).
 - This can be controlled by the AWS console/ AWS CLI.
@@ -17,7 +17,7 @@
 
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241105085254.png)
 
-
+---
 
 > [!IMPORTANT] EBS Snapshots
 > - Make a backup(snapshot) of your EBS volume at a point in time.
@@ -90,3 +90,10 @@
 - EBS Encryption leverages keys from KMS(AES-256).
 - Copying an unencrypted snapshot allows encryption.
 - Snapshots of encrypted volumes are encrypted.
+
+
+> [!WARNING] Encrypt an Unencrypted EBS Volume
+> 1. Create an EBS Snapshot of the volume.
+> 2. Encrypt the EBS Snapshot(using copy).
+> 3. Create new EBS volume from the snapshot(the volume will also be encrypted).
+> 4. Now you can attach the encrypted volume to the original instance.

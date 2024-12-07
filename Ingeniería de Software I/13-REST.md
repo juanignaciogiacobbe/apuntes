@@ -28,12 +28,12 @@
 - Reduce la carga en servidores.
 - Oculta fallos de red.
 
-![](img%20is1/Pasted%20image%2020240927083631.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927083631.png)
 
 > [!WARNING] Compresion
 > Las APIs suelen retornar representaciones en varios formatos, entre ellos el formato plano, XML, JSON, etc, y estos formatos pueden ser comprimidos para ahorrar ancho de banda sobre la red.
 
-![](img%20is1/Pasted%20image%2020240927083809.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927083809.png)
 
 
 
@@ -44,7 +44,7 @@
 - Uso de sustantivos en plural por convención. **NO verbos**.
 - Distinción de recursos principales y subordinados.
 
-![](img%20is1/Pasted%20image%2020240927084054.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927084054.png)
 
 
 # HTTP Requests
@@ -67,13 +67,13 @@
 - 4XX: Client Error.
 - 5XX: Server Error.
 
-![](img%20is1/Pasted%20image%2020240927084517.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927084517.png)
 
 
 > [!IMPORTANT] Versionado
 > REST no provee un mecanismo definido para versionado, pero se suelen ver estas estrategias:
 
-![](img%20is1/Pasted%20image%2020240927160552.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927160552.png)
 
 
 
@@ -82,13 +82,13 @@
 > - Reducir el tamaño de la respuesta a lo necesario.
 > - Utilizar Códigos de Errores HTTP.
 
-![](img%20is1/Pasted%20image%2020240927160737.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927160737.png)
 
 
 > [!info] Paginados, Filtros y Ordenamientos
 > Suelen usarse como parámetros del queryString o del body.
 
-![](img%20is1/Pasted%20image%2020240927161007.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240927161007.png)
 
 
 > [!NOTE] Logging, Health, Metrics

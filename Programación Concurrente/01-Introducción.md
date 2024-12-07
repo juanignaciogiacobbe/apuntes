@@ -23,7 +23,7 @@
 > [!IMPORTANT] Ejecución del Programa Concurrente
 > Resulta al ejecutar una secuencia de instrucciones atómicas que se obtiene de intercalar arbitrariamente las instrucciones atómicas de los procesos que lo componen.
 
-![](img%20concu/Pasted%20image%2020240929114224.png)
+![](Programación%20Concurrente/img%20concu/Pasted%20image%2020240929114224.png)
 
 > [!WARNING] Ejecución de las instrucciones atómicas
 > Una instrucción atómica puede ejecutarse de principio a fin sin interrupciones, o directamente no ejecutarse. 

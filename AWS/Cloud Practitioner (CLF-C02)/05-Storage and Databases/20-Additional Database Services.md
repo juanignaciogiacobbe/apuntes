@@ -11,11 +11,6 @@
 ## Amazon Managed Blockchain
 - Service that you can use to create and manage blockchain networks with open-source frameworks. 
 - Blockchain is a distributed ledger system that lets multiple parties run transactions and share data without a central authority.
-
-## Amazon ElastiCache
-- Adds caching layers on top of your databases to help improve the read times of common requests. 
-- It supports two types of data stores: Redis and Memcached.
-
 ## Amazon DynamoDB Accelerator(DAX)
 - in-memory cache for DynamoDB. 
 - It helps improve response times from single-digit milliseconds to microseconds.

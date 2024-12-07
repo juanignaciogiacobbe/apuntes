@@ -10,3 +10,8 @@
 ## Modelos de Concurrencia
 - [02-Modelo Fork Join](Programación%20Concurrente/02-Modelo%20Fork%20Join.md)
 - [03-Programación Asincrónica](Programación%20Concurrente/03-Programación%20Asincrónica.md)
+
+## Concurrencia Distribuida
+- [10-Concurrencia Distribuida](Programación%20Concurrente/10-Concurrencia%20Distribuida.md)
+- [11-Algoritmos de Elección](Programación%20Concurrente/11-Algoritmos%20de%20Elección.md)
+- [12-Transacciones](Programación%20Concurrente/12-Transacciones.md)

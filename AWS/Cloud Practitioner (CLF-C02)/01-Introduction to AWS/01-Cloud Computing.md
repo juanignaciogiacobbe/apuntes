@@ -1,7 +1,7 @@
 
 > [!IMPORTANT] Cloud Computing
 > - The on-demand delivery of IT resources over the [Internet](Redes/Chapter%201/01-Internet.md) with pay-as-you-go(Pay by the hour or the second for only what you use) pricing.
-> - [See Advantages of Cloud Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/01-Introduction%20to%20AWS/01B-Advantages%20of%20Cloud%20Computing.md)
+> - [See Advantages of Cloud Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/01-Introduction%20to%20AWS/02-Advantages%20of%20Cloud%20Computing.md)
 
 
 > [!IMPORTANT] On-Demand Delivery

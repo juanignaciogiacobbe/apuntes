@@ -1,5 +1,5 @@
 > [!IMPORTANT] Ventaja Competitiva
-> Capacidad de una empresa para superar a sus competidores y obtener un rendimiento superior en el [Mercado](Empresa%20de%20Base%20Tecnológica%20I/Mercado.md). Esta ventaja puede lograrse a través de la diferenciación de productos de servicios, o mediante la reducción de [costos](Empresa%20de%20Base%20Tecnológica%20I/Costos.md).
+> Capacidad de una empresa para superar a sus competidores y obtener un rendimiento superior en el [08-Mercado](Empresa%20de%20Base%20Tecnológica%20I/08-Mercado.md). Esta ventaja puede lograrse a través de la diferenciación de productos de servicios, o mediante la reducción de [costos](Empresa%20de%20Base%20Tecnológica%20I/Costos.md).
 
 
 | Liderazgo en Costos                                                                                                        | Diferenciacion                                                                                                                                                                      |

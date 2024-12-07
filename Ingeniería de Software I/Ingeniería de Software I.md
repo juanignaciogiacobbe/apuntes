@@ -15,3 +15,17 @@
 - [14-REST-Security](Ingeniería%20de%20Software%20I/14-REST-Security.md)
 - [15-Kata](Ingeniería%20de%20Software%20I/15-Kata.md)
 - [16-Refactoring](Ingeniería%20de%20Software%20I/16-Refactoring.md)
+- [17-Docker](Ingeniería%20de%20Software%20I/17-Docker.md)
+- [18-Git](Ingeniería%20de%20Software%20I/18-Git.md)
+- [19-Patrones de Diseño](Ingeniería%20de%20Software%20I/19-Patrones%20de%20Diseño.md)
+
+
+https://docs.google.com/document/d/1BC88fuyR-BlWkTxFk74CZlmH_LFg-99vrlJ7eunhbK4/edit?usp=sharing
+
+https://docs.google.com/document/d/1Mi7BQkC0EJ0oWDxRRLcBuMLIOC8-EzwNJ62CfWMO984/edit?tab=t.0
+
+https://docs.google.com/document/d/1iegYpyPYhhXQZQhXhIkd_UZZyI44AIwEFix6syeC_q0/edit?tab=t.0
+
+https://github.com/7510-tecnicas-de-disenio/material-clases/tree/master
+
+https://fiuba-informatica.notion.site/Resoluci-n-de-Ex-menes-7772350d313744afb6059364ec79d164

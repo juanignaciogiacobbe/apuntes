@@ -20,23 +20,26 @@
 - Durables: Una vez que se commitean los cambios, son permanentes.
 
 ## Implementación
-- Private Workspace
-	- Al iniciar una transacción, el proceso recibe una copia de todos los archivos a los cuales tiene acceso.
-	- Hasta que hace commit, el proceso trabaja con la copia.
-	- Al hacer commit, se persisten los cambios.
-	- Es extremadamente costoso salvo por optimizaciones.
-- Writeahead Log
-	- Los archivos se modifican in place, pero se mantiene una lista de los cambios aplicados(primero se escribe la lista y luego se modifica el archivo).
-	- Al commitear la transacción, se escribe un registro commit en el log.
-	- Si la transacción se aborta, se lee el log de atrás hacia adelante para deshacer los cambios(rollback).
-- Commit en dos fases
-	- El coordinador es aquel proceso que ejecuta la transacción.
-	- Fase 1:
-		1. El coordinador escribe `prepare` en su log y envía el mensaje `prepare` al resto de los procesos.
-		2. Los procesos reciben el mensaje, escriben `ready` en el log y envían `ready` al coordinador.
-	- Fase 2:
-		1. El coordinador hace los cambios y envía el mensaje `commit` al resto de los procesos.
-		2. Los procesos que reciben el mensaje, escriben `commit` en el log y envían `finished` al coordinador.
+
+### Private Workspace
+- Al iniciar una transacción, el proceso recibe una copia de todos los archivos a los cuales tiene acceso.
+- Hasta que hace commit, el proceso trabaja con la copia.
+- Al hacer commit, se persisten los cambios.
+- Es extremadamente costoso salvo por optimizaciones.
+
+### Writeahead Log
+- Los archivos se modifican in place, pero se mantiene una lista de los cambios aplicados(primero se escribe la lista y luego se modifica el archivo).
+- Al commitear la transacción, se escribe un registro commit en el log.
+- Si la transacción se aborta, se lee el log de atrás hacia adelante para deshacer los cambios(rollback).
+
+### Commit en Dos Fases
+- El coordinador es aquel proceso que ejecuta la transacción.
+- Fase 1:
+	1. El coordinador escribe `prepare` en su log y envía el mensaje `prepare` al resto de los procesos.
+	2. Los procesos reciben el mensaje, escriben `ready` en el log y envían `ready` al coordinador.
+- Fase 2:
+	1. El coordinador hace los cambios y envía el mensaje `commit` al resto de los procesos.
+	2. Los procesos que reciben el mensaje, escriben `commit` en el log y envían `finished` al coordinador.
 
 
 ## Control de Concurrencia

@@ -1,6 +1,6 @@
 # Diseño de Código
 
-![](img%20is1/Pasted%20image%2020240925150417.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925150417.png)
 
 
 

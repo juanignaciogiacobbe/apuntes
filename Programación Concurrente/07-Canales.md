@@ -2,7 +2,7 @@
 > Conectan un proceso emisor con un proceso receptor. Son sincronicos o asincronicos.
 > Tienen un nombre, son tipados y unidireccionales.
 
-![](img%20concu/Pasted%20image%2020241004161230.png)
+![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241004161230.png)
 
 
 > [!IMPORTANT] Selective Input
@@ -37,4 +37,4 @@
 - Transfieren el ownership del elemento enviado.
 - Para crear multiples productores, se clona el extremo de envío.
 
-![](img%20concu/Pasted%20image%2020241004162039.png)
+![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241004162039.png)

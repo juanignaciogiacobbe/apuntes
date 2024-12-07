@@ -13,7 +13,7 @@
 
 ## AWS Pricing Examples
 
-### [07C-AWS Lambda](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/07C-AWS%20Lambda.md)
+### [06-AWS Lambda](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/06-AWS%20Lambda.md)
 - You are charged based on the number of requests for your functions and the time that it takes for them to run.
 - AWS Lambda allows 1 million free requests and up to 3.2 million seconds of compute time per month.
 - A request is counted each time it starts execution. Test invokes in the console count as well.
@@ -27,7 +27,7 @@
 
 	![aws_lambda_pricing_example](../img/aws_lambda_pricing_example.png)
 
-### [[AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04-Amazon Elastic Compute Cloud(EC2)]]
+### [[AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2)]]
 - You pay for only the compute time that you use while your instances are running.
 - For some workloads, you can significantly reduce Amazon EC2 costs by using **Spot Instances**: Your requests are fulfilled only if capacity is available. For example, suppose that you are running a batch processing job that is able to withstand interruptions. Using a Spot Instance would provide you with up to 90% cost savings while still meeting the availability requirements of your workload.
 - You can find additional cost savings for Amazon EC2 by considering Savings Plans and Reserved Instances.
@@ -41,7 +41,7 @@
 
 	![ec2_pricing_example](../img/ec2_pricing_example.png)
 
-### [[AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/14B-Amazon Simple Storage Service(S3)]]
+### [[AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3)]]
 - For Amazon S3 pricing, consider the following cost components:
 	- **Storage -** You pay for only the storage that you use. You are charged the rate to store objects in your Amazon S3 buckets based on your objects’ sizes, storage classes, and how long you have stored each object during the month.
 	- **Requests and data retrievals -** You pay for requests made to your Amazon S3 objects and buckets. For example, suppose that you are storing photo files in Amazon S3 buckets and hosting them on a website. Every time a visitor requests the website that includes these photo files, this counts towards requests you must pay for.

@@ -14,7 +14,7 @@
 - Permite a nuevos integrantes del equipo entender la arquitectura del sistema y ubicarse dentro de la solución.
 - Permite discutir con todos los stakeholders las distintas decisiones y validarlas en una etapa temprana.
 
-![](img%20is1/Pasted%20image%2020240925163648.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925163648.png)
 
 
 > [!IMPORTANT] Vista Lógica

@@ -1,5 +1,5 @@
 # Amazon Inspector
-- Automatically discovers workloads, such as [04-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Amazon%20Elastic%20Compute%20Cloud(EC2).md), containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
+- Automatically discovers workloads, such as [01-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md), containers, and Lambda functions, and scans them for software vulnerabilities and unintended network exposure.
 - Is an automated vulnerability management service that **continually scans AWS workloads for software vulnerabilities and unintended network exposure.**
 - Helps to improve the security and compliance of applications by running **automated security assessments.**
 - It checks applications for security vulnerabilities and deviations from security best practices, such as open access to Amazon EC2 instances and installations of vulnerable software versions.

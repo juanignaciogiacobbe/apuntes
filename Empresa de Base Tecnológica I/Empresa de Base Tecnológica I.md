@@ -12,7 +12,7 @@
 
 ## Proceso de Creación de una EBT
 1. Identificación de una oportunidad tecnológica.
-2. Validación del [[Mercado]]: investigación del mismo, análisis de competidores y evaluación de la demanda.
+2. Validación del [[Empresa de Base Tecnológica I/08-Mercado]]: investigación del mismo, análisis de competidores y evaluación de la demanda.
 3. Formación de un equipo multidisciplinario.
 4. Desarrollo tecnológico: I+D, iteraciones y mejoras.
 5. Búsqueda de financiamiento y recursos: incubación y aceleración.
@@ -28,7 +28,7 @@
 
 > [!WARNING] ¿Por qué es importante el Valor Agregado?
 > - <span style="color:#ffff00">Medición de la eficiencia</span>: gasto menos recursos, y produzco mas.
-> - <span style="color:#ffff00">Competitividad</span>: si rompes la hegemonía, explota la competitividad en ese [[Mercado]].
+> - <span style="color:#ffff00">Competitividad</span>: si rompes la hegemonía, explota la competitividad en ese [[Empresa de Base Tecnológica I/08-Mercado]].
 > - <span style="color:#ffff00">Precio y margen</span>: puedo aumentar el precio a mayor valor agregado.
 > - <span style="color:#ffff00">Satisfacción del cliente</span>.
 
@@ -44,5 +44,5 @@
 
 
 ## Primera Parte: Economía
-- [01-Introduccion a la Economia](Empresa%20de%20Base%20Tecnológica%20I/01-Introduccion%20a%20la%20Economia.md)
+- [01-Introduccion a la Economía](Empresa%20de%20Base%20Tecnológica%20I/01-Introduccion%20a%20la%20Economía.md)
 - [02-Dinero](Empresa%20de%20Base%20Tecnológica%20I/02-Dinero.md)

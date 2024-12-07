@@ -14,4 +14,4 @@
 > - Un diseño de las tablas de una base de datos.
 > - Un diseño de las clases a desarrollar.
 
-![](img%20is1/Pasted%20image%2020240928105251.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240928105251.png)
