@@ -3,7 +3,7 @@
 - Se implementa mediante variables del tipo *lock*, que contienen el estado del mismo.
 	- `lock()`: El proceso se bloquea hasta poder obtener el lock.
 	- `unlock()`: El proceso libera el lock que tomo previamente.
-- Para la implementacion se necesita soporte tanto del hardware como del sistema operativo.
+- Para la implementación se necesita soporte tanto del hardware como del sistema operativo.
 
 ## Locks en UNIX
 - Mecanismo de sincronismo de acceso a un archivo(o de cualquier otro recurso).

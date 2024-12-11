@@ -29,8 +29,8 @@
 	- Cuando un thread termina la ejecución de una tarea, coloca las sub-tareas creadas al final de la cola.
 	- Toma la siguiente tarea para ser ejecutada del final de la cola.
 	- Si la cola esta vacía, y el thread no tiene mas trabajo, trata de roba tareas del inicio de una cola de otro thread(random).
-- Los worker threads se comunican solamente cuando lo necesitan -> Menor necesidad de sincronizacion.
-- La implementacion de la cola deque agrega bajo overhead de sincronizacion.
+- Los worker threads se comunican solamente cuando lo necesitan -> Menor necesidad de sincronización.
+- La implementación de la cola deque agrega bajo overhead de sincronización.
 
 ## Rayon
 > Implementa el modelo de Fork-Join de dos formas:
