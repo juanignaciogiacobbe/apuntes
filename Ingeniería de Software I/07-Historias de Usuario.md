@@ -1,7 +1,7 @@
 > [!IMPORTANT] Historias de Usuario
 > Es una descripción de la funcionalidad del sistema, desde el punto de vista de un usuario.
-> Se enfocan en el valor provisto, dando pie a discutir el requisito.
-> NO son el requisito en sí.
+> - Se enfocan en el valor provisto, dando pie a discutir el requisito.
+> - NO son el requisito en sí.
 
 ```
 Como <persona>

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b45cc835aa4f067d",
+        "id": "125e4646be7c0214",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac42049942d994f",
+            "id": "6762532b1b48871f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería de Software I/Ingeniería de Software I.md",
+                "file": "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingeniería de Software I"
+              "title": "09-Modelo de Vistas de Arquitectura 4 + 1"
             }
           }
         ]
@@ -139,18 +139,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empresa de Base Tecnológica II/14-Lean Startup.md"
+                "file": "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 14-Lean Startup"
+              "title": "Outline of 09-Modelo de Vistas de Arquitectura 4 + 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 415.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,55 +166,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141924f75d28cc6e",
+  "active": "6762532b1b48871f",
   "lastOpenFiles": [
-    "AWS/Slides",
     "Ingeniería de Software I/Repaso Final.md",
-    "Ingeniería de Software I/07-Historias de Usuario.md",
     "Ingeniería de Software I/14-REST-Security.md",
-    "Ingeniería de Software I/04-SOLID.md",
-    "Ingeniería de Software I/13-REST.md",
-    "Ingeniería de Software I/11-Atributos de Calidad.md",
     "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
-    "Ingeniería de Software I/08-UML.md",
-    "Ingeniería de Software I/06-Product Discovery.md",
-    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
-    "Ingeniería de Software I/02-Design Thinking.md",
-    "Ingeniería de Software I/03-Diseño de Código.md",
+    "Ingeniería de Software I/10-Modelo de Dominio.md",
+    "Ingeniería de Software I/Untitled.canvas",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
+    "Excalidraw/Drawing 2024-12-10 16.16.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-10 16.16.29.excalidraw.md",
+    "Excalidraw",
+    "Ingeniería de Software I/19-Patrones de Diseño.md",
+    "Ingeniería de Software I/Ingeniería de Software I.md",
+    "hola.canvas",
+    "Ingeniería de Software I/img is1/Pasted image 20241210160024.png",
     "Ingeniería de Software I/01-Entendiendo el Problema.md",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131509.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131930.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131842.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131641.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131619.png",
+    "Ingeniería de Software I/05-Ceremonias SCRUM.md",
+    "Ingeniería de Software I/07-Historias de Usuario.md",
+    "Ingeniería de Software I/04-SOLID.md",
+    "Ingeniería de Software I/03-Diseño de Código.md",
+    "Ingeniería de Software I/02-Design Thinking.md",
+    "AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/02-RDS Multi AZ.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/01-RDS Read Replicas.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/04-Amazon EFS.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect(SAA-C03).md",
+    "AWS/Slides",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS.md",
+    "Ingeniería de Software I/17-Docker.md",
+    "Ingeniería de Software I/18-Git.md",
     "Ingeniería de Software I/16-Refactoring.md",
     "Ingeniería de Software I/15-Kata.md",
-    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
-    "Ingeniería de Software I/10-Modelo de Dominio.md",
-    "Ingeniería de Software I/Ingeniería de Software I.md",
-    "Ingeniería de Software I/17-Docker.md",
-    "Ingeniería de Software I/img is1/Pasted image 20241206175757.png",
-    "Ingeniería de Software I/img is1/Pasted image 20241206175101.png",
-    "Ingeniería de Software I/img is1/Pasted image 20241206104043.png",
-    "Programación Concurrente/10-Concurrencia Distribuida.md",
-    "Programación Concurrente/13-Ambientes Distribuidos.md",
-    "Programación Concurrente/12-Transacciones.md",
-    "Programación Concurrente/11-Algoritmos de Elección.md",
-    "Programación Concurrente/Programación Concurrente.md",
-    "Programación Concurrente/09-Redes de Petri.md",
+    "Programación Concurrente/Pasted image 20241209145440.png",
+    "Programación Concurrente/img concu/Pasted image 20241209144800.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241209143139.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241209142126.png",
     "AWS/Slides/AWSCertifiedMLSlides.pdf",
-    "Base de Datos/img/Pasted image 20241205090606.png",
-    "Base de Datos/img/Pasted image 20241205085221.png",
-    "Base de Datos/img/Pasted image 20241205084445.png",
     "Base de Datos/img",
-    "Base de Datos/img/Pasted image 20241205083909.png",
-    "Untitled.canvas",
     "Base de Datos",
     "AWS/AWS Machine Learning Specialty MLS-C01/02-Exploratory Data Analysis",
-    "AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204120836.png",
-    "AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204120558.png",
-    "AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204120226.png",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/Untitled",
     "AWS/AWS Machine Learning Specialty MLS-C01/img",
-    "AWS/Slides/AWS Certified Developer Slides v37.pdf",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering",
-    "AWS/AWS Machine Learning Specialty MLS-C01",
-    "AWS/AWS Developer Associate DVA-C02",
     "MongoDB/Untitled.canvas"
   ]
 }

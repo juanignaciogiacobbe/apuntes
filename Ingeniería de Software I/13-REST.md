@@ -7,7 +7,7 @@
 - Stateless.
 - Cacheable.
 - Expone recursos(URIs)
-- Usa explicitamente los verbos HTTP.
+- Usa explícitamente los verbos HTTP.
 - Navegable.
 - [REST-Security](Ingeniería%20de%20Software%20I/14-REST-Security.md)
 

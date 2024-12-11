@@ -187,3 +187,61 @@ Principios SOLID que se violan:
 	`git commit -m <mensaje_del_commit>` -> Con esto se realiza el commit a la branch actual.
 
 	Mensaje del commit: "feat: se pasa como dato obligatorio a la clase Registrador la fecha de nacimiento del nuevo usuario, debido a que solo se pueden registrar personas de más de 16 años.".
+
+---
+
+## Parcial IS1 2C24
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209101508.png)
+
+1. La vista de Desarrollo(o componentes) nos muestran la organización de módulos de software en el ambiente de desarrollo del sistema. Normalmente es utilizada por los desarrolladores, ya que van a tener una visión más específica sobre los componentes que componen al sistema en conjunto. Tiene en cuenta los requisitos internos relativos a la facilidad de desarrollo, administración del software, reutilización y elementos comunes, y restricciones impuestas por las herramientas o el lenguaje de programación que se use.
+
+	Ejemplo(del TP grupal):
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209101851.png)
+
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209101931.png)
+
+2. El Burndown Chart es una representación gráfica del trabajo por hacer en un proyecto en el tiempo. Usualmente el trabajo remanente (o _backlog_) se muestra en el eje vertical y el tiempo en el eje horizontal. Es decir, el diagrama representa una serie temporal del trabajo pendiente. Este diagrama es útil para predecir cuándo se completará todo el trabajo.
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209102255.png)
+
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209102342.png)
+
+3. Se están usando demasiados valores para asignarle peso a las tareas. En primer lugar, habría que reducir la cantidad de valores que tiene la secuencia: yo usaría de 5 a 7 valores, no más. Lo que pasa al usar muchos valores es que crecen muy rápido en Fibonacci, y por eso se ve mucha diferencia entre valores. Lo que también ayudaría es "atomizar" las tareas a realizar: esto va a ayudar a reducir las diferencias en las ponderaciones de los integrantes, y las tareas van a reducir su peso, ya que son más pequeñas y más sencillas.
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209102813.png)
+
+4. Inciso 1:
+	1. Envío de emails -> Como usuario quiero poder enviar emails para comunicarme con otros usuarios.
+	2. Guardado de contactos -> Como usuario quiero poder guardar contactos, para facilitar el enviado de emails.
+	3. Vista de casilla de mensajes -> Como usuario quiero poder ver mi casilla de mensajes para ver quien se quiso comunicar conmigo.
+	Inciso 2:
+	1. Interoperabilidad: Necesitamos que el sistema pueda ser usado en múltiples plataformas, de manera que tengamos una mayor cantidad de potenciales usuarios en el sistema. Podemos tomar la cantidad de sistemas operativos y plataformas en las cuales funciona el sistema para medir este atributo.
+	2. Usabilidad: Tenemos que brindar una buena experiencia de usuario al usar el sistema. Tiene que tener una interfaz sencilla, y las acciones deben poder realizarse de forma rápida. Aquí podemos realizar encuestas a los mismos usuarios para ver su nivel de satisfacción con el sistema.
+	3. Seguridad: Tenemos que asegurarnos de brindar una capa de seguridad al sistema, debido a que en los emails pueden viajar datos sensibles de los usuarios, y no queremos que el canal de comunicación sea inseguro. Se deben seguir estándares de seguridad, y se pueden realizar auditorías de forma regular para medir este atributo.
+
+
+---
+
+## Recu IS1 2C24
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209141604.png)
+
+- Las daily son un tipo de ceremonia SCRUM en las cuales el equipo se reunirá diariamente. En estas reuniones(de poca duración), cada miembro expone los objetivos cumplidos el día anterior, y también cuenta sus bloqueantes para sus tareas del día corriente. Se deben organizar para hacerse diariamente, y tienen que ser cortas(de 15 a 30 minutos). Se debe proponer también la participación de cada miembro del equipo para que esta ceremonia cumpla su objetivo.
+- La retrospectiva es otro tipo de ceremonia SCRUM en la cual el equipo se junta a hacer una recapitulación del Sprint actual(que ha llegado a su fin). En estas reuniones, el equipo hace un relevamiento, y cuenta las sensaciones que tuvo durante el desarrollo del Sprint. La idea es hacerla antes de finalizar el Sprint actual, y se debe asegurar que el equipo esté completo en la reunión, para que así cada miembro exponga sus sensaciones.
+
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209142112.png)
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209142126.png)
+- El estado isOn de la lampara rompe el principio de OpenClosed, debido a que si yo quiero agregar un nuevo estado para la lámpara, tengo que modificar el código fuente de la clase(está abierto a modificaciones). Aquí se puede aplicar el patrón de diseño State para guardar los estados de la lámpara. Se tendría una abstracción `LampState`, y cada estado sería una implementación de esa abstracción(por ejemplo, `LampOnState`). Con esta modificación, los métodos `turnOn` y `turnOff` de la lampara simplemente delegarían a algún método interno del estado, y si yo en un futuro quiero agregar un estado nuevo, simplemente agrego la implementación de la abstracción propuesta.
+- Hay dos métodos comentados de código, no sé si eso es parte de la consigna pero no pinta nada tenerlos así...
+- Comentarios innecesarios en la función `main`.
+- Las llamadas a `button.press()` no vuelven a apagar la cámara...
+
+
+![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209143139.png)
+
+4. La vista física toma en cuenta primeramente los requisitos no funcionales del sistema tales como la disponibilidad, confiabilidad, rendimento y escalabilidad.

@@ -1,4 +1,3 @@
-# SCRUM
 
 ![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925153137.png)
 
@@ -24,7 +23,7 @@
 > Se obtiene una comprensión precisa de lo que se ha hecho, qué trabajo queda por hacer, y qué impedimentos existen que bloquean al equipo para completar el objetivo del sprint.
 
 
-> [!IMPORTANT] Demo
+> [!IMPORTANT] Demo/ Revisión
 > Se lleva a cabo el último día del sprint, donde el equipo muestra lo que se ha logrado durante el sprint.
 > El equipo tiene la libertad de presentar su trabajo de la manera que considere más adecuada, con el objetivo principal de dejar claro lo que se ha logrado durante el sprint, y abrir el espacio para recibir retroalimentación y sugerencias de cambios necesarios.
 > Se obtiene una revisión y retroalimentación sobre lo que se completó en el sprint más reciente, y también se obtiene una comprensión por parte de los stakeholders sobre lo que se completará en el corto plazo.
