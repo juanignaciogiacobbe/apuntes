@@ -5,10 +5,10 @@
 > [!IMPORTANT] Tareas Asincrónicas de Rust
 > Se las pueden usar para intercalar tareas en un único thread o en un pool de threads.
 > Son mucho mas livianas que los threads, más rápidas de crear, y más eficientes para pasarles el control.
-> La restricción la tiene en que tipo de procesamiento voy a hacer.
-> La mayor parte del tiempo la tengo que pasar en "espera"(poco computo).
-> Usarlas nos da menor overhead de memoria -> Se pueden tener miles o decenas de miles en un programa.
-> El código asincronico luce como el de threads, salvo que las operaciones se bloquean y se manejan diferente.
+> - La restricción la tiene en que tipo de procesamiento voy a hacer.
+> - La mayor parte del tiempo la tengo que pasar en "espera"(poco computo).
+> - Usarlas nos da menor overhead de memoria -> Se pueden tener miles o decenas de miles en un programa.
+> - El código asincrónico luce como el de threads, salvo que las operaciones se bloquean y se manejan diferente.
 
 ## Ejemplo Sincrónico
 
