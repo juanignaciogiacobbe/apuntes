@@ -36,6 +36,11 @@ jobs:
         -e 's/> \[!INFO\]/!!! info/g' \
         -e 's/> \[!QUOTE\]/!!! quote/g' {} +
 
+    - name: Convert Markdown Links to Wikilinks
+      run: |
+        find ./public-repo/docs/ -type f -name "*.md" -exec sed -E -i \
+        's/\[([^\]]+)\]\(([^)]+)\.md\)/[[\2|\\1]]/g' {} +
+
     - name: Commit and Push Changes
       run: |
         cd public-repo
