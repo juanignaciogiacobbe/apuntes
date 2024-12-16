@@ -15,7 +15,7 @@ jobs:
 
     - name: Clone Public Repository
       run: |
-        git clone https://${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git public-repo
+        git clone https://x-access-token:${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git public-repo
         cd public-repo
         git config user.name "juanignaciogiacobbe" 
         git config user.email "jgiacobbe@fi.uba.ar" 
