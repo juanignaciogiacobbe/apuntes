@@ -25,7 +25,7 @@ jobs:
     - name: Copy Notes to Public Repo
       run: |
         rsync -a --delete ./AWS ./public-repo/docs/
-        rsync -a --delete ./Programación\ Concurrente ./public-repo/docs/
+        rsync -a --delete ./Programacion\ Concurrente ./public-repo/docs/
         rsync -a --delete ./Sistemas\ Operativos ./public-repo/docs/
 
 
