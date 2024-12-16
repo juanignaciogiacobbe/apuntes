@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación Concurrente/Programación Concurrente.md",
+                "file": "Programación Concurrente/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programación Concurrente"
+              "title": "index"
             }
           }
         ]
@@ -166,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dc3bc99ab2c67a5",
+  "active": "141924f75d28cc6e",
   "lastOpenFiles": [
     "Programación Concurrente/15-Repaso de Redes.md",
-    "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/index.md",
     "Programación Concurrente/06-Sincronización.md",
     "Programación Concurrente/14-Detección de Deadlocks.md",
     "Programación Concurrente/13-Ambientes Distribuidos.md",
