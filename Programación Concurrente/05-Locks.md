@@ -1,5 +1,5 @@
 # Locks
-- Sirven para realizar exclusión mutua entre procesos.
+- Sirven para realizar **exclusión mutua** entre procesos.
 - Se implementa mediante variables del tipo *lock*, que contienen el estado del mismo.
 	- `lock()`: El proceso se bloquea hasta poder obtener el lock.
 	- `unlock()`: El proceso libera el lock que tomo previamente.

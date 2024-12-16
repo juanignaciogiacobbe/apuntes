@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5ec6eb85720b16",
+        "id": "6c25f0cbbda3ca84",
         "type": "tabs",
         "children": [
           {
-            "id": "722e5ea8d9d8be8b",
+            "id": "4dc3bc99ab2c67a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programación Concurrente/Programación Concurrente.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Programación Concurrente"
             }
           }
         ]
@@ -162,34 +166,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "722e5ea8d9d8be8b",
+  "active": "4dc3bc99ab2c67a5",
   "lastOpenFiles": [
+    "Programación Concurrente/06-Sincronización.md",
+    "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/15-Repaso de Redes.md",
+    "Programación Concurrente/14-Detección de Deadlocks.md",
+    "Programación Concurrente/13-Ambientes Distribuidos.md",
+    "Programación Concurrente/12-Transacciones.md",
+    "Programación Concurrente/11-Algoritmos de Elección.md",
+    "Programación Concurrente/10-Concurrencia Distribuida.md",
+    "Programación Concurrente/09-Redes de Petri.md",
+    "Programación Concurrente/08-Modelo de Actores.md",
+    "Programación Concurrente/07-Canales.md",
+    "Sistemas Operativos/File System.md",
+    "Programación Concurrente/Repaso Final.md",
+    "Programación Concurrente/05-Locks.md",
+    "Programación Concurrente/04-Corrección.md",
+    "Programación Concurrente/03-Programación Asincrónica.md",
+    "Programación Concurrente/02-Modelo Fork Join.md",
+    "Programación Concurrente/01-Introducción.md",
+    "Sistemas Operativos/Concurrencia.md",
+    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups.md",
     "AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/AWS Machine Learning Specialty MLS-C01.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/08-AWS Data Sync.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/07-AWS Step Functions.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/06-Database Migration Service DMS.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/05-AWS Batch.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/04-AWS Data Pipeline Features.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/03-AWS Glue.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/02-AWS Kinesis.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/01-Amazon S3 for Machine Learning.md",
-    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
-    "AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing.md",
-    "AWS/Cloud Practitioner CLF-C02/EC2.md",
-    "Ingeniería de Software I/17-Docker.md",
-    "AWS/AWS Developer Associate DVA-C02/AWS Developer Associate DVA-C02.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/05-Object Encryption.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/04-S3 Event Notifications.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/03-S3 Requester Pays.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/02-Moving between Storage Classes.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/01-Amazon S3 Security.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/05-Classic Solutions Architecture/02-Elastic Beanstalk.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/05-Classic Solutions Architecture/01-Instantiating Applications Quickly.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora.md",
     "EC2)](AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud",
     "EC2)](AWS/Cloud Practitioner CLF-C02",
     "EC2)](AWS",

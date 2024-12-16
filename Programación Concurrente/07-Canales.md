@@ -1,8 +1,11 @@
+
 > [!IMPORTANT] Canales
-> Conectan un proceso emisor con un proceso receptor. Son sincronicos o asincronicos.
+> Conectan un proceso emisor con un proceso receptor. Son sincrónicos o asincrónicos.
 > Tienen un nombre, son tipados y unidireccionales.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241004161230.png)
+## Ejemplo: Productor-Consumidor
+
+![[Programación Concurrente/img concu/Pasted image 20241004161230.png]]
 
 
 > [!IMPORTANT] Selective Input
@@ -25,7 +28,7 @@
 
 > [!IMPORTANT] Canales en Unix
 > Unix provee Pipes y FIFOs para conectar dos procesos independientes, orientados a bytes.
-> 	- Los FIFOs poseen una representación en el [File System](Sistemas%20Operativos/File%20System.md).
+> 	- Los FIFOs poseen una representación en el [[Sistemas Operativos/File System|File System]].
 > Unix también provee colas de mensajes orientados a mensajes como unidades independientes.
 
 
@@ -37,4 +40,4 @@
 - Transfieren el ownership del elemento enviado.
 - Para crear multiples productores, se clona el extremo de envío.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241004162039.png)
+![[Programación Concurrente/img concu/Pasted image 20241004162039.png]]

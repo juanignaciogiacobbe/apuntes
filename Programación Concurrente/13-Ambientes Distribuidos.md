@@ -1,7 +1,7 @@
 
 > [!IMPORTANT] Entidades
 > Es la unidad de cómputo de ambiente informático distribuido.
-> - Puede ser un [Proceso](Sistemas%20Operativos/Proceso.md), un procesador, etc.
+> - Puede ser un [[Sistemas Operativos/Proceso|Proceso]], un procesador, etc.
 
 
 > [!WARNING] Capacidades de las Entidades

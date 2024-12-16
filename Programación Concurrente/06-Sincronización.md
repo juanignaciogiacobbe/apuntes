@@ -1,3 +1,4 @@
+
 > [!IMPORTANT] Semáforos
 > Es un mecanismo de sincronización, implementado como una construcción de programación concurrente de mas alto nivel.
 > Es un tipo de dato compuesto por dos campos:
@@ -18,7 +19,7 @@
 	- Si contador $> 0$ -> Recurso disponible.
 	- Si contador $\leq 0$  -> Recurso no disponible.
 	- El valor del semáforo representa la cantidad de recursos disponibles.
-	- Si el valor es 0 o 1, se llaman semáforos binarios y se comportan igual que los [Locks](Programación%20Concurrente/05-Locks.md) de escritura(También conocidos como `Mutex`).
+	- Si el valor es 0 o 1, se llaman semáforos binarios y se comportan igual que los [[Programación Concurrente/05-Locks|Locks]] de escritura(También conocidos como `Mutex`).
 - `p (wait)`: Resta 1 al contador.
 - `v (signal)`: Suma 1 al contador.
 
@@ -35,11 +36,46 @@ fn acquire(&self)
 fn release(&self)
 ```
 
+## Implementación de un Semáforo
+
+	struct Semaphore {
+		condvar: Arc<Condvar>,
+		counter: Arc<Mutex<i32>>
+	}
+
+	impl Semaphore {
+		fn new(initial_count: i32) {
+			// hay que chequear que initial count no sea negativo
+			Semaphore {
+				counter: Arc::new(Mutex::new(initial_count)),
+				condvar: Arc::new(Condvar::new())
+			}
+		}
+
+		fn wait(&self) {
+			let mut count = self.counter.lock().unwrap();
+
+			while *count <= 0 {
+				count = self.condvar.wait(count);
+			}
+
+			*count -= 1;
+		}
+
+		fn signal(&self) {
+			let mut count = self.counter.lock().unwrap();
+
+			*count += 1;
+
+			self.condvar.notify_all();
+		}
+	}
+
 ---
 
 
 > [!IMPORTANT] Barreras en Rust
-> Permiten sincronizar varios threads en puntos determinados de un calculo o algoritmo.
+> Permiten sincronizar varios threads en puntos determinados de un cálculo o algoritmo.
 > Son reutilizables automáticamente.
 
 
@@ -56,7 +92,7 @@ fn release(&self)
 
 ---
 
-> [!IMPORTANT] Monitors
+> [!IMPORTANT] Monitores
 > Permiten a los hilos tener exclusión mutua y la posibilidad de esperar(`block`) a que una condición se vuelva falsa. -> Tienen un mecanismo para señalizar otros hilos cuando su condición se cumple.
 
 
@@ -67,4 +103,4 @@ fn release(&self)
 - Recibir la liberación de la wait condition.
 - Completar una operación `signalC`.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241216090535.png)
+![[Programación Concurrente/img concu/Pasted image 20241216090535.png]]

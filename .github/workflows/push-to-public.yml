@@ -25,22 +25,19 @@ jobs:
     - name: Copy Notes to Public Repo
       run: |
         rsync -a --delete ./AWS ./public-repo/docs/
+        rsync -a --delete ./Programación\ Concurrente ./public-repo/docs/
+        rsync -a --delete ./Sistemas\ Operativos ./public-repo/docs/
+
 
     - name: Convert Callouts
       run: |
         find ./public-repo/docs/ -type f -name "*.md" -exec sed -i \
         -e 's/> \[!NOTE\]/!!! note/g' \
-        -e 's/> \[!IMPORTANT\]/!!! important/g' \
+        -e 's/> \[!IMPORTANT\]/!!! note/g' \
         -e 's/> \[!TIP\]/!!! tip/g' \
         -e 's/> \[!WARNING\]/!!! warning/g' \
         -e 's/> \[!INFO\]/!!! info/g' \
         -e 's/> \[!QUOTE\]/!!! quote/g' {} +
-
-    - name: Convert Markdown Links to Wikilinks
-      run: |
-        find ./ -type f -name "*.md" -exec sed -E -i \
-        's/%20/ /g; s/\[([^\]]+)\]\(([^\)]+)\.md\)/[[\2|\1]]/g' {} +
-
 
     - name: Commit and Push Changes
       run: |

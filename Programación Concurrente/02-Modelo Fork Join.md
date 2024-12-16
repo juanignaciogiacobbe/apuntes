@@ -2,11 +2,11 @@
 > [!IMPORTANT] Fork-Join
 > Es un modelo de paralelización donde el cómputo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al cómputo inicial.
 > Partir la task se realiza en general de forma recursiva:
-> - Los sub-cómputos son independientes(NO dependen de nada) -> El computo se puede realizar en paralelo. 
-> - Las sub-tareas se pueden crear en cualquier momento de la ejecucion de la tarea.
+> - Los sub-cómputos son independientes(NO dependen de nada) -> El cómputo se puede realizar en paralelo. 
+> - Las sub-tareas se pueden crear en cualquier momento de la ejecución de la tarea.
 > - Las tareas no deben bloquearse, excepto para esperar el final de las sub-tareas.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241002165245.png)
+![[Programación Concurrente/img concu/Pasted image 20241002165245.png]]
 
 
 > [!WARNING] Caracteristicas del Fork-Join
@@ -15,7 +15,7 @@
 - **Performance**: En el caso ideal es $t_{secuencial}/N_{threads}$ -> Puede variar por diferencias en el tamaño de una tarea, y porque se debe realizar procesamiento para hacer la combinación de los resultados individuales.
 
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241002165751.png)
+![[Programación Concurrente/img concu/Pasted image 20241002165751.png]]
 
 
 
@@ -51,7 +51,7 @@
 
 - El método `par_iter()` crea un iterador `ParallelIterator` similar a los iteradores de Rust. Rayon maneja los threads y distribuye el trabajo.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241002170744.png)
+![[Programación Concurrente/img concu/Pasted image 20241002170744.png]]
 
 
 - Desde afuera, Rayon parece crear una tarea por elemento del vector, pero internamente, crea un worker thread por núcleo de CPU, e implementa Work Stealing.

@@ -2,7 +2,7 @@
 
 ## Final 26/07/2022
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241209144800.png)
+![[Programación Concurrente/img concu/Pasted image 20241209144800.png]]
 
 1. Un deadlock ocurre cuando dos o más procesos o hilos en un sistema no pueden continuar con su ejecución, debido a que cada uno de ellos se queda esperando a que otro libere un recurso que necesita. Aquí se genera un ciclo, ya que los procesos no pueden avanzar: Cada uno está esperando a que el otro libere el recurso requerido. Al tener un sistema distribuido, se tiene la necesidad de coordinación para que las entidades entren en su sección crítica. Para que se produzca un deadlock tienen que cumplirse los siguientes 4 requisitos:
 	- Exclusión Mutua: Al menos un recurso debe ser retenido en modo exclusivo por un proceso en un momento dado.
@@ -11,13 +11,13 @@
 	- Espera circular: Debe haber una cadena circular de dos o más procesos, cada uno de los cuales están esperando un recurso que posee el siguiente proceso en la cadena.
 
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241209145440.png)
+![[Programación Concurrente/img concu/Pasted image 20241209145440.png]]
 
 1. El robo de trabajo se da cuando un worker comienza a tomar tareas de otros, debido a que se terminaron su trabajo y quedaron libres. La idea de esto es seguir exprimiendo el uso de las CPUs al máximo. Cada thread va a tener una cola de tareas asignadas, y la idea es que se vayan partiendo las tareas en sub-tareas cada vez más pequeñas, y que el thread vaya ejecutando las tareas del final de su cola. Cuando un thread no tiene más trabajo en su cola, toma tareas del inicio de la cola de otro thread(este es elegido de forma random, y se toma del principio de su cola para evitar colisiones), de forma tal de balancear aún más las cargas de trabajo en los threads.
 2. Lo que se genera al tener una única cola de tareas es que los threads van a estar constantemente haciendo `lock` de la cola, y agrandaríamos los tiempos de espera de ciertos threads para que se les asigne un trabajo. -> No estamos aprovechando el uso intensivo de la CPU.
 
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241212084502.png)
+![[Programación Concurrente/img concu/Pasted image 20241212084502.png]]
 
 1. La programación asincrónica es un modelo de programación concurrente en donde se utilizan unidades de ejecución mucho más livianas y más rápidas de crear, llamadas tareas asincrónicas. Estas tareas ejecutan menos memoria que los threads, por lo que usarlas tienen menos overhead. Este modelo tiene las siguientes características:
 	- La restricción la tiene en que tipo de procesamiento voy a hacer.
@@ -31,7 +31,7 @@
 2. Rust tiene el trait `Future`, `async`, `await`, `block_on`.
 
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241212090026.png)
+![[Programación Concurrente/img concu/Pasted image 20241212090026.png]]
 
 1. Writeahead Log:
 	- Los archivos se modifican in place, pero se mantiene una lista de los cambios aplicados(primero se escribe la lista y luego se modifica el archivo).
@@ -68,7 +68,7 @@
 
 	En la concurrencia distribuida se agrega una complejidad en la comunicación con respecto a los ambientes centralizados, ya que se pueden dar problemas como que los mensajes no lleguen en orden, alguno de los nodos puede caerse, etc. Usar este tipo de ambientes nos lleva a realizar modificaciones complejas a los algoritmos, ya que podemos llegar a necesitar implementar una detección de deadlocks, elecciones de líderes, etc.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241213141922.png)
+![[Programación Concurrente/img concu/Pasted image 20241213141922.png]]
 
 Un socket contiene una API que nos permite por medio de una dirección comunicar entidades que pueden encontrase en lugares físicamente distintos, a través de una red o de manera local.
 
@@ -85,7 +85,7 @@ Para ese caso usaría UDP ya que **inserte justificación genérica de redes**.
 
 1. Explicar en detalle cómo se implementa un semáforo.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241213083318.png)
+![[Programación Concurrente/img concu/Pasted image 20241213083318.png]]
 
 ```
 	struct Semaphore {
@@ -185,14 +185,14 @@ Para ese caso usaría UDP ya que **inserte justificación genérica de redes**.
 
 ## Final 10/12/2024
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241213143114.png)
+![[Programación Concurrente/img concu/Pasted image 20241213143114.png]]
 
 1. El problema de la sección crítica se da cuando tenemos varios procesos que se ejecutan en loop, cuyos códigos pueden separarse en sección crítica y sección no crítica. Para todos estos procesos, la sección crítica debe progresar(y eventualmente finalizar), y la sección no crítica no requiere progreso(es decir que el proceso puede terminar o entrar en un loop infinito). Las especificaciones de corrección de la misma son:
 	- Exclusión Mutua: No podemos intercalar instrucciones de varias secciones críticas.
 	- Ausencia de Deadlocks: Si dos procesos están tratando de entrar a la sección crítica, eventualmente alguno de ellos debe tener éxito.
 	- Ausencia de Starvation: Si un proceso trata de entrar a la sección crítica, eventualmente debe tener éxito.
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241213144708.png)
+![[Programación Concurrente/img concu/Pasted image 20241213144708.png]]
 
 1. Las redes de petri nos permiten modelar, analizar y simular sistemas concurrentes y distribuidos de forma gráfica. Es un grafo bipartito, compuesto por transiciones(eventos que disparan los cambios de estados) y lugares(son los estados del sistema).
 	- Las redes ordinarias de petri son redes en las cuales todos sus arcos tienen un peso igual a 1. Esto quiere decir que cuando una transicion se dispara, mueve un token por arco desde cada input hacia el output. 
