@@ -26,6 +26,16 @@ jobs:
       run: |
         rsync -a --delete ./AWS ./public-repo/docs/
 
+    - name: Convert Callouts
+      run: |
+        find ./public-repo/docs/ -type f -name "*.md" -exec sed -i \
+        -e 's/> \[!NOTE\]/!!! note/g' \
+        -e 's/> \[!IMPORTANT\]/!!! important/g' \
+        -e 's/> \[!TIP\]/!!! tip/g' \
+        -e 's/> \[!WARNING\]/!!! warning/g' \
+        -e 's/> \[!INFO\]/!!! info/g' \
+        -e 's/> \[!QUOTE\]/!!! quote/g' {} +
+
     - name: Commit and Push Changes
       run: |
         cd public-repo
