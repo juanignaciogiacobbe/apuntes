@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5bf38928ab3082c",
+        "id": "2c5ec6eb85720b16",
         "type": "tabs",
         "children": [
           {
-            "id": "02170205d4046f93",
+            "id": "722e5ea8d9d8be8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/05-AWS Batch.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05-AWS Batch"
+              "title": "New tab"
             }
           }
         ]
@@ -166,20 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02170205d4046f93",
+  "active": "722e5ea8d9d8be8b",
   "lastOpenFiles": [
-    "Ingeniería de Software I/17-Docker.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/05-AWS Batch.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/04-AWS Data Pipeline Features.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/02-AWS Kinesis.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/03-AWS Glue.md",
-    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/01-Amazon S3 for Machine Learning.md",
-    "AWS/AWS Developer Associate DVA-C02/AWS Developer Associate DVA-C02.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups.md",
+    "AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/AWS Machine Learning Specialty MLS-C01.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/08-AWS Data Sync.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/07-AWS Step Functions.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/06-Database Migration Service DMS.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/05-AWS Batch.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/04-AWS Data Pipeline Features.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/03-AWS Glue.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/02-AWS Kinesis.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/01-Amazon S3 for Machine Learning.md",
+    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+    "AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing.md",
+    "AWS/Cloud Practitioner CLF-C02/EC2.md",
+    "Ingeniería de Software I/17-Docker.md",
+    "AWS/AWS Developer Associate DVA-C02/AWS Developer Associate DVA-C02.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/05-Object Encryption.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/04-S3 Event Notifications.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/06-Amazon S3/03-S3 Requester Pays.md",
@@ -188,12 +190,6 @@
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/05-Classic Solutions Architecture/02-Elastic Beanstalk.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/05-Classic Solutions Architecture/01-Instantiating Applications Quickly.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/02-RDS Multi AZ.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/01-RDS Read Replicas.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/05-Auto Scaling Group.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/04-Amazon EFS.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/03-EC2 Instance Store.md",
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI.md",
     "EC2)](AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud",
     "EC2)](AWS/Cloud Practitioner CLF-C02",
     "EC2)](AWS",
