@@ -28,17 +28,6 @@ jobs:
         rsync -a --delete ./Programacion\ Concurrente ./public-repo/docs/
         rsync -a --delete ./Sistemas\ Operativos ./public-repo/docs/
 
-    - name: Rename Files (Remove First 3 Characters)
-      run: |
-        for dir in AWS Programacion\ Concurrente Sistemas\ Operativos; do
-          find "./public-repo/docs/$dir" -type f -name "??-*" | while read -r file; do
-            dir_path=$(dirname "$file")
-            base_name=$(basename "$file")
-            new_name=${base_name:3} # Elimina los primeros 3 caracteres
-            mv "$file" "$dir_path/$new_name"
-          done
-        done
-
     - name: Convert Callouts
       run: |
         find ./public-repo/docs/ -type f -name "*.md" -exec sed -i \
