@@ -13,12 +13,14 @@ jobs:
     - name: Checkout Private Repository
       uses: actions/checkout@v3
 
+    - name: Setup Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
     - name: Clone Public Repository
       run: |
-        git clone https://x-access-token:${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git public-repo
-        cd public-repo
-        git config user.name "juanignaciogiacobbe" 
-        git config user.email "jgiacobbe@fi.uba.ar" 
+        git clone https://${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git public-repo
 
     - name: Copy Notes to Public Repo
       run: |
@@ -28,5 +30,5 @@ jobs:
       run: |
         cd public-repo
         git add .
-        git commit -m "Sync notes from private repo"
-        git push
+        git commit -m "Sync notes from private repo" || echo "No changes to commit"
+        git push https://${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git main
