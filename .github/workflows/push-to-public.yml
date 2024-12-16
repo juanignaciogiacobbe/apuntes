@@ -39,7 +39,8 @@ jobs:
     - name: Convert Markdown Links to Wikilinks
       run: |
         find ./ -type f -name "*.md" -exec sed -E -i \
-        's/\[([^\]]+)\]\(([^\)]+)\.md\)/[[\2|\1]]/g; s/%20/ /g' {} +
+        's/%20/ /g; s/\[([^\]]+)\]\(([^\)]+)\.md\)/[[\2|\1]]/g' {} +
+
 
     - name: Commit and Push Changes
       run: |
