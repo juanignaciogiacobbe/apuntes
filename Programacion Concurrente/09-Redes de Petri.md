@@ -15,7 +15,7 @@ $$
 - $P = p_1, p_2, ..., p_n$ es un conjunto de nodos llamados lugares.
 - $A \subseteq (T x P) \cup (P x T)$ es un conjunto de arcos. 
 
-![[Programación Concurrente/img concu/Pasted image 20241004163711.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241004163711.png]]
 
 - $p_i$  son los estados del sistema.
 - $t_i$ son los eventos que ocasionan los cambios de estado.

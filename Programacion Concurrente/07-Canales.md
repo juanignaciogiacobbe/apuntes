@@ -5,7 +5,7 @@
 
 ## Ejemplo: Productor-Consumidor
 
-![[Programación Concurrente/img concu/Pasted image 20241004161230.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241004161230.png]]
 
 
 > [!IMPORTANT] Selective Input
@@ -40,4 +40,4 @@
 - Transfieren el ownership del elemento enviado.
 - Para crear multiples productores, se clona el extremo de envío.
 
-![[Programación Concurrente/img concu/Pasted image 20241004162039.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241004162039.png]]

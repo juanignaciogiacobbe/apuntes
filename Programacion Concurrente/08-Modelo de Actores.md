@@ -6,7 +6,7 @@
 > - **Dirección**: A donde enviarle mensajes.
 > - **Casilla de correo(mailbox)**: Un FIFO de los últimos mensajes recibidos.
 
-![[Programación Concurrente/img concu/Pasted image 20241004162414.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241004162414.png]]
 
 > [!WARNING] Más características de los Actores
 > - Son aislados de otros actores -> No comparten memoria.

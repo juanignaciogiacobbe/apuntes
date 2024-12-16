@@ -13,7 +13,7 @@
 	4. El nuevo coordinador se anuncia con un mensaje COORDINATOR.
 	5. Siempre gana el proceso con mayor número.
 
-![[Programación Concurrente/img concu/Pasted image 20241029083312.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241029083312.png]]
 
 # Algoritmo Ring
 1. Los procesos están ordenados lógicamente: cada uno conoce a su sucesor.
@@ -22,4 +22,4 @@
 4. Cuando el proceso original recibe el mensaje, lo cambia a COORDINATOR y lo envía. El nuevo coordinador es el proceso de mayor número de la lista. La lista se mantiene para informar el nuevo anillo.
 5. Cuando este mensaje finaliza la circulación, se elimina del anillo.
 
-![[Programación Concurrente/img concu/Pasted image 20241029083807.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241029083807.png]]

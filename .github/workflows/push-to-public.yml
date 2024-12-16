@@ -36,6 +36,7 @@ jobs:
         -e 's/> \[!IMPORTANT\] \(.*\)/!!! note "\1"/g' \
         -e 's/> \[!TIP\] \(.*\)/!!! tip "\1"/g' \
         -e 's/> \[!WARNING\] \(.*\)/!!! warning "\1"/g' \
+        -e 's/> \[!DANGER\] \(.*\)/!!! warning "\1"/g' \
         -e 's/> \[!INFO\] \(.*\)/!!! info "\1"/g' \
         -e 's/> \[!QUOTE\] \(.*\)/!!! quote "\1"/g' {} +
 

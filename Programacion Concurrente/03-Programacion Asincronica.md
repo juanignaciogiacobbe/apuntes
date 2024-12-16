@@ -13,11 +13,11 @@
 
 ## Ejemplo Sincrónico
 
-![[Programación Concurrente/img concu/Pasted image 20241002173225.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241002173225.png]]
 
 - La mayor parte del tiempo, el thread principal esta bloqueado a la espera de system calls. -> Para evitar esto, un thread debe poder tomar otras tareas mientras espera que la system call se complete.
 
-![[Programación Concurrente/img concu/Pasted image 20241002173337.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241002173337.png]]
 
 
 
@@ -36,7 +36,7 @@
 
 ## Ejemplo Async
 
-![[Programación Concurrente/img concu/Pasted image 20241002174038.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241002174038.png]]
 
 - Invocar a una función async retorna inmediatamente, antes de que comience a ejecutarse el cuerpo de la función.
 - Se obtiene un `Future` del valor, que contiene todo lo necesario para que la función pueda ejecutarse(argumentos, espacio para variables locales, etc).
@@ -56,10 +56,10 @@
 - Conoce cuanto hacer sleep hasta hacer `poll` de nuevo.
 - La función async retorna un `Future` -> Alguien debe esperar por el valor.
 
-![[Programación Concurrente/img concu/Pasted image 20241002174751.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241002174751.png]]
 
 
-![[Programación Concurrente/img concu/Pasted image 20241002174958.png]]
+![[Programacion Concurrente/img concu/Pasted image 20241002174958.png]]
 
 
 ## Creación de tareas async
