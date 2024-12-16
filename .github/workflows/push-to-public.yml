@@ -24,7 +24,7 @@ jobs:
 
     - name: Copy Notes to Public Repo
       run: |
-        rsync -a --delete ./ ./public-repo/docs/
+        rsync -a --delete ./AWS ./public-repo/docs/
 
     - name: Commit and Push Changes
       run: |
