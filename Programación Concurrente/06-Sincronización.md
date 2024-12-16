@@ -35,8 +35,36 @@ fn acquire(&self)
 fn release(&self)
 ```
 
+---
 
 
 > [!IMPORTANT] Barreras en Rust
 > Permiten sincronizar varios threads en puntos determinados de un calculo o algoritmo.
 > Son reutilizables automáticamente.
+
+
+> [!DANGER] Operaciones de Barriers
+- `fn wait(&self)`: Bloquea al thread hasta que todos se encuentren en el punto.
+- `is_leader(&self)`: Devuelve true en el thread líder, es decir el último de los threads que llama a `wait` y desbloquea al resto.
+
+---
+
+> [!IMPORTANT] Condvar
+> - No guarda ningún valor.
+> - Tiene asociado un FIFO.
+> - 3 operaciones atómicas: `waitC(cond)`, `signalC(cond)`, `empty(cond)`.
+
+---
+
+> [!IMPORTANT] Monitors
+> Permiten a los hilos tener exclusión mutua y la posibilidad de esperar(`block`) a que una condición se vuelva falsa. -> Tienen un mecanismo para señalizar otros hilos cuando su condición se cumple.
+
+
+> [!WARNING] Los procesos pueden...
+- Esperar para entrar al monitor.
+- Ejecutar el monitor(solo un proceso a la vez -> Exclusión mutua).
+- Estar bloqueado en FIFO de variable de condición.
+- Recibir la liberación de la wait condition.
+- Completar una operación `signalC`.
+
+![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241216090535.png)

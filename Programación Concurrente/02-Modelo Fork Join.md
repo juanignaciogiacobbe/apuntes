@@ -1,6 +1,6 @@
 
 > [!IMPORTANT] Fork-Join
-> Es un estilo de paralelización donde el computo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al computo inicial.
+> Es un modelo de paralelización donde el cómputo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al cómputo inicial.
 > Partir la task se realiza en general de forma recursiva:
 > - Los sub-cómputos son independientes(NO dependen de nada) -> El computo se puede realizar en paralelo. 
 > - Las sub-tareas se pueden crear en cualquier momento de la ejecucion de la tarea.
@@ -11,7 +11,7 @@
 
 > [!WARNING] Caracteristicas del Fork-Join
 - Es un modelo de Concurrencia sin condiciones de carrera.
-- Los programas son *deterministicos*, y los threads están aislados. El programa produce el mismo resultado independientemente de las diferencias de velocidad de los threads.
+- Los programas son *determinísticos*, y los threads están aislados. El programa produce el mismo resultado independientemente de las diferencias de velocidad de los threads.
 - **Performance**: En el caso ideal es $t_{secuencial}/N_{threads}$ -> Puede variar por diferencias en el tamaño de una tarea, y porque se debe realizar procesamiento para hacer la combinación de los resultados individuales.
 
 

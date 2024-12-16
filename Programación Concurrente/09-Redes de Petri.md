@@ -1,3 +1,9 @@
+
+> [!IMPORTANT] Redes de Petri
+> Herramienta para modelar concurrencia y sincronización en sistemas distribuidos. 
+> - Son una ayuda visual para modelar el comportamiento del sistema.
+
+
 # Red Ordinaria de Petri
 - Es un grafo dirigido bipartito que cumple con:
 
@@ -26,3 +32,18 @@ $$
 - Sea $t \in PN(T, P, A)$ una transición $t$, se definen las funciones:
 	- $I(t) = p/ p \in P/ (p, t) \in A \subset P$ es la entrada o *input* de la transición $t$.
 	- $O(t) = p/ p \in P/ (t, p) \in A \subset P$ es la salida o *output* de la transición $t$.
+
+
+---
+# Red General de Petri
+- Es un grafo dirigido bipartito que cumple con:
+
+$$
+PN = (T, P, A, W, M_0)
+$$
+
+- $T = t_1, t_2, ..., t_n$ es un conjunto de nodos llamados transiciones.
+- $P = p_1, p_2, ..., p_n$ es un conjunto de nodos llamados lugares.
+- $A \subseteq (T x P) \cup (P x T)$ es un conjunto de arcos. 
+- $W: A \rightarrow \mathbb{N}$ es la función de peso.   
+- $M_0: P \rightarrow \mathbb{N} \cup \{0\}$ es la función de marca inicial.   

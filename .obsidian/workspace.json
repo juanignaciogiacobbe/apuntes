@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3df95dc61b290b8d",
+        "id": "00bd55a63abfe45b",
         "type": "tabs",
         "children": [
           {
-            "id": "ac76b4d0f2fb09df",
+            "id": "4301fc6fdcdfa9cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01-EBS"
+              "title": "New tab"
             }
           }
         ]
@@ -166,21 +162,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac76b4d0f2fb09df",
+  "active": "4301fc6fdcdfa9cd",
   "lastOpenFiles": [
-    "Programación Concurrente/12-Transacciones.md",
+    "Pasted image 20241108085257.png",
+    "Programación Concurrente/10-Concurrencia Distribuida.md",
+    "Programación Concurrente/Programación Concurrente.md",
     "Programación Concurrente/Repaso Final.md",
+    "Programación Concurrente/13-Ambientes Distribuidos.md",
+    "Programación Concurrente/09-Redes de Petri.md",
+    "Programación Concurrente/06-Sincronización.md",
+    "Programación Concurrente/img concu/Pasted image 20241216090535.png",
+    "Programación Concurrente/05-Locks.md",
+    "Programación Concurrente/07-Canales.md",
+    "Programación Concurrente/04-Corrección.md",
+    "Programación Concurrente/03-Programación Asincrónica.md",
+    "Programación Concurrente/02-Modelo Fork Join.md",
+    "Programación Concurrente/01-Introducción.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS.md",
+    "Programación Concurrente/12-Transacciones.md",
     "Programación Concurrente/img concu/Pasted image 20241213144708.png",
     "Programación Concurrente/img concu/Pasted image 20241213143114.png",
     "Programación Concurrente/img concu/Pasted image 20241213141922.png",
-    "Programación Concurrente/Programación Concurrente.md",
-    "Programación Concurrente/13-Ambientes Distribuidos.md",
     "Programación Concurrente/08-Modelo de Actores.md",
-    "Programación Concurrente/10-Concurrencia Distribuida.md",
-    "Programación Concurrente/06-Sincronización.md",
     "Programación Concurrente/img concu/Pasted image 20241213083318.png",
-    "Programación Concurrente/03-Programación Asincrónica.md",
-    "Programación Concurrente/07-Canales.md",
     "Programación Concurrente/img concu/Pasted image 20241212090026.png",
     "Programación Concurrente/img concu/Pasted image 20241212084502.png",
     "Ingeniería de Software I/19-Patrones de Diseño.md",
@@ -193,22 +197,14 @@
     "Ingeniería de Software I/18-Git.md",
     "Ingeniería de Software I/13-REST.md",
     "Ingeniería de Software I/12-Patrones de Arquitectura.md",
-    "Ingeniería de Software I/Repaso Final.md",
-    "Ingeniería de Software I/11-Atributos de Calidad.md",
-    "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
-    "Ingeniería de Software I/10-Modelo de Dominio.md",
     "Ingeniería de Software I/Untitled.canvas",
-    "BMO/Profiles/BMO.md",
     "BMO/Profiles",
     "BMO",
-    "Excalidraw/Drawing 2024-12-10 16.16.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-10 16.16.29.excalidraw.md",
     "Excalidraw",
     "hola.canvas",
     "Ingeniería de Software I/img is1/Pasted image 20241210160024.png",
     "Ingeniería de Software I/img is1/Pasted image 20241210131509.png",
     "Ingeniería de Software I/img is1/Pasted image 20241210131930.png",
-    "Ingeniería de Software I/img is1/Pasted image 20241210131842.png",
     "AWS/Slides",
     "AWS/Slides/AWSCertifiedMLSlides.pdf",
     "Base de Datos/img",

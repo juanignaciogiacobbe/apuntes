@@ -1,5 +1,5 @@
 # Locks
-- Sirven para realizar exclusion mutua entre procesos.
+- Sirven para realizar exclusión mutua entre procesos.
 - Se implementa mediante variables del tipo *lock*, que contienen el estado del mismo.
 	- `lock()`: El proceso se bloquea hasta poder obtener el lock.
 	- `unlock()`: El proceso libera el lock que tomo previamente.
@@ -42,7 +42,6 @@ fn write(&self) -> LockResult<RwLockWriteGuard<T>>
 - Bloquea al thread hasta que se pueda obtener el lock con acceso exclusivo.
 - Retornan una protección que libera el lock con RAII.
 - Una vez obtenido el lock, se puede acceder al valor protegido.
-
 
 
 > [!WARNING] Locks envenenados

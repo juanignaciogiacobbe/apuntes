@@ -1,0 +1,32 @@
+name: Push Notes to Public Repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Private Repository
+      uses: actions/checkout@v3
+
+    - name: Clone Public Repository
+      run: |
+        git clone https://${{ secrets.PUBLIC_REPO_PAT }}@github.com/juanignaciogiacobbe/apuntes-jig.git public-repo
+        cd public-repo
+        git config user.name "juanignaciogiacobbe" 
+        git config user.email "jgiacobbe@fi.uba.ar" 
+
+    - name: Copy Notes to Public Repo
+      run: |
+        rsync -a --delete ./ ./public-repo/docs/
+
+    - name: Commit and Push Changes
+      run: |
+        cd public-repo
+        git add .
+        git commit -m "Sync notes from private repo"
+        git push
