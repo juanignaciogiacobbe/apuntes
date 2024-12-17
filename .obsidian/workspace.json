@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a899ee4d9ca1cade",
+        "id": "824c4f2814e138c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7b43fa25a3d8e91e",
+            "id": "f8d2a0d5aad1dc44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+                "file": "Programacion Concurrente/Repaso Final.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cloud Practitioner CLF-C02"
+              "title": "Repaso Final"
             }
           }
         ]
@@ -166,22 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b43fa25a3d8e91e",
+  "active": "f8d2a0d5aad1dc44",
   "lastOpenFiles": [
+    "Programacion Concurrente/12-Transacciones.md",
+    "Programacion Concurrente/Repaso Final.md",
+    "Programacion Concurrente/05-Locks.md",
+    "Programacion Concurrente/index.md",
+    "Programacion Concurrente/14-Deteccion de Deadlocks.md",
+    "Programacion Concurrente/13-Ambientes Distribuidos.md",
+    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP.md",
     "Redes/Chapter 1/01-Internet.md",
-    "Programacion Concurrente/index.md",
     "Programacion Concurrente/04-Correccion.md",
     "Programacion Concurrente/03-Programacion Asincronica.md",
     "Programacion Concurrente/02-Modelo Fork Join.md",
     "Programacion Concurrente/01-Introduccion.md",
     "Programacion Concurrente/15-Repaso de Redes.md",
-    "Programacion Concurrente/Repaso Final.md",
     "Programacion Concurrente/07-Canales.md",
-    "Programacion Concurrente/05-Locks.md",
-    "Programacion Concurrente/14-Deteccion de Deadlocks.md",
-    "Programacion Concurrente/13-Ambientes Distribuidos.md",
-    "Programacion Concurrente/12-Transacciones.md",
     "Programacion Concurrente/11-Algoritmos de Eleccion.md",
     "Programacion Concurrente/10-Concurrencia Distribuida.md",
     "Programacion Concurrente/09-Redes de Petri.md",
@@ -189,7 +190,6 @@
     "Programacion Concurrente/06-Sincronizacion.md",
     "Sistemas Operativos/File System.md",
     "Sistemas Operativos/Concurrencia.md",
-    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
     "AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups.md",
     "AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md",
