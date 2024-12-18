@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria de Software I/Ingenieria de Software I.md",
+                "file": "Ingenieria de Software I/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingenieria de Software I"
+              "title": "index"
             }
           }
         ]
@@ -166,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141924f75d28cc6e",
+  "active": "32c09e79ff94c3b0",
   "lastOpenFiles": [
     "Ingenieria de Software I/19-Patrones de Diseño.md",
     "Ingenieria de Software I/18-Git.md",
@@ -187,7 +187,7 @@
     "Ingenieria de Software I/03-Diseño de Codigo.md",
     "Ingenieria de Software I/02-Design Thinking.md",
     "Ingenieria de Software I/01-Entendiendo el Problema.md",
-    "Ingenieria de Software I/Ingenieria de Software I.md",
+    "Ingenieria de Software I/index.md",
     "Ingeniería de Software I/Repaso Final.md",
     "Ingeniería de Software I/Product Discovery.md",
     "Programacion Concurrente/06-Sincronizacion.md",
