@@ -1,3 +1,4 @@
+# Concurrencia Distribuida
 
 > [!IMPORTANT] Exclusión Mutua: Algoritmo Centralizado
 > 1. Un proceso es elegido como coordinador.
