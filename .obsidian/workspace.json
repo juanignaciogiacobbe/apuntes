@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "975a2ccb0a1c7bb4",
+        "id": "51cf3dbe0c7aec84",
         "type": "tabs",
         "children": [
           {
-            "id": "5660dbdd2a47bb6b",
+            "id": "8ced091f2a2d254c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empresa de Base Tecnologica II/Empresa de Base Tecnológica II.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Empresa de Base Tecnológica II"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141924f75d28cc6e",
+  "active": "8ced091f2a2d254c",
   "lastOpenFiles": [
+    "Ingenieria de Software I/index.md",
+    "Empresa de Base Tecnologica II/Empresa de Base Tecnológica II.md",
+    "Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto.md",
+    "Programacion Concurrente/01-Introduccion.md",
+    "Empresa de Base Tecnologica II/01-Economía/02-Análisis PESTA.md",
     "Empresa de Base Tecnologica II/02-Legal/22-Protección de Datos.md",
     "Empresa de Base Tecnologica II/02-Legal/21-Sostenibilidad.md",
     "Empresa de Base Tecnologica II/02-Legal/20-Propiedad Intelectual.md",
@@ -188,12 +189,7 @@
     "Empresa de Base Tecnologica II/01-Economía/05-Innovación.md",
     "Empresa de Base Tecnologica II/01-Economía/04-Matriz FODA.md",
     "Empresa de Base Tecnologica II/01-Economía/03-Cruz de Porter.md",
-    "Empresa de Base Tecnologica II/01-Economía/02-Análisis PESTA.md",
-    "Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto.md",
-    "Ingenieria de Software I/index.md",
     "Ingenieria de Software I/19-Patrones de Diseño.md",
-    "Ingenieria de Software I/18-Git.md",
-    "Ingenieria de Software I/17-Docker.md",
     "Programacion Concurrente/img concu/Pasted image 20241218091230.png",
     "Programacion Concurrente/img concu/Pasted image 20241216090535.png",
     "Programacion Concurrente/img concu/Pasted image 20241029083807.png",

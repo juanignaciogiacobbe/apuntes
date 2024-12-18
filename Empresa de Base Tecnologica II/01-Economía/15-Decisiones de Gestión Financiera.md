@@ -25,7 +25,7 @@
 > [!WARNING] Período de Repago
 > Tiempo que tarda una inversión en recuperar su costo inicial a través de los flujos de efectivo que genera.
 
-![](Pasted%20image%2020241006083334.png)
+![[Pasted image 20241006083334.png]]
 
 
 
