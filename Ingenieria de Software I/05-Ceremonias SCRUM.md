@@ -1,19 +1,20 @@
+# Ceremonias SCRUM
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925153137.png)
+![](Pasted%20image%2020240925153137.png)
 
 
 > [!IMPORTANT] Ceremonias
 > La agilidad de un equipo se construye sobre prácticas de ingeniería, un enfoque estratégico hacia el desarrollo y el cambio, y una gran colaboración en equipo.
 > Las ceremonias ágiles facilitan la comunicación entre los miembros del equipo y promueven una comprensión compartida de lo que se está construyendo dentro de un sprint.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925153402.png)
+![](Pasted%20image%2020240925153402.png)
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925154736.png)
+![](Pasted%20image%2020240925154736.png)
 
 > [!IMPORTANT] Planning
 > Involucra a un SCRUM Master, a un Product Owner y al equipo de desarrollo.
 > Se planifica la Capacidad del Equipo para decidir el tiempo dedicado al Sprint, junto al objetivo.
-> Se agregan las [07-Historias de Usuario](07-Historias%20de%20Usuario.md) al sprint backlog en base a un acuerdo colectivo del equipo.
+> Se agregan las [[07-Historias de Usuario]] al sprint backlog en base a un acuerdo colectivo del equipo.
 > El resultado es un objetivo del sprint, y un sprint backlog sobre el cual trabajar durante el mismo.
 
 

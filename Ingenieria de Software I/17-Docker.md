@@ -1,3 +1,4 @@
+# Docker
 
 > [!IMPORTANT] Máquinas Virtuales
 > Emulan una máquina real -> Proveen aislamiento total, y tienen una única opción de ejecutar programas de otras arquitecturas de hardware.
@@ -15,7 +16,7 @@
 
 
 > [!WARNING] Algunos conceptos importantes
-- **Container**: Grupo aislado de [procesos](Sistemas%20Operativos/Proceso.md).
+- **Container**: Grupo aislado de [[Proceso]].
 - **Image**: Template usado para crear containers.
 - **Dockerfile**: Archivo con instrucciones para construir una imagen.
 - **Mounts**: Acceso a directorios del host.
@@ -37,7 +38,7 @@ El ecosistema Docker asume que los contenedores son livianos:
 
 # Containers VS Virtual Machines
 
-![](Ingeniería%20de%20Software%20I/img/Pasted%20image%2020241126170440.png)
+![](Pasted%20image%2020241126170440.png)
 
 
 > [!IMPORTANT] Orquestadores

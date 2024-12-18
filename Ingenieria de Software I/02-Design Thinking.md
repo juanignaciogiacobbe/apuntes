@@ -1,3 +1,4 @@
+# Design Thinking
 
 > [!IMPORTANT] Design Thinking
 > Es un método para generar ideas innovadoras, que centra su eficacia en entender y dar solución a las necesidades reales de los usuarios.
@@ -9,7 +10,7 @@
 4. **Prototipamos**: Seleccionamos la idea con la mejor propuesta de valor, y la convertimos en un prototipo.
 5. **Testeamos**: Hacemos parte al usuario, y co-creamos en base a la prueba y error.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020240925145736.png)
+![](Pasted%20image%2020240925145736.png)
 
 - Reduce el riesgo.
 - Mejora la calidad.

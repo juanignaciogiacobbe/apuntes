@@ -9,14 +9,14 @@
 > - El contexto se vuelve independiente de las estrategias concretas, así que puedes añadir nuevos algoritmos o modificar los existentes sin cambiar el código de la clase contexto o de otras estrategias.
 
 
-![](Ingeniería%20de%20Software%20I/img/Pasted%20image%2020241127181817.png)
+![](Pasted%20image%2020241127181817.png)
 
 
 > [!WARNING] Ventajas
 - Los algoritmos usados se cambian en tiempo de ejecución.
 - Se pueden aislar los detalles de implementación de un algoritmo del código que lo utiliza.
 - Se sustituye la herencia por composición.
-- [Open-Closed Principle](Ingeniería%20de%20Software%20I/04-SOLID.md): Se pueden introducir nuevas estrategias sin tener que cambiar el contexto.
+- Open Closed Principle: Se pueden introducir nuevas estrategias sin tener que cambiar el contexto.
 
 
 > [!WARNING] Desventajas
@@ -33,7 +33,7 @@
 > 	- Los _pasos abstractos_ deben ser implementados por todas las subclases
 > 	- Los _pasos opcionales_ ya tienen cierta implementación por defecto, pero aún así pueden sobrescribirse si es necesario
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241210160024.png)
+![](Pasted%20image%2020241210160024.png)
 
 
 > [!WARNING] Ventajas
@@ -43,7 +43,7 @@
 
 > [!WARNING] Desventajas
 - Algunos clientes pueden verse limitados por el esqueleto proporcionado de un algoritmo.
-- Se puede llegar a violar el [Liskov Sustitution Principle](Ingeniería%20de%20Software%20I/04-SOLID.md)  suprimiendo una implementación por defecto de un paso a través de una subclase.
+- Se puede llegar a violar el Liskov Sustitution Principle suprimiendo una implementación por defecto de un paso a través de una subclase.
 - Los template methods tienden a ser más difíciles de mantener cuantos más pasos tengan.
 
 
@@ -58,7 +58,7 @@
 > Es un patrón creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.
 > - El código cliente tiene que funcionar con fábricas y productos a través de sus respectivas interfaces abstractas. Esto nos permite cambiar el tipo de fábrica que pasamos al código cliente, así como la variante del producto que recibe el código cliente, sin descomponer el propio código cliente.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209094001.png)
+![](Pasted%20image%2020241209094001.png)
 
 
 > [!WARNING] Ventajas
@@ -79,7 +79,7 @@
 > - Busca abstraer el proceso de creación de diferentes tipos de objeto.
 > - El foco es qué objeto crear.
 
-![](Ingeniería%20de%20Software%20I/img/Pasted%20image%2020241127182244.png)
+![](Pasted%20image%2020241127182244.png)
 
 
 > [!IMPORTANT] Builder
@@ -88,7 +88,7 @@
 > - Para crear un objeto, se ejecuta una serie de estos pasos en un objeto constructor. -> No necesitas invocar todos los pasos. Puedes invocar sólo aquellos que sean necesarios para producir una configuración particular de un objeto.
 > - Busca resolver múltiples opciones y parámetros opcionales. -> El foco es cómo crear el objeto de forma flexible y paso a paso.
 
-![](Ingeniería%20de%20Software%20I/img/Pasted%20image%2020241201095637.png)
+![](Pasted%20image%2020241201095637.png)
 
 
 > [!WARNING] Builder VS Setters
@@ -104,7 +104,7 @@
 > Es un patrón estructural que permite añadir funcionalidades a objetos colocando estos objectos dentro de otros objetos encapsuladores especiales que contienen estas funcionalidades.
 > - Un _wrapper_ es un objeto que puede vincularse con un objeto _objetivo_. El wrapper contiene el mismo grupo de métodos que el objetivo y le delega todas las solicitudes que recibe. No obstante, el wrapper puede alterar el resultado haciendo algo antes o después de pasar la solicitud al objetivo.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209094758.png)
+![](Pasted%20image%2020241209094758.png)
 
 
 > [!WARNING] Decorator VS Herencia
@@ -115,15 +115,15 @@
 
 > [!IMPORTANT] Singleton
 > Es un patrón creacional que nos permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
-> - Al igual que una variable global, el patrón Singleton nos permite acceder a un objeto desde cualquier parte del programa. No obstante, también evita que otro código sobreescriba esa instancia. -> Vulnera el [Single Responsibility Principle](Ingeniería%20de%20Software%20I/04-SOLID.md).
+> - Al igual que una variable global, el patrón Singleton nos permite acceder a un objeto desde cualquier parte del programa. No obstante, también evita que otro código sobreescriba esa instancia. -> Vulnera el Single Responsibility Principle.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209095336.png)
+![](Pasted%20image%2020241209095336.png)
 
 
 > [!IMPORTANT] Command
 > Es un patrón de comportamiento que convierte una solicitud en un objeto independiente que contiene toda la información sobre la solicitud -> Permite parametrizar los métodos con diferentes solicitudes, retrasar o poner en cola la ejecución de una solicitud y soportar operaciones que no se pueden realizar.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209095947.png)
+![](Pasted%20image%2020241209095947.png)
 
 
 
@@ -137,4 +137,4 @@
 > - Strategy se enfoca en intercambiar diferentes algoritmos o métodos que logran el mismo objetivo.
 > - State gestiona diferentes comportamientos según el estado actual del objeto.
 
-![](Ingeniería%20de%20Software%20I/img%20is1/Pasted%20image%2020241209101232.png)
+![](Pasted%20image%2020241209101232.png)

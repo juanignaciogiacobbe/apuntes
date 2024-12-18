@@ -1,3 +1,5 @@
+# Refactoring
+
 > [!IMPORTANT] Refactoring
 > Es una técnica para reestructurar un cuerpo existente de tu código, alterando su estructura interna sin cambiar su comportamiento exterior.
 
