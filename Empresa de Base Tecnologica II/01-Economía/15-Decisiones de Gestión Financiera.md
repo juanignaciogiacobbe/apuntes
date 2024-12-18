@@ -1,3 +1,4 @@
+# Decisiones de Gestión Financiera
 
 > [!IMPORTANT] Decisiones de Operación
 > Involucran la gestión diaria del flujo de caja y las operaciones financieras de la empresa. Esto incluye la gestión del capital de trabajo, el control de costos, la optimización de las operaciones para mejorar la rentabilidad y la eficiencia, y la gestión del riesgo financiero.
@@ -24,7 +25,7 @@
 > [!WARNING] Período de Repago
 > Tiempo que tarda una inversión en recuperar su costo inicial a través de los flujos de efectivo que genera.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006083334.png)
+![](Pasted%20image%2020241006083334.png)
 
 
 

@@ -1,3 +1,5 @@
+# Empresas
+
 > [!IMPORTANT] Empresa
 > Conjunto organizado en una estructura jurídica de elementos materiales, humanos e inmateriales que tiene como objetivo realizar actividades de producción o intercambio de bienes y servicios, con un fin de lucro.
  
@@ -39,11 +41,11 @@
 > - Al transferir un fondo de comercio también se toma en cuenta el valor clientela.
 
 
-> [!WARNING] En función del [13-Modelo y Plan de Negocio](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/13-Modelo%20y%20Plan%20de%20Negocio.md) varían:
+> [!WARNING] En función del Modelo y Plan de Negocio varían:
 > - La figura jurídica societaria(SAS, SA, SRL, Cooperativa, Sociedad de hecho).
 > - Los contratos con clientes y proveedores que voy a firmar(contrato de adhesión, contrato de consumo).
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241105082319.png)
+![](Pasted%20image%2020241105082319.png)
 
 # Qué mirar desde el punto de vista legal en EBT de servicios informáticos
 

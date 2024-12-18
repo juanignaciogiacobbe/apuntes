@@ -6,7 +6,7 @@
 > [!WARNING] Propósito
 > Ayuda a entender el funcionamiento interno de la empresa y cómo interactúa con clientes, proveedores y competidores.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020240924162433.png)
+![](Pasted%20image%2020240924162433.png)
 
 
 - Visualización clara: Permite ver tu modelo de negocio de un vistazo.
@@ -15,11 +15,11 @@
 - Comunicación efectiva: Facilita la comunicación de tu modelo de negocio a otros.
 - Planificación estratégica: Te ayuda a tomar decisiones estratégicas sobre tu negocio.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006191201.png)
+![](Pasted%20image%2020241006191201.png)
 
 ---
 
-# [18-Plan de Negocios](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/18-Plan%20de%20Negocios.md)
+# [[18-Plan de Negocios]]
 - Es un documento detallado que describe los objetivos de una empresa, las estrategias para alcanzarlos, la estructura organizacional, el mercado, las proyecciones financieras y las necesidades de financiamiento.
 - Se enfoca en "cuándo" y el "dónde" de la implementación estratégica y operativa. 
 
@@ -34,5 +34,5 @@
 ## Canvas de Propuesta de Valor
 - Herramienta visual que permite definir(o ajustar) tu propuesta de valor por medio de la conexión de las necesidades y deseos del cliente con tu propuesta de valor.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006191435.png)
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006191450.png)
+![](Pasted%20image%2020241006191435.png)
+![](Pasted%20image%2020241006191450.png)

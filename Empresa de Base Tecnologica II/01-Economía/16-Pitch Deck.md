@@ -1,6 +1,6 @@
 # Pitch Deck
 - Una presentación breve de 10-20 diapositivas.
-- Cuenta la historia de tu [Startup](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/17-Startups.md).
+- Cuenta la historia de tu [[17-Startups]].
 - Sirve para:
 	- Presentar tu plan de negocio a inversionistas, clientes y aliados estratégicos.
 	- Generar interés y obtener una reunión.
@@ -16,4 +16,4 @@
 
 ## Estructura de un Pitch Deck Efectivo
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020240924225708.png)
+![](Pasted%20image%2020240924225708.png)

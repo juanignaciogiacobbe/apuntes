@@ -1,15 +1,17 @@
+# Administración
+
 > [!IMPORTANT] Administración
 > Disciplina científica que tiene por objeto de estudio las organizaciones constituyendo una sociotecnologia encargada de la planificacion, organizacion, direccion y control de los recursos de una organizacion, con el fin de obtener el maximo beneficio posible.
 > Este beneficio puede ser social o económico, dependiendo de los fines perseguidos por la organización.
 
 ## Proceso Administrativo Clásico
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241002161309.png)
+![](Pasted%20image%2020241002161309.png)
 
 
 
 > [!IMPORTANT] Planificación
-> Proceso que comienza con la **vision** que tiene la persona que dirige a una organización -> La **misión** de la organización -> Fijar **objetivos**, las **estrategias** y **políticas organizacionales**, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [contexto](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/01-Análisis%20del%20Contexto.md) de la misma.
+> Proceso que comienza con la **vision** que tiene la persona que dirige a una organización -> La **misión** de la organización -> Fijar **objetivos**, las **estrategias** y **políticas organizacionales**, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [[01-Análisis del Contexto]] de la misma.
 > - Identificación de recursos necesarios, asignación de tareas, elaboración de estrategias, y formulación de planes para lograr los objetivos establecidos.
 
 

@@ -1,3 +1,4 @@
+# Protección de Datos
 
 > [!IMPORTANT] Datos Personales(Artículo 2, Ley 25.326)
 > Información de cualquier tipo, referida a personas físicas o de existencia ideal determinada o determinable. Para que el dato sea personal tiene que estar vinculado o poder vincularse con una persona física o jurídica.
@@ -19,7 +20,7 @@
 > - Derecho a la intimidad.
 
 
-# Definiciones importantes
+## Definiciones importantes
 
 > [!IMPORTANT] Derechos Personales
 > Información de cualquier tipo referida a personas físicas o de existencia ideal determinadas o determinables.
@@ -78,7 +79,7 @@
 > e) Se trate de las operaciones que realicen las entidades financieras y de las informaciones que reciban de sus clientes conforme las disposiciones del artículo 39 de la Ley 21.526.
 
 
-# ¿Es legal comprar/vender bases de datos?
+## ¿Es legal comprar/vender bases de datos?
 
 
 > [!IMPORTANT] Confeccionar, Comprar y Vender bases de datos es Argentina

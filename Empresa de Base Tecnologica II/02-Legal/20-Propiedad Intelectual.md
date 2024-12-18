@@ -1,3 +1,5 @@
+# Propiedad Intelectual
+
 > [!QUOTE] Derecho de Propiedad(Artículo 17)
 > La propiedad es inviolable, y ningún habitante de la Nación puede ser privado de ella, sino en virtud de sentencia fundada en ley. La expropiación por causa de utilidad pública, debe ser calificada por ley y previamente indemnizada. Sólo el Congreso impone las contribuciones que se expresan en el Artículo 4.
 
@@ -76,7 +78,7 @@
 > Puede ser un objeto, un procedimiento, un aparato para fabricar el objeto, un compuesto químico, un microorganismo, etcétera. En todos los casos, debe cumplir con los tres requisitos de patentabilidad: **novedad, actividad inventiva y aplicación industrial**.
 
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241119083942.png)
+![](Pasted%20image%2020241119083942.png)
 
 
 > [!IMPORTANT] Modelos de Utilidad

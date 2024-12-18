@@ -1,10 +1,11 @@
+# Plan de Negocios
 
 > [!IMPORTANT] Plan de Negocios
 > Documento que actúa como un resumen ejecutivo de un negocio. 
 > - Describe los elementos clave que son cruciales para el éxito de tu negocio, y al exponer estos elementos en un documento escrito, se obtiene una visión exhaustiva de una idea de negocio.
 > - Proporciona a los inversores potenciales una idea clara de por qué deberían apoyar un negocio.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241004171325.png)
+![](Pasted%20image%2020241004171325.png)
 
 
 
@@ -16,7 +17,7 @@
 
 > [!IMPORTANT] Análisis Competitivo y Estratégico
 > Ofrece una visión general del sector del que forma parte. Presenta una descripción de la empresa y en qué se diferencia de otras empresas del sector. 
-> En general se suele acompañar de un [análisis FODA](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/04-Matriz%20FODA.md) seguido de un mapa competitivo con los principales competidores, productos sustitutos, barreras de entrada y de salida.
+> En general se suele acompañar de una [[04-Matriz FODA]] seguido de un mapa competitivo con los principales competidores, productos sustitutos, barreras de entrada y de salida.
 
 
 > [!IMPORTANT] Oportunidad Detectada/ Propuesta de Valor

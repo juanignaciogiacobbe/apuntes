@@ -1,9 +1,11 @@
+# Sostenibilidad
+
 > [!IMPORTANT] Sostenibilidad
 > Capacidad de asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras, teniendo como perspectiva un accionar en respeto y armonía con el ambiente, el crecimiento económico y el desarrollo social.
 
 
 > [!WARNING] ¿Por qué es importante la sostenibilidad?
-- En función del [13-Modelo y Plan de Negocio](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/13-Modelo%20y%20Plan%20de%20Negocio.md) varían:
+- En función del Modelo y Plan de Negocio varían:
 - **Sostenibilidad ambiental** -> Gestión eficiente de recursos naturales en la actividad productiva, permitiendo su preservación para las necesidades futuras. 
 - **Sostenibilidad económica** -> Implica el uso de prácticas económicamente rentables que sean tanto social como ambientalmente responsables.
 - **Sostenibilidad social** -> Busca fortalecer la cohesión y estabilidad de las poblaciones y su desarrollo vital.

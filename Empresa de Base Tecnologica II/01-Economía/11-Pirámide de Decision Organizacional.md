@@ -1,6 +1,6 @@
 # Pirámide de Decisión Organizacional
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006084744.png)
+![](Pasted%20image%2020241006084744.png)
 
 
 > [!IMPORTANT] Nivel Superior o Estratégico

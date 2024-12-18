@@ -8,4 +8,4 @@
 - Su propósito es ayudar a las empresas a identificar las fuerzas que afectan la competencia y rentabilidad dentro de una industria, para desarrollar estrategias competitivas efectivas.
 - Aplicación: Se utiliza para analizar la industria antes de entrar en un nuevo mercado, evaluar la posición de una empresa dentro de su industria y formular estrategias para mejorar la posición competitiva.
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020240924230510.png)
+![](Pasted%20image%2020240924230510.png)

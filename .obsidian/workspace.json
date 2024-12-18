@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1217ee52f44026cb",
+        "id": "975a2ccb0a1c7bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "32c09e79ff94c3b0",
+            "id": "5660dbdd2a47bb6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingenieria de Software I/index.md",
+                "file": "Empresa de Base Tecnologica II/Empresa de Base Tecnológica II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Empresa de Base Tecnológica II"
             }
           }
         ]
@@ -166,34 +166,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c09e79ff94c3b0",
+  "active": "141924f75d28cc6e",
   "lastOpenFiles": [
+    "Empresa de Base Tecnologica II/02-Legal/22-Protección de Datos.md",
+    "Empresa de Base Tecnologica II/02-Legal/21-Sostenibilidad.md",
+    "Empresa de Base Tecnologica II/02-Legal/20-Propiedad Intelectual.md",
+    "Empresa de Base Tecnologica II/02-Legal/19-Empresas.md",
+    "Empresa de Base Tecnologica II/01-Economía/18-Plan de Negocios.md",
+    "Empresa de Base Tecnologica II/01-Economía/17-Startups.md",
+    "Empresa de Base Tecnologica II/01-Economía/16-Pitch Deck.md",
+    "Empresa de Base Tecnologica II/01-Economía/15-Decisiones de Gestión Financiera.md",
+    "Empresa de Base Tecnologica II/01-Economía/14-Lean Startup.md",
+    "Empresa de Base Tecnologica II/01-Economía/13-Modelo y Plan de Negocio.md",
+    "Empresa de Base Tecnologica II/01-Economía/12-Presupuestos.md",
+    "Empresa de Base Tecnologica II/01-Economía/11-Pirámide de Decision Organizacional.md",
+    "Empresa de Base Tecnologica II/01-Economía/10-Administración.md",
+    "Empresa de Base Tecnologica II/01-Economía/09-Ventaja Competitiva.md",
+    "Empresa de Base Tecnologica II/01-Economía/08-Ventaja Comparativa.md",
+    "Empresa de Base Tecnologica II/01-Economía/07-Comercio Internacional.md",
+    "Empresa de Base Tecnologica II/01-Economía/06-Contabilidad y Costos.md",
+    "Empresa de Base Tecnologica II/01-Economía/05-Innovación.md",
+    "Empresa de Base Tecnologica II/01-Economía/04-Matriz FODA.md",
+    "Empresa de Base Tecnologica II/01-Economía/03-Cruz de Porter.md",
+    "Empresa de Base Tecnologica II/01-Economía/02-Análisis PESTA.md",
+    "Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto.md",
+    "Ingenieria de Software I/index.md",
     "Ingenieria de Software I/19-Patrones de Diseño.md",
     "Ingenieria de Software I/18-Git.md",
     "Ingenieria de Software I/17-Docker.md",
-    "Ingenieria de Software I/16-Refactoring.md",
-    "Ingenieria de Software I/15-Kata.md",
-    "Ingenieria de Software I/14-REST-Security.md",
-    "Ingenieria de Software I/13-REST.md",
-    "Ingenieria de Software I/12-Patrones de Arquitectura.md",
-    "Ingenieria de Software I/11-Atributos de Calidad.md",
-    "Ingenieria de Software I/10-Modelo de Dominio.md",
-    "Ingenieria de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md",
-    "Ingenieria de Software I/08-UML.md",
-    "Ingenieria de Software I/07-Historias de Usuario.md",
-    "Ingenieria de Software I/06-Product Discovery.md",
-    "Ingenieria de Software I/05-Ceremonias SCRUM.md",
-    "Ingenieria de Software I/04-SOLID.md",
-    "Ingenieria de Software I/03-Diseño de Codigo.md",
-    "Ingenieria de Software I/02-Design Thinking.md",
-    "Ingenieria de Software I/01-Entendiendo el Problema.md",
-    "Ingenieria de Software I/index.md",
-    "Ingeniería de Software I/Repaso Final.md",
-    "Ingeniería de Software I/Product Discovery.md",
-    "Programacion Concurrente/06-Sincronizacion.md",
-    "Programacion Concurrente/03-Programacion Asincronica.md",
-    "Programacion Concurrente/02-Modelo Fork Join.md",
-    "Programacion Concurrente/15-Repaso de Redes.md",
     "Programacion Concurrente/img concu/Pasted image 20241218091230.png",
     "Programacion Concurrente/img concu/Pasted image 20241216090535.png",
     "Programacion Concurrente/img concu/Pasted image 20241029083807.png",

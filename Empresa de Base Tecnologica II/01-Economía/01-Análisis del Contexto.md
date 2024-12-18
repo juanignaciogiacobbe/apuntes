@@ -1,8 +1,8 @@
 # Análisis del Contexto
 
-- [02-Análisis PESTA](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/02-Análisis%20PESTA.md)
-- [03-Cruz de Porter](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/03-Cruz%20de%20Porter.md)
-- [04-Matriz FODA](Empresa%20de%20Base%20Tecnológica%20II/01-Economía/04-Matriz%20FODA.md)
+- [02-Análisis PESTA](02-Análisis%20PESTA.md)
+- [03-Cruz de Porter](03-Cruz%20de%20Porter.md)
+- [04-Matriz FODA](04-Matriz%20FODA.md)
 
 
 > [!IMPORTANT] Costo Hundido

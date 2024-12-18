@@ -1,3 +1,5 @@
+# Presupuestos
+
 > [!IMPORTANT] Presupuestos
 > Son el **cálculo, la planificación y la formulación anticipada de los ingresos y gastos de una actividad económica**. -> Es un **plan de acción** dirigido a cumplir con un objetivo previsto, expresado en términos financieros, el cual debe cumplirse en determinado tiempo y en ciertas condiciones.
 
@@ -21,12 +23,12 @@
 - Son los supuestos y/o variables que se asumen antes de elaborar un presupuesto:
 	- Nivel de producción estándar.
 	- Los costos de las horas de servicio.
-	- La [Inflación](Empresa%20de%20Base%20Tecnológica%20I/Inflación.md) estimada.
+	- La inflación estimada.
 	- El crecimiento del PBI.
 	- El tipo de cambio y la tasa de interés proyectada.
 ## Proceso de Presupuestación
 
-![](Empresa%20de%20Base%20Tecnológica%20II/img%20ebt2/Pasted%20image%2020241006185318.png)
+![](Pasted%20image%2020241006185318.png)
 
 
 > [!IMPORTANT] Presupuesto Económico
