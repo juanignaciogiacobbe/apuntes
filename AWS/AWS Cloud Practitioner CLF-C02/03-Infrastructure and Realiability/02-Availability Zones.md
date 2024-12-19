@@ -1,3 +1,4 @@
+# Availability Zones
 
 > [!IMPORTANT] Availability Zones
 > - Single data center or a group of data centers within a Region. -> Collection of data centers.

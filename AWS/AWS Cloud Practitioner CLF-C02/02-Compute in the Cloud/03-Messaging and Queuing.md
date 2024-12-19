@@ -1,3 +1,4 @@
+# Messaging and Queuing
 
 > [!IMPORTANT] Messaging and Queuing
 > **Applications are made of multiple components. The components comunicate with each other** to transmit data, fulfill requests, and keep the application running.

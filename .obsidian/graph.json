@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:\"Programación Concurrente\"  ",
+      "query": "path:\"Programacion Concurrente\"  ",
       "color": {
         "a": 1,
         "rgb": 6097531
       }
     },
     {
-      "query": "path:\"Empresa de Base Tecnológica II\"  ",
+      "query": "path:\"Empresa de Base Tecnologica II\"  ",
       "color": {
         "a": 1,
         "rgb": 16749076
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"Ingeniería de Software I\"  ",
+      "query": "path:\"Ingenieria de Software I\"  ",
       "color": {
         "a": 1,
         "rgb": 4536575
@@ -76,13 +76,6 @@
         "a": 1,
         "rgb": 4010145
       }
-    },
-    {
-      "query": "file:hola",
-      "color": {
-        "a": 1,
-        "rgb": 16711816
-      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15331807481029863,
+  "scale": 0.22997711221544784,
   "close": true
 }
