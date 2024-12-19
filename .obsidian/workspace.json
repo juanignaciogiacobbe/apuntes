@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "51cf3dbe0c7aec84",
+        "id": "18fc823215c6e9cf",
         "type": "tabs",
         "children": [
           {
-            "id": "8ced091f2a2d254c",
+            "id": "97a2318d876089d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AWS Cloud Practitioner CLF-C02"
             }
           }
         ]
@@ -162,10 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ced091f2a2d254c",
+  "active": "97a2318d876089d7",
   "lastOpenFiles": [
+    "AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing.md",
+    "AWS/Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+    "AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/02-Advantages of Cloud Computing.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/06-Database Migration Service DMS.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/04-AWS Data Pipeline Features.md",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/08-AWS Data Sync.md",
+    "Base de Datos/Diseño Relacional.md",
+    "Base de Datos/Álgebra Relacional.md",
+    "Base de Datos/01-Introducción a las Bases de Datos.md",
+    "Base de Datos/Modelo Lógico Relacional.md",
+    "Base de Datos/Algebra Relacional.md",
+    "Base de Datos/03-Diseño Conceptual de Bases de Datos.md",
+    "Base de Datos/02-Database Management System(DBMS).md",
+    "Base de Datos/img/Pasted image 20241218160503.png",
+    "Base de Datos/index.md",
+    "Empresa de Base Tecnologica II/index.md",
+    "Empresa de Base Tecnologica II/01-Economía/07-Comercio Internacional.md",
+    "Sistemas Operativos/Sistemas Operativos.md",
     "Ingenieria de Software I/index.md",
-    "Empresa de Base Tecnologica II/Empresa de Base Tecnológica II.md",
     "Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto.md",
     "Programacion Concurrente/01-Introduccion.md",
     "Empresa de Base Tecnologica II/01-Economía/02-Análisis PESTA.md",
@@ -174,22 +195,6 @@
     "Empresa de Base Tecnologica II/02-Legal/20-Propiedad Intelectual.md",
     "Empresa de Base Tecnologica II/02-Legal/19-Empresas.md",
     "Empresa de Base Tecnologica II/01-Economía/18-Plan de Negocios.md",
-    "Empresa de Base Tecnologica II/01-Economía/17-Startups.md",
-    "Empresa de Base Tecnologica II/01-Economía/16-Pitch Deck.md",
-    "Empresa de Base Tecnologica II/01-Economía/15-Decisiones de Gestión Financiera.md",
-    "Empresa de Base Tecnologica II/01-Economía/14-Lean Startup.md",
-    "Empresa de Base Tecnologica II/01-Economía/13-Modelo y Plan de Negocio.md",
-    "Empresa de Base Tecnologica II/01-Economía/12-Presupuestos.md",
-    "Empresa de Base Tecnologica II/01-Economía/11-Pirámide de Decision Organizacional.md",
-    "Empresa de Base Tecnologica II/01-Economía/10-Administración.md",
-    "Empresa de Base Tecnologica II/01-Economía/09-Ventaja Competitiva.md",
-    "Empresa de Base Tecnologica II/01-Economía/08-Ventaja Comparativa.md",
-    "Empresa de Base Tecnologica II/01-Economía/07-Comercio Internacional.md",
-    "Empresa de Base Tecnologica II/01-Economía/06-Contabilidad y Costos.md",
-    "Empresa de Base Tecnologica II/01-Economía/05-Innovación.md",
-    "Empresa de Base Tecnologica II/01-Economía/04-Matriz FODA.md",
-    "Empresa de Base Tecnologica II/01-Economía/03-Cruz de Porter.md",
-    "Ingenieria de Software I/19-Patrones de Diseño.md",
     "Programacion Concurrente/img concu/Pasted image 20241218091230.png",
     "Programacion Concurrente/img concu/Pasted image 20241216090535.png",
     "Programacion Concurrente/img concu/Pasted image 20241029083807.png",
@@ -199,7 +204,6 @@
     "Programacion Concurrente/img concu/Pasted image 20241004162414.png",
     "Programacion Concurrente/img concu/Pasted image 20241004163711.png",
     "Programacion Concurrente/img concu/Pasted image 20241209144800.png",
-    "Programacion Concurrente/img concu/Pasted image 20241209145440.png",
     "EC2)](AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud",
     "EC2)](AWS/Cloud Practitioner CLF-C02",
     "EC2)](AWS",
