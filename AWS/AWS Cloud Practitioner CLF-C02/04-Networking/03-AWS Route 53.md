@@ -1,3 +1,4 @@
+# AWS Route 53
 
 > [!IMPORTANT] Domain Name System(DNS)
 > - Translates the human friendly hostnames into the machine IP addresses.
