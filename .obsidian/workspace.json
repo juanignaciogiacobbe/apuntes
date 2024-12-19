@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+                "file": "Empresa de Base Tecnologica II/01-Economía/14-Lean Startup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Cloud Practitioner CLF-C02"
+              "title": "14-Lean Startup"
             }
           }
         ]
@@ -168,8 +168,10 @@
   },
   "active": "cfbf3ccc874ba005",
   "lastOpenFiles": [
-    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
+    "Empresa de Base Tecnologica II/index.md",
+    "Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto.md",
     "AWS/AWS Cloud Practitioner CLF-C02/AWS Cloud Practitioner CLF-C02.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/AWS Solutions Architect SAA-C03.md",
     "AWS/AWS Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing.md",
     "Programacion Concurrente/06-Sincronizacion.md",
     "Programacion Concurrente/03-Programacion Asincronica.md",
@@ -192,8 +194,6 @@
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/06-Database Migration Service DMS.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/04-AWS Data Pipeline Features.md",
     "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/08-AWS Data Sync.md",
-    "Base de Datos/Diseño Relacional.md",
-    "Base de Datos/Álgebra Relacional.md",
     "Base de Datos/img/Pasted image 20241218160503.png",
     "Programacion Concurrente/img concu/Pasted image 20241218091230.png",
     "Programacion Concurrente/img concu/Pasted image 20241216090535.png",
