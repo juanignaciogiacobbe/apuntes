@@ -16,3 +16,17 @@
 - El usuario contrata al servicio, y linkea su cuenta de AWS a Cloud Security Buddy(otorga permisos necesarios)
 - Este va a monitorear la infraestructura y va a ayudar al usuario con recomendaciones de seguridad.
 - Por último, se encarga de desplegar la infraestructura de manera automatizada.
+
+
+
+---
+
+
+## Proceso principal de CSB
+
+### Relevamiento de infraestructura
+1. necesito una entidad que se encargue de leer los permisos sobre aws generados por el cliente, y que comience a extraer data de ahi(por ejemplo, que sea capaz de traernos datos de cloudtrail). -> EXTRACT
+2. los datos traidos de esta entidad debe estar estandarizada(tiene que estar organizada) para futuro relevamiento.
+3. Necesito otra entidad que entienda estos datos traidos por la anterior, y de esta forma generar el relevamiento(y estadisticas) y poder comparar contra el modelo de madurez. -> COMPARE
+4. Generacion de recomendaciones para la infra -> El cliente decide que quiere agregar, editar o borrar -> RECOMMEND
+5. Realizamos los cambios (otra entidad) -> DEPLOY
