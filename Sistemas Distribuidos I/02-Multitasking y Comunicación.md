@@ -1,24 +1,28 @@
-# Multithreading y Multiprocessing
+# Multitasking y Comunicación
+muchos programas a la vez en ejecucion
+la idea es elegir el modelo que corresponda*(hay ventajas y desventajas en cada caso)
+
+
 
 ## Multithreading
 - Recursos compartidos:
 	- Heap.
 	- Data Segment.
 	- File Descriptors.
-	- Code Segment(read-only).
+	- Code Segment(read-only). -> Se levanta y corre el mismo programa.
 - Sincronización:
 	- Soporte threading del SO(pthread-mutex, etc).
 	- Soporte threading del runtime(threads Java, .NET, etc.).
-	- Inter Process Communication(IPC).
+	- Inter Process Communication(IPC). 
 - Características clave:
 	- Sencillo compartir información entre threads.
 	- Alto acoplamiento entre componentes del sistema.
 	- Escasa estabilidad -> 1 thread defectuoso afecta a todo el sistema.
-	- Escalabilidad muy limitada.
+	- Escalabilidad muy limitada. La memoria es unica, el procesador es unico, y no le puedo dar mas potencia a menos que frene todo y mejore la compu
 
 ## Multiprocessing
 - Recursos compartidos:
-	- Code Segment(read-only).
+	- Code Segment(read-only). -> Cada proceso tiene su propia memoria.
 - Sincronización:
 	- Inter Process Communication(IPC).
 		- Signals
@@ -33,7 +37,10 @@
 	- Componentes separados, en general simples.
 	- Más escalable y más estable que multithreading.
 	- Sin tolerancia a fallos de hardware, sistema operativo, etc.
+	- Los problemas los tiene el proceso consigo mismo(No comparte nada con nadie). Se gana performance(Paralelismo).
 
+
+![[Sistemas Distribuidos I/img/Pasted image 20250313195631.png]]
 
 ---
 ## Propiedades de Sistemas Distribuidos
@@ -122,3 +129,4 @@
 - Buffer size definido durante la creación.
 
 ![[Sistemas Distribuidos I/img/Pasted image 20250313182115.png]]
+
