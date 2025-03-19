@@ -28,6 +28,8 @@ jobs:
         rsync -a --delete ./Programacion\ Concurrente ./public-repo/docs/
         rsync -a --delete ./Ingenieria\ de\ Software\ I ./public-repo/docs/
         rsync -a --delete ./Empresa\ de\ Base\ Tecnologica\ II ./public-repo/docs/
+        rsync -a --delete ./Sistemas\ Distribuidos\ I ./public-repo/docs/
+
 
         rsync -a --delete ./Sistemas\ Operativos ./public-repo/docs/
 

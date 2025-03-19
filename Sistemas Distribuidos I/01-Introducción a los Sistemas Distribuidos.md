@@ -35,7 +35,7 @@
 - Interconectadas por una red -> Sistemas aislados no son distribuidos.
 - Comunican y coordinan acciones -> Colaborativos.
 - Intercambiando mensajes -> Protocolo de comunicación.
-- Fallo de un computador -> Nuevos problemas no determinísticos. Hay que cosas que fallan que no vamos a poder intuir de forma determinística(hasta ahora, si me apagan la PC, el sistema no anda. A partir de ahora, el programa no deja de ejecutarse porque está corriendo en muchas otras PCs. Hay muchos procesos en juego(qué pasa si un proceso muere?))
+- Fallo de un computador -> Nuevos problemas no determinísticos. Hay que cosas que fallan que no vamos a poder intuir de forma determinística(hasta ahora, si me apagan la PC, el sistema no anda. A partir de ahora, el programa no deja de ejecutarse porque está corriendo en muchas otras PCs. Hay muchos procesos en juego(¿qué pasa si un proceso muere?))
 
 
 ---

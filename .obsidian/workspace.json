@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adf2f88703022a11",
+            "id": "c37c4ffc7210111e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Distribuidos I/03-.md",
+                "file": "Sistemas Distribuidos I/02-Multitasking y Comunicación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-"
+              "title": "02-Multitasking y Comunicación"
             }
           }
         ]
@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md"
+                "file": "Sistemas Distribuidos I/02-Multitasking y Comunicación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09-Modelo de Vistas de Arquitectura 4 + 1"
+              "title": "Outline of 02-Multitasking y Comunicación"
             }
           }
         ],
@@ -151,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,37 +170,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf2f88703022a11",
+  "active": "c37c4ffc7210111e",
   "lastOpenFiles": [
-    "Sistemas Distribuidos I/Pasted image 20250318220000.png",
-    "Sistemas Distribuidos I/Pasted image 20250318215834.png",
-    "Programacion Concurrente/07-Canales.md",
-    "Programacion Concurrente/06-Sincronizacion.md",
-    "Programacion Concurrente/03-Programacion Asincronica.md",
-    "Programacion Concurrente/04-Correccion.md",
-    "Programacion Concurrente/05-Locks.md",
     "Sistemas Distribuidos I/03-.md",
-    "Sistemas Distribuidos I/Pasted image 20250318200442.png",
+    "Sistemas Distribuidos I/02-Multitasking y Comunicación.md",
+    "Sistemas Distribuidos I/03-Paralelización de Tareas.md",
     "Sistemas Distribuidos I/Pasted image 20250318200210.png",
     "Sistemas Distribuidos I/Pasted image 20250318200127.png",
     "Sistemas Distribuidos I/index.md",
-    "Sistemas Distribuidos I/02-Multitasking y Comunicación.md",
-    "Gestión del Desarrollo de Sistemas Informáticos/01-Productos, Proyectos, Procesos.md",
-    "Gestión del Desarrollo de Sistemas Informáticos/gestion.zip",
-    "Ingenieria de Software II/01-Introducción a Backend.md",
-    "Ingenieria de Software II/img/Pasted image 20250317123353.png",
-    "Ingenieria de Software II/img/Pasted image 20250317122614.png",
-    "Ingenieria de Software II/img/Pasted image 20250317122243.png",
-    "Ingenieria de Software II/img/Pasted image 20250317122227.png",
-    "Ingenieria de Software II/img",
-    "Ingenieria de Software II/img/Pasted image 20250317121236.png",
+    "Sistemas Distribuidos I/Pasted image 20250318215834.png",
+    "Sistemas Distribuidos I/Pasted image 20250318220000.png",
+    "Sistemas Distribuidos I/img/Pasted image 20250319091553.png",
+    "Sistemas Distribuidos I/img/Pasted image 20250319091343.png",
+    "Sistemas Distribuidos I/01-Introducción a los Sistemas Distribuidos.md",
+    "Sistemas Distribuidos I/img/Pasted image 20250318200442.png",
+    "Sistemas Distribuidos I/img/Pasted image 20250319085652.png",
+    "Sistemas Distribuidos I/img/Pasted image 20250319085640.png",
+    "Sistemas Distribuidos I/img/Pasted image 20250319083949.png",
+    "Sistemas Distribuidos I/02-Multithreading y Multiprocesing.md",
     "Ingenieria de Software II/index.md",
+    "Ingenieria de Software II/img",
+    "Ingenieria de Software II/01-Introducción a Backend.md",
     "Ingenieria de Software II",
     "Gestión del Desarrollo de Sistemas Informáticos/index.md",
-    "Gestión del Desarrollo de Sistemas Informáticos/img/Pasted image 20250317081911.png",
     "Gestión del Desarrollo de Sistemas Informáticos/img",
+    "Gestión del Desarrollo de Sistemas Informáticos/01-Productos, Proyectos, Procesos.md",
     "Gestión del Desarrollo de Sistemas Informáticos",
-    "Sistemas Distribuidos I/01-Introducción a los Sistemas Distribuidos.md",
     "Sistemas Distribuidos I/img",
     "Sistemas Distribuidos I",
     "AWS/Security/Amazon Detective.md",
@@ -214,7 +212,11 @@
     "AWS/02-EC2/04-Elastic Load Balancing(ELB).md",
     "AWS/AWS Cloud Practitioner CLF-C02/02-Compute in the Cloud/02-Elastic Load Balancing ELB.md",
     "AWS/02-EC2/02-AMI.md",
+    "AWS/02-EC2/03-EBS.md",
+    "AWS/02-EC2/01-Amazon Elastic Compute Cloud EC2.md",
+    "AWS/AWS Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md",
     "AWS/02-EC2",
+    "AWS/01-Introduction to AWS",
     "Ingeniería de Software I/Untitled.canvas",
     "hola.canvas",
     "MongoDB/Untitled.canvas"

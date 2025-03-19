@@ -1,8 +1,7 @@
 # Multitasking y Comunicación
-muchos programas a la vez en ejecucion
-la idea es elegir el modelo que corresponda*(hay ventajas y desventajas en cada caso)
+- Se tienen muchos programas a la vez en ejecución. -> La idea es elegir el modelo que corresponda(hay ventajas y desventajas en cada caso).
 
-
+![[Sistemas Distribuidos I/img/Pasted image 20250319081006.png]]
 
 ## Multithreading
 - Recursos compartidos:
@@ -18,8 +17,9 @@ la idea es elegir el modelo que corresponda*(hay ventajas y desventajas en cada 
 	- Sencillo compartir información entre threads.
 	- Alto acoplamiento entre componentes del sistema.
 	- Escasa estabilidad -> 1 thread defectuoso afecta a todo el sistema.
-	- Escalabilidad muy limitada. La memoria es unica, el procesador es unico, y no le puedo dar mas potencia a menos que frene todo y mejore la compu
+	- Escalabilidad muy limitada. -> La memoria es única, el procesador es único, y no le puedo dar más potencia a menos que frene todo y mejore la computadora.
 
+---
 ## Multiprocessing
 - Recursos compartidos:
 	- Code Segment(read-only). -> Cada proceso tiene su propia memoria.
@@ -37,10 +37,44 @@ la idea es elegir el modelo que corresponda*(hay ventajas y desventajas en cada 
 	- Componentes separados, en general simples.
 	- Más escalable y más estable que multithreading.
 	- Sin tolerancia a fallos de hardware, sistema operativo, etc.
-	- Los problemas los tiene el proceso consigo mismo(No comparte nada con nadie). Se gana performance(Paralelismo).
+	- Los problemas los tiene el proceso consigo mismo(No comparte nada con nadie). Se gana performance([[Sistemas Distribuidos I/03-Paralelización de Tareas|Paralelismo]]).
+
+---
+## Multicomputing
+- Recursos compartidos:
+	- Ninguno.
+- Sincronización:
+	- Mensajes Ad-Hoc entre Computadoras -> Necesidad de implementar mecanismos de sincronización. Se comparten menos recursos pero hay más necesidad de sincronización.
+- Características clave:
+	- Comunicación de Red -> Problemas por limitaciones de ancho de banda, latencia y pérdida de mensajes.
+	- Comunicación entre procesos compleja y central al diseño del sistema.
+	- Alta escalabilidad y tolerantes a fallos.
 
 
-![[Sistemas Distribuidos I/img/Pasted image 20250313195631.png]]
+### Taxonomía de Flynn
+- Clasificación de sistemas de acuerdo a la cardinalidad de flujos de instrucciones(procesadores) y flujos de datos(memoria).
+	- **SISD**(Single Instruction, Single Data): Modelo estándar de un procesador sin paralelismo.
+	- **SIMD**(Single Instruction, Multiple Data): Array processors. Ejemplo: GPU.
+	- **MISD**(Multiple Instruction, Single Data): No son usuales(procesar múltiples veces los mismos datos de forma determinística retorna el mismo resultado).
+	- **MIMD**(Multiple Instruction, Multiple Data): Se divide en dos modelos
+		- Multiprocessors(?): Con memoria y/o clock compartidos.
+		- Multicomputers: Sin memoria ni clock compartidos.
+		![[Sistemas Distribuidos I/img/Pasted image 20250319091343.png]]
+
+
+#### MIMD: UMA vs NUMA
+- Colisión entre procesadores para acceder a la memoria. Los procesadores se conectan mediante un bridge.
+- Uniform Memory Access(UMA)
+	- Tiempo de acceso a la memoria es idéntico para todos los procesadores(Parecido a la caché).
+- Non Uniform Memory Access(NUMA)
+	- Ideado en SGI, ahora presente en Linux Kernel y MS Servers.
+	- Cada CPU controla un bloque de memoria y se transforma en su "home agent".
+	![[Sistemas Distribuidos I/img/Pasted image 20250319091553.png]]
+	- Cada computadora tiene su propia memoria local.
+	- Cada computadora puede fallar de forma independiente.
+	- No poseen un reloj central de ejecución de instrucciones.
+	- Requieren comunicación entre computadoras(necesidad de implementar mecanismos de sincronización):
+		- Networking: LAN, MAN, WAN
 
 ---
 ## Propiedades de Sistemas Distribuidos
@@ -60,10 +94,10 @@ la idea es elegir el modelo que corresponda*(hay ventajas y desventajas en cada 
 | Condiciones lógicas simples para asegurar el cumplimiento de cierta Critical Section. | Permite construir mecanismos compuestos por combinaciones de las mismas. |
 
 ### Basados en Algoritmos
-- Busy-Waiting: Responsable de la mayoría de los problemas de performance en sistemas concurrentes.
-- Spin-Lock: Caso más simple de Busy-Wait(`while(flag)`).
-- Algoritmos de Espera: Dekker, Lamport(del panadero), Peterson, etc.
-- Operaciones Atómicas: Mecanismos provistos por un lenguaje para actualizar variables/objetos sin utilizar mecanismos de sincronización
+- **Busy-Waiting**: Responsable de la mayoría de los problemas de performance en sistemas concurrentes.
+- **Spin-Lock**: Caso más simple de Busy-Wait(`while(flag)`).
+- **Algoritmos de Espera**: Dekker, Lamport(del panadero), Peterson, etc.
+- **Operaciones Atómicas:** Mecanismos provistos por un lenguaje para actualizar variables/objetos sin utilizar mecanismos de sincronización
 	- Contadores atómicos de tipos POD(int, char, double, etc.).
 	- CAS(Compare and Swap): Operación por excelencia para actualizar contenedores forma segura en ambientes multithreading.
 
